@@ -133,6 +133,8 @@ pUSDC | 0xe85631B817923487ba40263144eEfF532Cff10a2 | USDC mapping asset in Heco
 pUSDT|  0xA7d1aAc3c9bf61559c25f94132a9f801E8B5F97E | USDT mapping asset in Heco
 psUSD | 0x002E47D940dfd177dc0Fe78321E17EF84676985D | sUSD mapping asset in Heco
 SHARE | 0x41198c6736d23734E6d17a6F0B4f2D15d2621A3a | SHARE asset in Heco
+PFLM | 0xa0e910ce120d6220ceb3ad0000dbb4843eb912f5 | FLM asset in Heco
+
 
 
 ## Note 
