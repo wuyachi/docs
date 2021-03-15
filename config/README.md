@@ -98,6 +98,8 @@ FLM | B: 0x4d9eab13620fe3569ba3b0e56e2877739e4145e3 </br> L: e345419e7377286ee5b
 pxWETH | B: 0xb75022ea4846a10b31e3b14e1dec15672638ed0f </br> L: 0fed38266715ec1d4eb1e3310ba14648ea2250b7 | pxWETH
 pxWBTC | B: 0x0f6b073b80e6384d691b7cf1cb8649582fbd7d10 </br> L: 107dbd2f584986cbf17c1b694d38e6803b076b0f | pxWBTC
 pxUSDT | B: 0x962c16f9b8d031d8bf818f8d5e6d229f1d032d35 </br> L: 352d031d9f226d5e8d8f81bfd831d0b8f9162c96 | pxUSDT
+SWTH | B: 0x3e09e602eeeb401a2fec8e8ea137d59aae54a139 </br> L: 39a154ae9ad537a18e8eec2f1a40ebee02e6093e | SWTH
+
 
 ## Binance Smart Chain
 Type | Contract Hash | Desc
