@@ -65,6 +65,7 @@ xUSDT  | 0xa93727e8661d4f82cfd50f7d8fd3f38ec8493b84  | xUSDT
 Type | Contract Hash | Desc
 ---|---|---
 Lock Proxy | B: 86b4ab5d99037113867247a1e68f70e348c07597 </br> L: 9775c048e3708fe6a1477286137103995dabb486 | ONT with 9 decimal contract hash 
+Poly Wrapper | B: c93837e82178d406af8c84e1841c6960af251cb5 </br> L: b51c25af60691c84e1848caf06d47821e83738c9 | lock entrance for auto cross chain tx with fee 
 pUSDC | B: 061a07cd393aac289b8ecfda2c3784b637a2fb33 </br> L: 33fba237b684372cdacf8e9b28ac3a39cd071a06 | Ontology wrapped USDT (Ethereum) Cross Chain asset contract hash
 pWBTC | B: 8037dd7161401417d3571b92b86846d34309129a </br> L: 9a120943d34668b8921b57d31714406171dd3780 | Ontology wrapped WBTC (Ethereum) Cross Chain asset contract hash
 pDAI | B: 7b956c0c11fcffb9c9227ca1925ba4c3486b36f1 </br> L: f1366b48c3a45b92a17c22c9b9fffc110c6c957b | Ontology wrapped DAI (Ethereum) Cross Chain asset contract hash
