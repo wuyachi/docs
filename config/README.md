@@ -141,6 +141,7 @@ HMDX | 0xaee4164c1ee46ed0bbc34790f1a3d1fc87796668 | MDX mapping asset in BSC
 REVO | 0x155040625d7ae3e9cada9a73e3e44f76d3ed1409 | REVO mapping asset in BSC
 BLES | 0x393d87e44c7b1f5ba521b351532c24ece253b849 | BLES mapping asset in BSC
 CVT | 0xD27547A4e3bA5FBc8ac6C2477151aB8E17e4D341 | CVT mapping asset in BSC
+bFLUX | 0x1ab6478b47270ff05af11a012ac17b098758e193 | FLUX mapping asset in BSC
 
 
 ## Huobi Eco Chain(HECO)
