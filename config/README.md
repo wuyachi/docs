@@ -54,6 +54,7 @@ aDAI   | 0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d | aDAI
 aETH    | 0x3a3A65aAb0dd2A17E3F1947bA16138cd37d08c04 | aETH   
 KEL    | 0x4abb9cc67bd3da9eb966d1159a71a0e68bd15432 | KEL   
 SHIB    | 95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce | SHIB   
+CC    | 0xb7fbFf4Ce5200215c690cc95855e5d6C5236Ee9f | CC   
 
 
 ## Ethereum: nrenBTC/nsBTC/nTUSD/nUSDC/nwBTC/nwETH/nDAI
@@ -144,6 +145,7 @@ CVT | 0xD27547A4e3bA5FBc8ac6C2477151aB8E17e4D341 | CVT mapping asset in BSC
 bFLUX | 0x1ab6478b47270ff05af11a012ac17b098758e193 | FLUX mapping asset in BSC
 KEL | 0x4e1b16Ef22935A575a6811D4616f98C4077E4408 | KEL mapping asset in BSC
 ISM | 0xcc6133136a75d464110f4305e3be0555e1daac3f | ISM mapping asset in BSC
+CC    | 0xb7fbFf4Ce5200215c690cc95855e5d6C5236Ee9f | CC mapping asset in BSC
 
 
 ## Huobi Eco Chain(HECO)
@@ -175,7 +177,7 @@ hcETH   | 0x839d680F0E1033A5548D9A8093644384Ea5C33da | hcETH  asset in Heco
 haDAI  | 0x69097F031dE95fb02bC023CB9Fa98E0E633f28a8 | haDAI   asset in Heco
 SHIB  | 0xc38072aa3f8e049de541223a9c9772132bb48634 | SHIB   asset in Heco
 ISM  | 0x348ccc5a616abae8a639457fc469917b03d938c3 | ISM   asset in Heco
-
+CC    | 0xb7fbFf4Ce5200215c690cc95855e5d6C5236Ee9f | CC mapping asset in HECO
 
 
 ## Note 
