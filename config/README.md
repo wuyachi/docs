@@ -148,6 +148,7 @@ KEL | 0x4e1b16Ef22935A575a6811D4616f98C4077E4408 | KEL mapping asset in BSC
 ISM | 0xcc6133136a75d464110f4305e3be0555e1daac3f | ISM mapping asset in BSC
 CC  | 0xb7fbFf4Ce5200215c690cc95855e5d6C5236Ee9f | CC mapping asset in BSC
 STACK | 0x6855f7bb6287F94ddcC8915E37e73a3c9fEe5CF3 | STACK mapping asset in BSC 
+BUSD | 0xe9e7cea3dedca5984780bafc599bd69add087d56 | BUSD
 
 
 ## Huobi Eco Chain(HECO)
@@ -180,6 +181,15 @@ haDAI  | 0x69097F031dE95fb02bC023CB9Fa98E0E633f28a8 | haDAI   asset in Heco
 SHIB  | 0xc38072aa3f8e049de541223a9c9772132bb48634 | SHIB   asset in Heco
 ISM  | 0x348ccc5a616abae8a639457fc469917b03d938c3 | ISM   asset in Heco
 CC    | 0xb7fbFf4Ce5200215c690cc95855e5d6C5236Ee9f | CC mapping asset in HECO
+HUSD    | 0x0298c2b32eae4da002a15f36fdf7615bea3da047 | HUSD
+
+
+## Curve
+USDT    | 0x061a87Aac7695b9cf9482043175fd3bE3374AB66 | USDT mapping asset in Curve
+BUSD    | 0xBFC0457548BB90D54123a71a7310BaDa8f4662c0 | BUSD mapping asset in Curve
+HUSD    | 0x0926B2DB9D053E0022419093CCd57b92301fB736 | HUSD mapping asset in Curve
+
+
 
 
 ## Note 
