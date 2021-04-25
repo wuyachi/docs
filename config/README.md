@@ -185,6 +185,8 @@ HUSD    | 0x0298c2b32eae4da002a15f36fdf7615bea3da047 | HUSD
 
 
 ## Curve
+Type | Contract Hash | Desc
+---|---|---
 USDT    | 0x061a87Aac7695b9cf9482043175fd3bE3374AB66 | USDT mapping asset in Curve
 BUSD    | 0xBFC0457548BB90D54123a71a7310BaDa8f4662c0 | BUSD mapping asset in Curve
 HUSD    | 0x0926B2DB9D053E0022419093CCd57b92301fB736 | HUSD mapping asset in Curve
