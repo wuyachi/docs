@@ -56,6 +56,7 @@ KEL    | 0x4abb9cc67bd3da9eb966d1159a71a0e68bd15432 | KEL
 SHIB    | 95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce | SHIB   
 CC    | 0xb7fbFf4Ce5200215c690cc95855e5d6C5236Ee9f | CC   
 STACK    | 0x56a86d648c435dc707c8405b78e2ae8eb4e60ba4 | STACK   
+SOFA    | 0xe29d80fcaadf1cc9f179d4c9759b2f5a0f5936dd | SOFA   
 
 
 ## Ethereum: nrenBTC/nsBTC/nTUSD/nUSDC/nwBTC/nwETH/nDAI
@@ -149,6 +150,7 @@ ISM | 0xcc6133136a75d464110f4305e3be0555e1daac3f | ISM mapping asset in BSC
 CC  | 0xb7fbFf4Ce5200215c690cc95855e5d6C5236Ee9f | CC mapping asset in BSC
 STACK | 0x6855f7bb6287F94ddcC8915E37e73a3c9fEe5CF3 | STACK mapping asset in BSC 
 BUSD | 0xe9e7cea3dedca5984780bafc599bd69add087d56 | BUSD
+SOFA | 0xab4ab24a9eb4afe24d6209bb3ecfc381319e33d1 | SOFA mapping asset in BSC 
 
 
 ## Huobi Eco Chain(HECO)
@@ -182,6 +184,7 @@ SHIB  | 0xc38072aa3f8e049de541223a9c9772132bb48634 | SHIB   asset in Heco
 ISM  | 0x348ccc5a616abae8a639457fc469917b03d938c3 | ISM   asset in Heco
 CC    | 0xb7fbFf4Ce5200215c690cc95855e5d6C5236Ee9f | CC mapping asset in HECO
 HUSD    | 0x0298c2b32eae4da002a15f36fdf7615bea3da047 | HUSD
+SOFA    | 0x8cce7b6dbff23ef744b12a462ec275272dee5e83 | SOFA
 
 
 ## Curve
