@@ -60,6 +60,7 @@ SHIB    | 95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce | SHIB
 CC    | 0xb7fbFf4Ce5200215c690cc95855e5d6C5236Ee9f | CC   
 STACK    | 0x56a86d648c435dc707c8405b78e2ae8eb4e60ba4 | STACK   
 SOFA    | 0xe29d80fcaadf1cc9f179d4c9759b2f5a0f5936dd | SOFA   
+BBANK    | 0xf4b5470523ccd314c6b9da041076e7d79e0df267 | BBANK   
 
 
 ## Ethereum: nrenBTC/nsBTC/nTUSD/nUSDC/nwBTC/nwETH/nDAI
@@ -157,6 +158,7 @@ CC  | 0xb7fbFf4Ce5200215c690cc95855e5d6C5236Ee9f | CC mapping asset in BSC
 STACK | 0x6855f7bb6287F94ddcC8915E37e73a3c9fEe5CF3 | STACK mapping asset in BSC 
 BUSD | 0xe9e7cea3dedca5984780bafc599bd69add087d56 | BUSD
 SOFA | 0xab4ab24a9eb4afe24d6209bb3ecfc381319e33d1 | SOFA mapping asset in BSC 
+BBANK | 0xf4b5470523ccd314c6b9da041076e7d79e0df267 | BBANK mapping asset in BSC 
 
 
 
