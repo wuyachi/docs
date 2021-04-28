@@ -61,6 +61,7 @@ CC    | 0xb7fbFf4Ce5200215c690cc95855e5d6C5236Ee9f | CC
 STACK    | 0x56a86d648c435dc707c8405b78e2ae8eb4e60ba4 | STACK   
 SOFA    | 0xe29d80fcaadf1cc9f179d4c9759b2f5a0f5936dd | SOFA   
 BBANK    | 0xf4b5470523ccd314c6b9da041076e7d79e0df267 | BBANK   
+PLUT    | 0x44e288b2484e5a5297cf7193bf36690ea6801f95 | PLUT   
 
 
 ## Ethereum: nrenBTC/nsBTC/nTUSD/nUSDC/nwBTC/nwETH/nDAI
@@ -159,6 +160,7 @@ STACK | 0x6855f7bb6287F94ddcC8915E37e73a3c9fEe5CF3 | STACK mapping asset in BSC
 BUSD | 0xe9e7cea3dedca5984780bafc599bd69add087d56 | BUSD
 SOFA | 0xab4ab24a9eb4afe24d6209bb3ecfc381319e33d1 | SOFA mapping asset in BSC 
 BBANK | 0xf4b5470523ccd314c6b9da041076e7d79e0df267 | BBANK mapping asset in BSC 
+PLUT | 0xFa502E90F5D76F92Fb3ab86E8c329bED15dc2bD9 | PLUT mapping asset in BSC 
 
 
 
@@ -197,6 +199,7 @@ ISM  | 0x348ccc5a616abae8a639457fc469917b03d938c3 | ISM   asset in Heco
 CC    | 0xb7fbFf4Ce5200215c690cc95855e5d6C5236Ee9f | CC mapping asset in HECO
 HUSD    | 0x0298c2b32eae4da002a15f36fdf7615bea3da047 | HUSD
 SOFA    | 0x8cce7b6dbff23ef744b12a462ec275272dee5e83 | SOFA
+PLUT    | 0xC6d194E7fb72c7b1b7b1D5199468fA7be1E1cA1c | FLUT mapping asset in HECO
 
 
 ## Curve
