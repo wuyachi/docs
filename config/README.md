@@ -203,6 +203,7 @@ CC    | 0xb7fbFf4Ce5200215c690cc95855e5d6C5236Ee9f | CC mapping asset in HECO
 HUSD    | 0x0298c2b32eae4da002a15f36fdf7615bea3da047 | HUSD
 SOFA    | 0x8cce7b6dbff23ef744b12a462ec275272dee5e83 | SOFA
 PLUT    | 0xC6d194E7fb72c7b1b7b1D5199468fA7be1E1cA1c | FLUT mapping asset in HECO
+LEV    | 0xbc194e6f748a222754C3E8b9946922c09E7d4e91 | LEV mapping asset in HECO
 
 
 ## Curve
