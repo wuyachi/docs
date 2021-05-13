@@ -66,6 +66,7 @@ LEV    | 0xbc194e6f748a222754C3E8b9946922c09E7d4e91 | LEV
 TAP    | 0x7f1f2d3dfa99678675ece1c243d3f7bc3746db5d | TAP   
 KISHU    | 0xa2b4c0af19cc16a6cfacce81f192b024d625817d | KISHU   
 O3    | 0xee9801669c6138e84bd50deb500827b776777d28 | O3   
+SOFA    | 0xe29d80fcaadf1cc9f179d4c9759b2f5a0f5936dd | SOFA
 
 
 
@@ -169,6 +170,7 @@ PLUT | 0xFa502E90F5D76F92Fb3ab86E8c329bED15dc2bD9 | PLUT mapping asset in BSC
 LEV | 0xbc194e6f748a222754C3E8b9946922c09E7d4e91 | LEV mapping asset in BSC 
 TAP | 0xfD799ddCCA8ab5c1ad8a3D64a58d4e907C9d0B71 | TAP mapping asset in BSC 
 O3    | 0xee9801669c6138e84bd50deb500827b776777d28 | O3 mapping asset in BSC 
+SOFA    | 0x54f93c0dc067af625dd63da1ce12bd44329902d9 | SOFA
 
 
 
@@ -211,6 +213,7 @@ PLUT    | 0xC6d194E7fb72c7b1b7b1D5199468fA7be1E1cA1c | FLUT mapping asset in HEC
 LEV    | 0xbc194e6f748a222754C3E8b9946922c09E7d4e91 | LEV mapping asset in HECO
 KISHU    | 0x06943f317b0111bd5d3eff7e83f33b05914721c5 | KISHU mapping asset in HECO
 O3    | 0xee9801669c6138e84bd50deb500827b776777d28 | O3 mapping asset in HECO 
+SOFA    | 0x829fdfcdf7d6ef9a07f5f53af7247d2da94da8fb | SOFA
 
 
 
