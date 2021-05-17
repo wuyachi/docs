@@ -232,7 +232,7 @@ CCMP | 0x2012a3eE8C454bF1Af1913Fe101bD0D4d85DB299 | Cross Chain Manager Proxy co
 ECCD | 0x141C3c56BDa184c035169E5DB1bAeFC7880C42Bd | OKEx Cross Chain Data contract hash
 ECCM | 0xeEF082E368F7E51EA49A243f769E1aDE7aF836fd | OKEx Cross Chain Manager contract hash
 Lock Proxy| 0x93013a1179469b1941f6b7d4629759e57d6EBD38 | OKEx Asset Proxy contract hash
-
+Poly Wrapper | 0x11e2A718d46EBe97645b87F2363AFE1BF28c2672 | lock entrance for auto cross chain tx with fee 
 
 ## Note 
 `B` means big-endian, we can search the contract transaction history in corresponding explorer.
