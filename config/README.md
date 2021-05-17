@@ -225,6 +225,13 @@ BUSD    | 0xBFC0457548BB90D54123a71a7310BaDa8f4662c0 | BUSD mapping asset in Cur
 HUSD    | 0x0926B2DB9D053E0022419093CCd57b92301fB736 | HUSD mapping asset in Curve
 
 
+## OKEx
+Type | Contract Hash | Desc
+---|---|---
+CCMP | 0x2012a3eE8C454bF1Af1913Fe101bD0D4d85DB299 | Cross Chain Manager Proxy contract hash 
+ECCD | 0x141C3c56BDa184c035169E5DB1bAeFC7880C42Bd | OKEx Cross Chain Data contract hash
+ECCM | 0xeEF082E368F7E51EA49A243f769E1aDE7aF836fd | OKEx Cross Chain Manager contract hash
+Lock Proxy| 0x93013a1179469b1941f6b7d4629759e57d6EBD38 | OKEx Asset Proxy contract hash
 
 
 ## Note 
