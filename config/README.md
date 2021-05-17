@@ -228,10 +228,10 @@ HUSD    | 0x0926B2DB9D053E0022419093CCd57b92301fB736 | HUSD mapping asset in Cur
 ## OKEx
 Type | Contract Hash | Desc
 ---|---|---
-CCMP | 0x2012a3eE8C454bF1Af1913Fe101bD0D4d85DB299 | Cross Chain Manager Proxy contract hash 
-ECCD | 0x141C3c56BDa184c035169E5DB1bAeFC7880C42Bd | OKEx Cross Chain Data contract hash
-ECCM | 0xeEF082E368F7E51EA49A243f769E1aDE7aF836fd | OKEx Cross Chain Manager contract hash
-Lock Proxy| 0x93013a1179469b1941f6b7d4629759e57d6EBD38 | OKEx Asset Proxy contract hash
+CCMP | 0x4D6934E2bb813f48DC0A7bf7Ead0365D9c894163 | Cross Chain Manager Proxy contract hash 
+ECCD | 0xABD7f7B89c5fD5D0AEf06165f8173b1b83d7D5c9 | OKEx Cross Chain Data contract hash
+ECCM | 0x5366eA2B5B729FF3cEf404c2408C8c60cC061B71 | OKEx Cross Chain Manager contract hash
+Lock Proxy| 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03 | OKEx Asset Proxy contract hash
 Poly Wrapper | 0x11e2A718d46EBe97645b87F2363AFE1BF28c2672 | lock entrance for auto cross chain tx with fee 
 
 ## Note 
