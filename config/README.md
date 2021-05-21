@@ -239,6 +239,8 @@ Lock Proxy| 0x9a3658864Aa2Ccc63FA61eAAD5e4f65fA490cA7D | OKEx Asset Proxy contra
 Poly Wrapper | 0x11e2A718d46EBe97645b87F2363AFE1BF28c2672 | lock entrance for auto cross chain tx with fee 
 Wing | 0x7a47ab305b8a2a3f4020d13fa9ef73cddcc0e7d4 | Wing mapping asset in OKEx
 Flux | 0xd0C6821aba4FCC65e8f1542589e64BAe9dE11228 | Flux mapping asset in OKEx
+mBTM | 0xB46985584980c17860CE396667bc74d94Bad4eBF | mBTM mapping asset in OKEx
+
 
 ## Note 
 `B` means big-endian, we can search the contract transaction history in corresponding explorer.
