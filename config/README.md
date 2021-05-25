@@ -273,6 +273,7 @@ NEO | 4 | 4
 Switcheo | 5 | 5
 BSC | 6 | 6
 Heco | 7 | 7
+OKExChain | 12 | 12
 
 ## Relayers
 
