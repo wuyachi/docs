@@ -224,9 +224,10 @@ Type | Router Number | ChainId
 Bitcoin | 1 | 1
 Ethereum | 2 | 2
 Ontology | 3 | 3
-NEO | 4 | 5
+NEO(N2) | 4 | 5
 Switcheo | 5 | release soon
 BSC | 6 | 79
 Heco | 7 | 7
 Palette | 8 | 106
 OK | 12 | 200
+NEO(N3) | 11 | 11
