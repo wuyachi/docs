@@ -227,8 +227,7 @@ KISHU    | 0x06943f317b0111bd5d3eff7e83f33b05914721c5 | KISHU mapping asset in H
 O3    | 0xee9801669c6138e84bd50deb500827b776777d28 | O3 mapping asset in HECO 
 SOFA    | 0x829fdfcdf7d6ef9a07f5f53af7247d2da94da8fb | SOFA
 mBTM    | 0xd97b21993187391f44d497dd4d961122e0a6f958 | mBTM
-
-
+BNB    | 0x4f99d10e16972ff2fe315eee53a95fc5a5870ce3 | BNB
 
 
 ## Curve
