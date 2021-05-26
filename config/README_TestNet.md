@@ -177,7 +177,7 @@ pxUSDT | 0xf6e02d506929c3f47be47bf60997a96a41c7b282 | 82b2c7416aa99709f67be47bf4
 Type | Contract Hash | Desc
 ---|---|---
 Wrapper | 	| 	| 
-Nep17Proxy	| 	| 	| The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
+Nep17Proxy	| 0x97758f7e9c11e79423453e5acd925989ff7d3ade	| de3a7dff895992cd5a3e452394e7119c7e8f7597	| The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
 CCMC	| 0xfdd6c536f59bfd1149e818635d46dcc6faf1ba44	| 44baf1fac6dc465d6318e84911fd9bf536c5d6fd	| Cross Chain Manager Contract
 pnWETH	| 	| 	| 
 nNEO	| 	| 	| 
