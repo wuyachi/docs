@@ -24,7 +24,7 @@ ECCM | 0x838bf9e95cb12dd76a54c9f9d2e3082eaf928270 | Ethereum Cross Chain Manager
 Lock Proxy| 0x250e76987d838a75310c34bf422ea9f1AC4Cc906 | Ethereum Asset Proxy contract hash
 Poly Wrapper | 0x2aA63cd0b28FB4C31fA8e4E95Ec11815Be07b9Ac | lock entrance for auto cross chain tx with fee 
 Wrapper 2.0 | 0xd380450e9e373bDC389951C54616edb2EE653524 | wrapper_v2 that take native asset as fee
-Swapper | 0x02e20ca05e38cbdf1a6235a7acdd34efc0434caa | curve entrance for auto cross chain tx with fee 
+Swapper | 0x02e20ca05E38cBdf1a6235a7AcDD34EFc0434CaA | curve entrance for auto cross chain tx with fee 
 NFT Lock Proxy | 0x2cdfc90250EF967036838DA601099656e74bCfc5 | The NFT lockc proxy contract hash
 NFT Wrapper | 0xe5204d62361A353C665668C858Ea213070CA159c | The NFT Wrapper contract hash
 NFT Query | 0xE5fb4748AeC17B4140cf7b9e17dd935C66dad24A | The NFT profile query contract hash
