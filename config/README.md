@@ -27,7 +27,7 @@ Wrapper 2.0 | 0xd380450e9e373bDC389951C54616edb2EE653524 | wrapper_v2 that take 
 Swapper | 0x02e20ca05E38cBdf1a6235a7AcDD34EFc0434CaA | curve entrance for auto cross chain tx with fee 
 NFT Lock Proxy | 0x2cdfc90250EF967036838DA601099656e74bCfc5 | The NFT lockc proxy contract hash
 NFT Wrapper | 0xe5204d62361A353C665668C858Ea213070CA159c | The NFT Wrapper contract hash
-NFT Query | 0xE5fb4748AeC17B4140cf7b9e17dd935C66dad24A | The NFT profile query contract hash
+NFT Query | 0xB2265A122814dA516318F727183a5D8FeCA8BaCE | The NFT profile query contract hash
 pONT| 0xcb46c550539ac3db72dc7af7c89b11c306c727c2 | Ethereum Ontology Token
 WBTC| 0x2260fac5e5542a773aa44fbcfedf7c193bc2c599 | WBTC
 USDC| 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48 | USDC
@@ -157,7 +157,7 @@ Wrapper 2.0 | 0x4b0CFdb5e1Ca898a225F9E14AfF9e4eF178a10d2 | wrapper_v2 that take 
 Swapper | 0x3ec481143d688442E581aD7116Bf1ECC76669cfa | Curve entrance for auto cross chain tx with fee 
 NFT Lock Proxy | 0x2cdfc90250EF967036838DA601099656e74bCfc5 | The NFT lockc proxy contract hash
 NFT Wrapper | 0xe2bD9dD8FAF5C4C2087Ab82eC7E63F619CcAa152 | The NFT Wrapper contract hash
-NFT Query | 0x55864d6f34b63495Fb4A0f0f19EDdfF70010cB0C | The NFT profile query contract hash
+NFT Query | 0x02015dBb2Dc25Cc7313D7EDb4785c2C46F3B7FD2 | The NFT profile query contract hash
 pNEO | 0xb119b3b8e5e6eeffbe754b20ee5b8a42809931fb | NEO mapping asset in BSC
 pETH | 0xb9478391eec218defa96f7b9a7938cf44e7a2fd5 | ETH mapping asset in BSC
 pUSDT|  0x48389753b64C9e581975457332E60dC49325A653 | USDT mapping asset in BSC
@@ -216,7 +216,7 @@ Wrapper 2.0 | 0x1B0C55be400e2a7D924032B257Fbc75Bbfd256E7 | wrapper_v2 that take 
 Swapper | 0x70f4d1176f9276ab4B31658f58F7473858F2b550 | Curve entrance for auto cross chain tx with fee 
 NFT Lock Proxy | 0x2cdfc90250EF967036838DA601099656e74bCfc5 | The NFT lockc proxy contract hash
 NFT Wrapper | 0xe2bD9dD8FAF5C4C2087Ab82eC7E63F619CcAa152 | The NFT Wrapper contract hash
-NFT Query | 0x55864d6f34b63495Fb4A0f0f19EDdfF70010cB0C | The NFT profile query contract hash
+NFT Query | 0x56C9491F2aC2Bc623AB890D2Db16C98E1aBd1FBd | The NFT profile query contract hash
 pNEO | 0x6514a5ebff7944099591ae3e8a5c0979c83b2571 | NEO mapping asset in Heco
 pETH | 0x8c0859c191d8f100e4a3c0d8c0066c36a0c1f894 | ETH mapping asset in Heco
 pDAI | 0x643f3914fB8eDE03d932c79732746a8c11Ae470A | DAI mapping asset in Heco
