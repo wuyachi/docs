@@ -18,6 +18,7 @@ CCMP | 0xb600c8a2e8852832B75DB9Da1A3A1c173eAb28d8 | Cross Chain Manager Proxy co
 ECCD | 0xA38366d552672556CE82426Da5031E2Ae0598dcD | Ethereum Cross Chain Data contract hash
 ECCM | 0x726532586C50ec9f4080B71f906a3d9779bbd64F   | Ethereum Cross Chain Manager contract hash
 Lock Proxy | 0xD8aE73e06552E270340b63A8bcAbf9277a1aac99 | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
+Wrapper | 0xDc37471Af6a8aB7f45F444c5a3Ef4758281bE32C   | Ethereum Wrapper contract hash
 NFT Lock Proxy | 0x9bEF1AE7304D3d2F344ea00e796ADa18cE1beb03 | The NFT lockc proxy contract hash
 NFT Wrapper | 0x940300dc3Fc26e3A330a300be766184C0b5Fe019 | The NFT Wrapper contract hash
 NFT Query | 0x500674D603331C43ed2288834BAb284BF65fc076 | The NFT profile query contract hash
@@ -63,6 +64,7 @@ CCMP | 0x441C035446c947a97bD36b425B67907244576990 | Cross Chain Manager Proxy co
 ECCD | 0xE815E5B52A659d78c91B747f7A3b358cc4F04794 | Cross Chain Data contract hash
 ECCM | 0xdB8e0cB4b48981BAf26c4844f084Fbb7303151ef   | Cross Chain Manager contract hash
 Lock Proxy | 0x097Ae585BfEf78DDC8E266ABCb840dAF7265130c | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
+Wrapper | 0x9f9F15CC407F7b26f55D71D43f993580a9107007   | wrapper contract hash
 NFT Lock Proxy | 0x9bEF1AE7304D3d2F344ea00e796ADa18cE1beb03 | The NFT lockc proxy contract hash
 NFT Wrapper | 0x61E289D43C1FEA7598786557A2F309979ad144D3 | The NFT Wrapper contract hash
 NFT Query | 0xAB3e1F13127bE931A71Fdc8940bd31506EFC6A70 | The NFT profile query contract hash
@@ -103,6 +105,7 @@ CCMP | 0xc5757b5d22984E534004cC7Fb1D59eD14EC510a5 | Cross Chain Manager Proxy co
 ECCD | 0x709D63f3d1a46B89cE4F6a61C8fb16aB29fD26F8 | Cross Chain Data contract hash
 ECCM | 0xD9A3d265a1127051F620e700B5a461af4991EaAE   | Cross Chain Manager contract hash
 Lock Proxy | 0x4a76E52600C6285029c8f7c52183cf86282cA5b8 | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
+Wrapper | 0xCC8407Ee04AaC2AdC0E6A55E7E97176C701146cd   | Wrapper contract hash
 NFT Lock Proxy | 0x25BB8E9C0Cc03B30d09769735208a47d389Ff36c | The NFT lockc proxy contract hash
 NFT Wrapper | 0xbaBaAF5CF7f63437755aAAFE7a4106463c5cD540 | The NFT Wrapper contract hash
 NFT Query | 0xE1488842b15E0f084b254588f46e4C570065d6A0 | The NFT profile query contract hash
