@@ -232,7 +232,7 @@ HAI | 0x971fe540feff9d91d6fbb93c27fbb527bfb96a3e | HAI
 DOGK | 0x42b1495e9bf2de0ae6510d50584a0799166542f7 | DOGK
 SPHRI | 0x8B7a0007F6E0ddb16cd14f34af3306947fC698a6 | SPHRI
 SLD | 0x1ef6a7e2c966fb7c5403efefde38338b1a95a084 | SLD
-BTCB ｜ 0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c ｜ Binance-Peg BTCB Token
+BTCB | 0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c | Binance-Peg BTCB Token
 
 
 ## Huobi Eco Chain(HECO)
