@@ -303,6 +303,7 @@ HDT | 0x3d5d17243307b1e236bfbded127a7f4d0b62e185 | HDT
 HBTC | 0x66a79d23e58475d2738179ca52cd0b41d73f0bea | Heco-Peg HBTC Token
 HUSD | 0x0298c2b32eae4da002a15f36fdf7615bea3da047 | HUSD
 OOE | 0x40817e1ab07fc872b7af6a959c4b7a8febf6c4ab | OOE
+BET | 0x028a52032a7075a42585c037f069c62b49ebaa3d | BET
 
 ## Curve
 Type | Contract Hash | Desc
