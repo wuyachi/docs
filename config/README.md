@@ -375,6 +375,7 @@ Swapper | 0xaC57280B3A657A2e8D1180493C519a476D208F61 | Curve entrance for auto c
 O3 | 0xee9801669c6138e84bd50deb500827b776777d28 | O3
 USDC | 0x2791bca1f2de4661ed88a30c99a7a9449aa84174 | USDC
 SXC | 0x46d3EC8CE3eC767414F16FE12176De23E3E5B46A | SXC
+OOE | 0xcBbF49E5065537843a7dcFDF8f49116B2DeB5a0f | OOE
 
 ## Note 
 `B` means big-endian, we can search the contract transaction history in corresponding explorer.
