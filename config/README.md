@@ -378,6 +378,9 @@ USDC | 0x2791bca1f2de4661ed88a30c99a7a9449aa84174 | USDC
 SXC | 0x46d3EC8CE3eC767414F16FE12176De23E3E5B46A | SXC
 OOE | 0xcBbF49E5065537843a7dcFDF8f49116B2DeB5a0f | OOE
 ONTd |  0xD4814770065F634003A8d8D70B4743E0C3f334ad | ONTd
+ONG | 0x727e6cA466a7522D54F1f0b97a344f64e65d2767 | ONG
+
+
 ## Note 
 `B` means big-endian, we can search the contract transaction history in corresponding explorer.
 
