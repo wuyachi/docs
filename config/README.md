@@ -361,7 +361,7 @@ Wing | 0x7a47ab305b8a2a3f4020d13fa9ef73cddcc0e7d4 | Wing mapping asset in OKEx
 Flux | 0xd0C6821aba4FCC65e8f1542589e64BAe9dE11228 | Flux mapping asset in OKEx
 mBTM | 0xB46985584980c17860CE396667bc74d94Bad4eBF | mBTM mapping asset in OKEx
 SXC | 0x0a3c69b510eA47624eE4D4C5b630ae06cd33eB73 | SXC
-
+COOK | 0x7f1ae1C42f5f967c0E1ABa3ed7b6D62f88BE4275 | COOK
 
 
 
