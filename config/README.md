@@ -253,7 +253,7 @@ DFC | 0x1b2a76da77d03b7fc21189d9838f55bd849014af | DFC
 USDC | 0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d | USDC
 PKR | 0xc49dde62b4a0810074721faca54aab52369f486a | PKR 
 WING | 0x3cb7378565718c64ab86970802140cc48ef1f969 | WING 
-
+ONG | 0x308bfaeaac8bdab6e9fc5ead8edcb5f95b0599d9 | ONG
 
 ## Huobi Eco Chain(HECO)
 Type | Contract Hash | Desc
