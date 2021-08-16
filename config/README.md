@@ -36,7 +36,7 @@ Type | Contract Hash | Desc
 ---|---|---
 CCMP | 0x5a51e2ebf8d136926b9ca7b59b60464e7c44d2eb | Cross Chain Manager Proxy contract hash 
 ECCD | 0xcf2afe102057ba5c16f899271045a0a37fcb10f2 | Ethereum Cross Chain Data contract hash
-ECCM | 0x838bf9e95cb12dd76a54c9f9d2e3082eaf928270 | Ethereum Cross Chain Manager contract hash
+ECCM | 0xe020877e67CfAAFFC33a6E7eB9e85741bbb3eA79 | Ethereum Cross Chain Manager contract hash
 Lock Proxy| 0x250e76987d838a75310c34bf422ea9f1AC4Cc906 | Ethereum Asset Proxy contract hash
 Poly Wrapper | 0x2aA63cd0b28FB4C31fA8e4E95Ec11815Be07b9Ac | lock entrance for auto cross chain tx with fee 
 Wrapper 2.0 | 0xd380450e9e373bDC389951C54616edb2EE653524 | wrapper_v2 that take native asset as fee
@@ -195,7 +195,7 @@ Type | Contract Hash | Desc
 ---|---|---
 CCMP | 0xABD7f7B89c5fD5D0AEf06165f8173b1b83d7D5c9 | Cross Chain Manager Proxy contract hash 
 ECCD | 0x11e2A718d46EBe97645b87F2363AFE1BF28c2672 | BSC Cross Chain Data contract hash
-ECCM | 0x7ceA671DABFBa880aF6723bDdd6B9f4caA15C87B | BSC Cross Chain Manager contract hash
+ECCM | 0x8825216dd964d9F3bAA473E8ddf17557216aCc9E | BSC Cross Chain Manager contract hash
 Lock Proxy| 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03 | BSC Asset Proxy contract hash
 Poly Wrapper | 0xE3D0FB6E3cB5DA61EB18b06D035052441009d1E6 | lock entrance for auto cross chain tx with fee 
 Wrapper 2.0 | 0x4b0CFdb5e1Ca898a225F9E14AfF9e4eF178a10d2 | wrapper_v2 that take native asset as fee
@@ -278,7 +278,7 @@ Type | Contract Hash | Desc
 ---|---|---
 CCMP | 0xABD7f7B89c5fD5D0AEf06165f8173b1b83d7D5c9 | Cross Chain Manager Proxy contract hash 
 ECCD | 0x11e2A718d46EBe97645b87F2363AFE1BF28c2672 | Heco Cross Chain Data contract hash
-ECCM | 0x7ceA671DABFBa880aF6723bDdd6B9f4caA15C87B | Heco Cross Chain Manager contract hash
+ECCM | 0x5c5a095019392F0e9FCdE02bD9aB632fE82ec60E | Heco Cross Chain Manager contract hash
 Lock Proxy| 0x020c15e7d08A8Ec7D35bCf3AC3CCbF0BBf2704e6 | Heco Asset Proxy contract hash
 Poly Wrapper | 0x4fE451186c0D69205ACc1fA00FD75fc6d71e47eE | lock entrance for auto cross chain tx with fee 
 Wrapper 2.0 | 0x1B0C55be400e2a7D924032B257Fbc75Bbfd256E7 | wrapper_v2 that take native asset as fee
@@ -340,6 +340,10 @@ CBC | 0x14e449473251F2D9D4eA5D26199F002C214b2475 | CBC
 ## Curve
 Type | Contract Hash | Desc
 ---|---|---
+CCMP | 0x25293B33DE6c7097A27b6c12888a15e0AbFf3A00 | Cross Chain Manager Proxy contract hash 
+ECCD | 0xd57Dc9E14Be808b514D30fC5e46a07Ba1e5Cf473s | Cross Chain Data contract hash
+ECCM | 0xcA249a1d72822B06dfE77F11A874CCEF52316b76 | Cross Chain Manager contract hash
+SwapProxy| 0x34d4a23A1FC0C694f0D74DDAf9D8d564cfE2D430 | Asset Proxy contract hash
 Pool-1  | 0xa6157DaBDda80F8c956962AB7739f17F54BAAB7F | USDT-BUSD-HUSD pool address in Curve
 Pool-1-LP | 0x23dF75A64Dc59d2884BE25021d7A424B18709A41 | LP token of pool-1
 USDT    | 0x061a87Aac7695b9cf9482043175fd3bE3374AB66 | USDT mapping asset in Curve
@@ -373,7 +377,7 @@ Type | Contract Hash | Desc
 ---|---|---
 CCMP | 0x4739fe955BE4704BcB7d6a699823F5B29217Baf6 | Cross Chain Manager Proxy contract hash 
 ECCD | 0xdb3A0149f3155cC1B6890FE382d309dB4b322630 | OKEx Cross Chain Data contract hash
-ECCM | 0xF35844C21A0Ca574D0e52697Bbd5ceDda5798A07 | OKEx Cross Chain Manager contract hash
+ECCM | 0x3758fD8D5c29AD2620De837Da7531Bb4d1f64EDc | OKEx Cross Chain Manager contract hash
 Lock Proxy| 0x9a3658864Aa2Ccc63FA61eAAD5e4f65fA490cA7D | OKEx Asset Proxy contract hash
 Poly Wrapper | 0x11e2A718d46EBe97645b87F2363AFE1BF28c2672 | lock entrance for auto cross chain tx with fee 
 Wrapper 2.0 | 0xbd4a08577476A521C41a21EF3f00b045b74175d5 | wrapper_v2 that take native asset as fee
@@ -392,7 +396,7 @@ Type | Contract Hash | Desc
 ---|---|---
 CCMP | 0x5366ea2b5b729ff3cef404c2408c8c60cc061b71 | Cross Chain Manager Proxy contract hash 
 ECCD | 0x7cea671dabfba880af6723bddd6b9f4caa15c87b | Polygon Cross Chain Data contract hash
-ECCM | 0xabd7f7b89c5fd5d0aef06165f8173b1b83d7d5c9 | Polygon Cross Chain Manager contract hash
+ECCM | 0x39Cd00c5d0fa3e880B86B6a76224a18128DE89E5 | Polygon Cross Chain Manager contract hash
 Lock Proxy| 0x28ff66a1b95d7cacf8eded2e658f768f44841212 | Polygon Asset Proxy contract hash
 Poly Wrapper | 0x4493fb5dc195900938CC23096C7EEdEfc434e283 | lock entrance for auto cross chain tx with fee 
 Wrapper 2.0 | 0xB88f13682F3C602aCD84B4b2eEB96A9DD75Afd89 | wrapper_v2 that take native asset as fee

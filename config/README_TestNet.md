@@ -16,7 +16,7 @@ Type | Contract Hash | Desc
 ---|---|---
 CCMP | 0xb600c8a2e8852832B75DB9Da1A3A1c173eAb28d8 | Cross Chain Manager Proxy contract hash 
 ECCD | 0xA38366d552672556CE82426Da5031E2Ae0598dcD | Ethereum Cross Chain Data contract hash
-ECCM | 0x726532586C50ec9f4080B71f906a3d9779bbd64F   | Ethereum Cross Chain Manager contract hash
+ECCM | 0xeC923170324db31cd9cd43C87483D04a2C73F388   | Ethereum Cross Chain Manager contract hash
 Lock Proxy | 0xD8aE73e06552E270340b63A8bcAbf9277a1aac99 | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
 Wrapper | 0xDc37471Af6a8aB7f45F444c5a3Ef4758281bE32C   | Ethereum Wrapper contract hash
 PLT Asset | 0x1AC77d322e3347B8de181304B7c118a7e89c6Bc1 | The palette asset hash
@@ -63,7 +63,7 @@ Type | Contract Hash | Desc
 ---|---|---
 CCMP | 0x441C035446c947a97bD36b425B67907244576990 | Cross Chain Manager Proxy contract hash 
 ECCD | 0xE815E5B52A659d78c91B747f7A3b358cc4F04794 | Cross Chain Data contract hash
-ECCM | 0xdB8e0cB4b48981BAf26c4844f084Fbb7303151ef   | Cross Chain Manager contract hash
+ECCM | 0x0894CbaD33e4232f443570E88Fc8209aE7eBdfA5   | Cross Chain Manager contract hash
 Lock Proxy | 0x097Ae585BfEf78DDC8E266ABCb840dAF7265130c | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
 Wrapper | 0x9f9F15CC407F7b26f55D71D43f993580a9107007   | wrapper contract hash
 NFT Lock Proxy | 0x9bEF1AE7304D3d2F344ea00e796ADa18cE1beb03 | The NFT lockc proxy contract hash
@@ -96,7 +96,7 @@ Type | Contract Hash | Desc
 ---|---|---
 CCMP | 0x38917884b397447227fb45cbA0342F1bFf7A3470 | Cross Chain Manager Proxy contract hash 
 ECCD | 0xd1Acc7bc3BDA9a63eEF89357a6f4c705ee874f44 | Cross Chain Data contract hash
-ECCM | 0x2A4cF474Aef33F0046434E4916Ac6b2fef4e5B78   | Cross Chain Manager contract hash
+ECCM | 0x296f7f9f0e65152965e9BE12b349c14c7cE8eE85   | Cross Chain Manager contract hash
 Lock Proxy | 0x74cE7D56cd1b5AEe9A3345A490b5Ed768134C7D4 | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
 
 ## Heco
@@ -104,7 +104,7 @@ Type | Contract Hash | Desc
 ---|---|---
 CCMP | 0xc5757b5d22984E534004cC7Fb1D59eD14EC510a5 | Cross Chain Manager Proxy contract hash 
 ECCD | 0x709D63f3d1a46B89cE4F6a61C8fb16aB29fD26F8 | Cross Chain Data contract hash
-ECCM | 0xD9A3d265a1127051F620e700B5a461af4991EaAE   | Cross Chain Manager contract hash
+ECCM | 0x40039148ce624B560e5F5c095DdA90fc13442Cf8   | Cross Chain Manager contract hash
 Lock Proxy | 0x4a76E52600C6285029c8f7c52183cf86282cA5b8 | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
 Wrapper | 0xCC8407Ee04AaC2AdC0E6A55E7E97176C701146cd   | Wrapper contract hash
 NFT Lock Proxy | 0x25BB8E9C0Cc03B30d09769735208a47d389Ff36c | The NFT lockc proxy contract hash
@@ -218,7 +218,7 @@ Type | Contract Hash | Desc
 ---|---|---
 CCMP | 0x15D3f62822a446b8C5fDBBef157f0b82b05c29Ab | Cross Chain Manager Proxy contract hash 
 ECCD | 0xd097cf11c0215563AaAE2d3bb49366C59FFFa144 | Cross Chain Data contract hash
-ECCM | 0x3f17e8DCb0D762e2bFCb437aD2C4ffe24BCF25ee   | Cross Chain Manager contract hash
+ECCM | 0xe6d97637EFb55d8c81154E29aC343Bc447F80c19   | Cross Chain Manager contract hash
 Lock Proxy | 0x4e5eF0CA5A94b169Fb010fb40DBFD57c4830f446 | The lock proxy bridge contract hash
 Poly Wrapper | 0xD5d63Dce45E0275Ca76a8b2e9BD8C11679A57D0D	| lock entrance for auto cross chain tx with fee
 Swapper |	0x1B0C55be400e2a7D924032B257Fbc75Bbfd256E7 |	Curve entrance for auto cross chain tx with fee
