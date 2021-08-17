@@ -278,7 +278,7 @@ Type | Contract Hash | Desc
 ---|---|---
 CCMP | 0xABD7f7B89c5fD5D0AEf06165f8173b1b83d7D5c9 | Cross Chain Manager Proxy contract hash 
 ECCD | 0x11e2A718d46EBe97645b87F2363AFE1BF28c2672 | Heco Cross Chain Data contract hash
-ECCM | 0x5c5a095019392F0e9FCdE02bD9aB632fE82ec60E | Heco Cross Chain Manager contract hash
+ECCM | 0x59A2C3062D9F1097D5CD239FA1BAbE6cb64fB96C | Heco Cross Chain Manager contract hash
 Lock Proxy| 0x020c15e7d08A8Ec7D35bCf3AC3CCbF0BBf2704e6 | Heco Asset Proxy contract hash
 Poly Wrapper | 0x4fE451186c0D69205ACc1fA00FD75fc6d71e47eE | lock entrance for auto cross chain tx with fee 
 Wrapper 2.0 | 0x1B0C55be400e2a7D924032B257Fbc75Bbfd256E7 | wrapper_v2 that take native asset as fee
