@@ -119,6 +119,7 @@ SBC | 0xba5841109ec38e58b6184c0ab65ba59a9355ffe2 | SBC
 CFB| 0x5549fE6ED280e5A271A4c8c85277a5F07ec9bbDB| CFB
 EPK | 0xdaf88906ac1de12ba2b1d2f7bfc94e9638ac40c4 | EPK
 ISM| 0x5126efa050f6d3166110039c5ca48cc57b8e6ba2 | ISM
+eCell | 0x9b62ec1453cea5dde760aaf662048ca6eeb66e7f | eCell
 
 ## Ethereum: nrenBTC/nsBTC/nTUSD/nUSDC/nwBTC/nwETH/nDAI
 Type | Contract Hash | Desc
@@ -339,6 +340,8 @@ DOG | 0x099626783842d35c221e5d01694c2b928eb3b0ad | DOG
 C | 0xfed613cdd4182b73a032fe1f03bd7872465010f8 | C
 CBC | 0x14e449473251F2D9D4eA5D26199F002C214b2475 | CBC
 WIT | 0xabf5f4f5856dac0f7d7df56be92ac04f4d0fc0f0 | WIT
+eCell | 0xcf5fac84e13622ef1fc538c2f83c710abc816f92 | eCell
+
 
 ## Curve
 Type | Contract Hash | Desc
