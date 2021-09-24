@@ -237,6 +237,15 @@ NFT Wrapper | 0xFeEbBc92365a203a2FDCc4B1bBDAA2489A9bb6Ac | lock entrance for nft
 NFT Lock Proxy | 0x6e5fB68D6B705A567d75135169cF69574225eBe6 | The NFT lock proxy bridge contract hash
 NFT Query | 0x34B5B0cC2b57d96d3930Ddc66084029170fE6BFD The NFT query contract hash which used to batch fetch token urls and token ids
 
+## Zilliqa
+Type | Contract Hash | Desc
+---|---|---
+CCMP | 0x720a3fb587b670de99d94925b6f99c9a63d462c1 | Cross Chain Manager Proxy contract hash 
+CCM | 0xA38366d552672556CE82426Da5031E2Ae0598dcD | Cross Chain contract hash
+Lock Proxy | 0xa5a43eecd29534edf80792a9889f52c77455245d | Lock proxy contract hash
+zETH | 0x0e0cbcd97db4c94890b528ef3d33d5b5c1776eef | Zilliqa-bridged ETH token
+zDai | 0x8f79cd968f0968565a157975f4fe406ea22d0571 | Zilliqa-bridged Dai Stablecoin
+
 ## Router And ChainId
 Type | Router Number | ChainId
 :-:|:-:|:-:
@@ -248,6 +257,7 @@ Switcheo | 5 | release soon
 BSC | 6 | 79
 Heco | 7 | 7
 Palette | 8 | 107
+Zilliqa | 111 | 111
 OK | 12 | 200
 Curve | 10 | 82
 Heimdall | 15 | 201

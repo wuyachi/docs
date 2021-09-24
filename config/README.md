@@ -437,6 +437,14 @@ ECCM | 0x1b02EEE12A7bF02922113a70d3D343De4b43f776 | Palette Cross Chain Manager 
 CCMP | 0x7622058504412D5183352A7d350653DfFe58b1DC | Cross Chain Manager Proxy contract hash 
 PLT Wrapper | 0x0A9C412633465fdeE4861CeE02987386100bEAe6 | lock entrance for auto cross chain tx with fee 
 
+## Zilliqa
+
+Type | Contract Hash | Desc
+---|---|---
+CCMP | 0xfeafd3bb477c2d29ed078256698c7d9c37abcf20 | Zilliqa Cross Chain Manager Proxy contract hash
+CCM | 0xac9f601679a285c3ff0d95239a1dc7a7983df32d | Zilliqa Cross Chain Manager contract hash
+Lock Proxy | 0xd73c6b871b4d0e130d64581993b745fc938a5be7 | Zilliqa Lock Proxy contract hash
+
 ## Router And ChainId
 Type | Router Number | ChainId
 :-:|:-:|:-:
@@ -448,6 +456,7 @@ Switcheo | 5 | 5
 BSC | 6 | 6
 Heco | 7 | 7
 Palette | 8 | 8
+Zilliqa | 9 | 9
 Curve | 10 | 10
 OKExChain | 12 | 12
 Neo N3 | 14 | 14
