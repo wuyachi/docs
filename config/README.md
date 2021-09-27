@@ -461,7 +461,7 @@ Curve | 10 | 10
 OKExChain | 12 | 12
 Neo N3 | 14 | 14
 Heimdall | 15 | 15
-Polygon | 17 | 17
+Polygon | 16 | 17
 
 ## Relayers
 
