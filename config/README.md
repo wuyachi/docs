@@ -445,6 +445,15 @@ CCMP | 0xfeafd3bb477c2d29ed078256698c7d9c37abcf20 | Zilliqa Cross Chain Manager 
 CCM | 0xac9f601679a285c3ff0d95239a1dc7a7983df32d | Zilliqa Cross Chain Manager contract hash
 Lock Proxy | 0xd73c6b871b4d0e130d64581993b745fc938a5be7 | Zilliqa Lock Proxy contract hash
 
+## Arbitrum
+
+Type | Contract Hash | Desc
+---|---|---
+CCMP | 0xABD7f7B89c5fD5D0AEf06165f8173b1b83d7D5c9 | Arbitrum Cross Chain Manager Proxy contract hash
+CCM | 0x7ceA671DABFBa880aF6723bDdd6B9f4caA15C87B | Arbitrum Cross Chain Manager contract hash
+ECCD | 0x11e2A718d46EBe97645b87F2363AFE1BF28c2672 | Arbitrum Cross Chain Data contract hash
+Lock Proxy | 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03 | Arbitrum Lock Proxy contract hash
+
 ## Router And ChainId
 Type | Router Number | ChainId
 :-:|:-:|:-:
@@ -462,6 +471,8 @@ OKExChain | 12 | 12
 Neo N3 | 14 | 14
 Heimdall | 15 | 15
 Polygon | 16 | 17
+Arbitrum | 0 | 19
+
 
 ## Relayers
 
