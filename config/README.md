@@ -456,7 +456,7 @@ Switcheo | 5 | 5
 BSC | 6 | 6
 Heco | 7 | 7
 Palette | 8 | 8
-Zilliqa | 9 | 9
+Zilliqa | 17 | 18
 Curve | 10 | 10
 OKExChain | 12 | 12
 Neo N3 | 14 | 14
