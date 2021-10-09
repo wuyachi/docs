@@ -371,10 +371,17 @@ WBTC    | 0x7648bDF3B4f26623570bE4DD387Ed034F2E95aad | Eth WBTC mapping asset in
 BTCB    | 0x2367e9Cf3355EA714236e6719B91336D29D6D59D | Bsc BTC mapping asset in Curve
 HBTC    | 0x285F30fD447598178d3B8adBdc0839B0c72C26eb | Heco BTC mapping asset in Curve
 Pool-5  | 0x6C12415f6Ca74e5D1F091415858de7E188B0884C | BTC pool address in Curve
-Pool-5-LP | 0x81241b49e73e79d920c6ea71ABc84409DE766055 | LP token of pool-4
+Pool-5-LP | 0x81241b49e73e79d920c6ea71ABc84409DE766055 | LP token of pool-5
 ETH-USDC    | 0xAed3E54b7229d7b8f3970f0a03D98708716de96b | Eth USDC mapping asset in Curve
 BSC-USDC    | 0xE4444f57b4Bd843EC065BdaF67a2e9b8c1ee4f5b | Bsc USDC mapping asset in Curve
 MATIC-USDC    | 0xbc44977D9ad3CC55fd88fBe34616EBE8174f2c3f | MATIC USDC mapping asset in Curve
+Pool-7  | 0x1EEcE3d9fD152b73728aba136BB6E1f3ebd2Afa2 | USDT pool address in Curve
+Pool-7-LP | 0xDB721696803539f30Bcb6FD2559c018a32BE9134 | LP token of pool-7
+ETH-USDT    | 0x061a87Aac7695b9cf9482043175fd3bE3374AB66 | Eth USDT mapping asset in Curve
+BSC-USDC    | 0x9AC8B67Febd3E53c8f08E5A481A9D94Ea51Fb07D | Bsc USDT mapping asset in Curve
+MATIC-USDC    | 0x77b81bd926f9E047ae976B674Af1922b5f34aDD7 | MATIC USDT mapping asset in Curve
+Arbitrum-USDC    | 0x72b70b41A59C9e849FF70de60CEbee4D49612A7F | Arbitrum USDT mapping asset in Curve
+
 
 
 
