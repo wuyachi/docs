@@ -374,7 +374,7 @@ Pool-5-LP | 0x81241b49e73e79d920c6ea71ABc84409DE766055 | LP token of pool-4
 ETH-USDC    | 0xAed3E54b7229d7b8f3970f0a03D98708716de96b | Eth USDC mapping asset in Curve
 BSC-USDC    | 0xE4444f57b4Bd843EC065BdaF67a2e9b8c1ee4f5b | Bsc USDC mapping asset in Curve
 MATIC-USDC    | 0xbc44977D9ad3CC55fd88fBe34616EBE8174f2c3f | Heco USDC mapping asset in Curve
-
+BindProxy | 0x46829549E0a5Eccb04737eEaC6cE8826169BA1f1 | Curver bindproxy contract hash
 
 
 
