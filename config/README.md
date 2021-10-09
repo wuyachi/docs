@@ -461,7 +461,7 @@ CCM | 0x7ceA671DABFBa880aF6723bDdd6B9f4caA15C87B | Arbitrum Cross Chain Manager 
 ECCD | 0x11e2A718d46EBe97645b87F2363AFE1BF28c2672 | Arbitrum Cross Chain Data contract hash
 Lock Proxy | 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03 | Arbitrum Lock Proxy contract hash
 Swapper | 0x7E418a9926c8D1cbd09CC93E8051cC3BbdfE3854 | Arbitrum Swapper contract hash
-
+USDT | 0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9 | Arbitrum USDT contract hash 
 ## Router And ChainId
 Type | Router Number | ChainId
 :-:|:-:|:-:
