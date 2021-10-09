@@ -350,6 +350,7 @@ CCMP | 0x25293B33DE6c7097A27b6c12888a15e0AbFf3A00 | Cross Chain Manager Proxy co
 ECCD | 0xd57Dc9E14Be808b514D30fC5e46a07Ba1e5Cf473 | Cross Chain Data contract hash
 ECCM | 0x89D15F45597816C90cbafd32D0Bb8Fc99bE0B76f | Cross Chain Manager contract hash
 SwapProxy| 0x34d4a23A1FC0C694f0D74DDAf9D8d564cfE2D430 | Asset Proxy contract hash
+BindProxy | 0x46829549E0a5Eccb04737eEaC6cE8826169BA1f1 | Curver bindproxy contract hash
 Pool-1  | 0xa6157DaBDda80F8c956962AB7739f17F54BAAB7F | USDT-BUSD-HUSD pool address in Curve
 Pool-1-LP | 0x23dF75A64Dc59d2884BE25021d7A424B18709A41 | LP token of pool-1
 USDT    | 0x061a87Aac7695b9cf9482043175fd3bE3374AB66 | USDT mapping asset in Curve
@@ -373,8 +374,7 @@ Pool-5  | 0x6C12415f6Ca74e5D1F091415858de7E188B0884C | BTC pool address in Curve
 Pool-5-LP | 0x81241b49e73e79d920c6ea71ABc84409DE766055 | LP token of pool-4
 ETH-USDC    | 0xAed3E54b7229d7b8f3970f0a03D98708716de96b | Eth USDC mapping asset in Curve
 BSC-USDC    | 0xE4444f57b4Bd843EC065BdaF67a2e9b8c1ee4f5b | Bsc USDC mapping asset in Curve
-MATIC-USDC    | 0xbc44977D9ad3CC55fd88fBe34616EBE8174f2c3f | Heco USDC mapping asset in Curve
-BindProxy | 0x46829549E0a5Eccb04737eEaC6cE8826169BA1f1 | Curver bindproxy contract hash
+MATIC-USDC    | 0xbc44977D9ad3CC55fd88fBe34616EBE8174f2c3f | MATIC USDC mapping asset in Curve
 
 
 
