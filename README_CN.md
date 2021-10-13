@@ -26,7 +26,7 @@ Poly Network基于侧链/中继模式，采用双层结构设计，使用Poly中
 ## 教程文档
 * [中继链介绍](poly/README_CN.md)
 * [Bitcoin链介绍](btc/README_CN.md)
-* [Ethereum链介绍](eth/README_CN.md)
+* [Ethereum链介绍](eth/ethereum_cross_chain_specification_CN.md)
 * [NEO链介绍](neo/README_CN.md)
 * [Ontology链介绍](ont/README_CN.md)
 * [Cosmos链介绍](cosmos/README_CN.md)
