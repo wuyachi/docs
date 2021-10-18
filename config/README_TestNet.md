@@ -16,7 +16,7 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | -------------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
 | CCMP           | 0xb600c8a2e8852832B75DB9Da1A3A1c173eAb28d8 | Cross Chain Manager Proxy contract hash                                                                           |
 | ECCD           | 0xA38366d552672556CE82426Da5031E2Ae0598dcD | Ethereum Cross Chain Data contract hash                                                                           |
-| ECCM           | 0xeC923170324db31cd9cd43C87483D04a2C73F388 | Ethereum Cross Chain Manager contract hash                                                                        |
+| ECCM           | 0xf989E80AAd477cB6059f366C0170a498909C4a55 | Ethereum Cross Chain Manager contract hash                                                                        |
 | Lock Proxy     | 0xD8aE73e06552E270340b63A8bcAbf9277a1aac99 | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx |
 | Wrapper        | 0xDc37471Af6a8aB7f45F444c5a3Ef4758281bE32C | Ethereum Wrapper contract hash                                                                                    |
 | PLT Asset      | 0x1AC77d322e3347B8de181304B7c118a7e89c6Bc1 | The palette asset hash                                                                                            |
