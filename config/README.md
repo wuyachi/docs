@@ -37,7 +37,7 @@ Type | Contract Hash | Desc
 ---|---|---
 CCMP | 0x5a51e2ebf8d136926b9ca7b59b60464e7c44d2eb | Cross Chain Manager Proxy contract hash 
 ECCD | 0xcf2afe102057ba5c16f899271045a0a37fcb10f2 | Ethereum Cross Chain Data contract hash
-ECCM | 0xe020877e67CfAAFFC33a6E7eB9e85741bbb3eA79 | Ethereum Cross Chain Manager contract hash
+ECCM | 0x14413419452Aaf089762A0c5e95eD2A13bBC488C | Ethereum Cross Chain Manager contract hash
 Lock Proxy| 0x250e76987d838a75310c34bf422ea9f1AC4Cc906 | Ethereum Asset Proxy contract hash
 Poly Wrapper | 0x2aA63cd0b28FB4C31fA8e4E95Ec11815Be07b9Ac | lock entrance for auto cross chain tx with fee 
 Wrapper 2.0 | 0xd380450e9e373bDC389951C54616edb2EE653524 | wrapper_v2 that take native asset as fee
