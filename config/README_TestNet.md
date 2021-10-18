@@ -183,7 +183,7 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | -------------- | ------------------------------------------ | ---------------------------------------- |
 | Wrapper        |                                            |                                          |
 | Nep17Proxy     | 0x4487494dac2f7eb68bdae009cacd6de88243e542 | 42e54382e86dcdca09e0da8bb67e2fac4d498744 | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx |
-| CCMC           | 0x618d44dc3af16c6120dbf65402024f40a04f772a | 2a774fa0404f020254f6db20616cf13adc448d61 | Cross Chain Manager Contract   |
+| CCMC           | 0x618d44dc3af16c6120dbf65402024f40a04f772a | 2a774fa0404f020254f6db20616cf13adc448d61 | Cross Chain Manager Contract                                                                                      |
 | NFT Lock Proxy | 0x7acd03102216db84993710cafb924e48a2259e1a | 1a9e25a2484e92fbca10379984db16221003cd7a |
 | NFT cat1       | 0xd74d35311c2a20ba78cd12056d3017da5bd352a6 | a652d35bda17306d0512cd78ba202a1c31354dd7 |
 | NEO            | 0xef4073a0f2b305a38ec4050e4d3d28bc40ea63f5 | f563ea40bc283d4d0e05c48ea305b3f2a07340ef |
@@ -257,6 +257,14 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | Lock Proxy | 0x97f72bA888A26A0F98C67cf15d781dDBFE64B990 | The lock proxy bridge contract hash     |
 | Wrapper    | 0x27eb74B4Db37517F1dC6dE67364e19782624402F |                                         |
 
+## Xdai
+
+| Type       | Contract Hash                              | Desc                                    |
+| ---------- | ------------------------------------------ | --------------------------------------- |
+| CCMP       | 0x3E5ceC313CECaa37319e0F2C949656441103C429 | Cross Chain Manager Proxy contract hash |
+| ECCD       | 0xAefD220aE393144dcb5EFD6Ab55ABDf6a3d0444d | Cross Chain Data contract hash          |
+| ECCM       | 0xF87527a74215777391fE4AfD082FeeED3E5A0ca5 | Cross Chain Manager contract hash       |
+| Lock Proxy | 0x52B3048eeF2E53bAF430B0bA4752999F244d1709 | The lock proxy bridge contract hash     |
 
 ## Router And ChainId
 |   Type   | Router Number |   ChainId    |
@@ -276,4 +284,5 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 |   Bor    |      16       |     202      |
 | NEO(N3)  |      88       |      88      |
 | Arbitrum |       0       |     205      |
+|   Xdai   |       0       |     206      |
 
