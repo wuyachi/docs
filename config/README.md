@@ -391,7 +391,7 @@ Type | Contract Hash | Desc
 ---|---|---
 CCMP | 0x4739fe955BE4704BcB7d6a699823F5B29217Baf6 | Cross Chain Manager Proxy contract hash 
 ECCD | 0xdb3A0149f3155cC1B6890FE382d309dB4b322630 | OKEx Cross Chain Data contract hash
-ECCM | 0x3758fD8D5c29AD2620De837Da7531Bb4d1f64EDc | OKEx Cross Chain Manager contract hash
+ECCM | 0x6CE66Cf89A17B5C22e757cca01beAD901fC8C7f2 | OKEx Cross Chain Manager contract hash
 Lock Proxy| 0x9a3658864Aa2Ccc63FA61eAAD5e4f65fA490cA7D | OKEx Asset Proxy contract hash
 Poly Wrapper | 0x11e2A718d46EBe97645b87F2363AFE1BF28c2672 | lock entrance for auto cross chain tx with fee 
 Wrapper 2.0 | 0xbd4a08577476A521C41a21EF3f00b045b74175d5 | wrapper_v2 that take native asset as fee
