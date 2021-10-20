@@ -265,6 +265,8 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | ECCD       | 0xAefD220aE393144dcb5EFD6Ab55ABDf6a3d0444d | Cross Chain Data contract hash          |
 | ECCM       | 0xF87527a74215777391fE4AfD082FeeED3E5A0ca5 | Cross Chain Manager contract hash       |
 | Lock Proxy | 0x52B3048eeF2E53bAF430B0bA4752999F244d1709 | The lock proxy bridge contract hash     |
+| Wrapper    | 0xa7eDA65F94A2a334a0de42d479585b65D27b2249 |                                         |
+| NB         | 0x82E9948acA92412b8094fE649C3f32bEfFFEDb7C | Token                                   |
 
 ## Router And ChainId
 |   Type   | Router Number |   ChainId    |
