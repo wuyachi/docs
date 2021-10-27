@@ -121,6 +121,7 @@ CFB| 0x5549fE6ED280e5A271A4c8c85277a5F07ec9bbDB| CFB
 EPK | 0xdaf88906ac1de12ba2b1d2f7bfc94e9638ac40c4 | EPK
 ISM| 0x5126efa050f6d3166110039c5ca48cc57b8e6ba2 | ISM
 eCell | 0x9b62ec1453cea5dde760aaf662048ca6eeb66e7f | eCell
+PLT | 0x0944d5848bd9f60a34ba92aea300d4286696eb76| PLT
 
 ## Ethereum: nrenBTC/nsBTC/nTUSD/nUSDC/nwBTC/nwETH/nDAI
 Type | Contract Hash | Desc
