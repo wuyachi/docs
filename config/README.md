@@ -468,6 +468,19 @@ Poly Wrapper | 0xCf018d59B4728d073bd961ABe6A8024A8F0A3cdB | lock entrance for au
 Wrapper 2.0 | 0x0f8C16BA16E58525Eb2aDc231ff360cfa00bB527 | wrapper_v2 that take native asset as fee
 
 
+## xDAI
+
+Type | Contract Hash | Desc
+---|---|---
+CCMP | 0x28FF66a1B95d7CAcf8eDED2e658f768F44841212 | xDAI Cross Chain Manager Proxy contract hash
+CCM | 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03 | xDAI Cross Chain Manager contract hash
+ECCD | 0x4D6934E2bb813f48DC0A7bf7Ead0365D9c894163 | xDAI Cross Chain Data contract hash
+Lock Proxy | 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03 | xDAI Lock Proxy contract hash
+Swapper |  | xDAI Swapper contract hash
+Poly Wrapper |  | lock entrance for auto cross chain tx with fee 
+Wrapper 2.0 |  | wrapper_v2 that take native asset as fee
+
+
 ## Router And ChainId
 Type | Router Number | ChainId
 :-:|:-:|:-:
