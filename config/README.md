@@ -499,7 +499,7 @@ Neo N3 | 14 | 14
 Heimdall | 15 | 15
 Polygon | 16 | 17
 Arbitrum | 0 | 19
-
+xDAI | 0 | 20
 
 ## Relayers
 
