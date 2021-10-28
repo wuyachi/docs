@@ -475,10 +475,10 @@ Type | Contract Hash | Desc
 CCMP | 0x28FF66a1B95d7CAcf8eDED2e658f768F44841212 | xDAI Cross Chain Manager Proxy contract hash
 CCM | 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03 | xDAI Cross Chain Manager contract hash
 ECCD | 0x4D6934E2bb813f48DC0A7bf7Ead0365D9c894163 | xDAI Cross Chain Data contract hash
-Lock Proxy | 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03 | xDAI Lock Proxy contract hash
+Lock Proxy | 0x77F3A156e8E597C64d4a12d62f20a0d2ff839dD5 | xDAI Lock Proxy contract hash
 Swapper |  | xDAI Swapper contract hash
-Poly Wrapper |  | lock entrance for auto cross chain tx with fee 
-Wrapper 2.0 |  | wrapper_v2 that take native asset as fee
+Poly Wrapper | 0xD5d63Dce45E0275Ca76a8b2e9BD8C11679A57D0D | lock entrance for auto cross chain tx with fee 
+Wrapper 2.0 | 0x74A7f2A3aFa8B0CB577985663B5811901A860619 | wrapper_v2 that take native asset as fee
 
 
 ## Router And ChainId
