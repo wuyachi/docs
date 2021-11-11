@@ -14,6 +14,9 @@ ONT | <ul><li>AM5F45WQyVSCYVpVbu8RK6cZZgk1GdDg2Q</li></ul>
 Polygon | <ul><li>0x5e46b85ad7c337068ad17efc82b4d9ff74ccd502</li> <li>0x2b813b392ea7e3c75eb66cd94d525b478e66a5d9</li> <li>0x038db24d7a9b9fb00a09e0fb87cfaf6693d68477</li></ul>
 Arbitrum | <ul><li> 0xdb7e0850cd3c59313dee903a6c7a862499621bef</li><li>0x3ce0372afcd3e44ccbf1378a68bcd83cafd25530</li></ul>
 Xdai | <ul><li> 0xEf4Bd3cfA47711DC034a5cbd2671122A272140aE</li></ul>
+Avalanche | <ul><li> 0x8920954cab0F6A727eE0b1167F5ea878B116F6f3</li><li>0xAa30Cbb380F35DB3C1334aa7D6f736377Fb7B959</li></ul>
+Fantom | <ul><li> 0xA28AD792587e7a616e77bEdd4588B574657641b3</li><li>0xD49939b4139ae0c0d94ac105a9B9328033f864A5
+
 
 
 
