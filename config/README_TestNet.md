@@ -272,12 +272,12 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 
 | Type       | Contract Hash                              | Desc                                    |
 | ---------- | ------------------------------------------ | --------------------------------------- |
-| CCMP       | 0xC8042579D6b60E0e35161F228827E3Fa0F51d5B6 | Cross Chain Manager Proxy contract hash |
-| ECCD       | 0x10BCC4B6C2555fF48540571ebe5aBa6D32915250 | Cross Chain Data contract hash          |
-| ECCM       | 0xbA6F835ECAE18f5Fc5eBc074e5A0B94422a13126 | Cross Chain Manager contract hash       |
-| Lock Proxy | 0x509fB7A017e33f18101dDC0d28Ac06aEaf6Edb4B | The lock proxy bridge contract hash     |
-| Wrapper    | 0x032F9A78473F73A6E10B78CD165F547559125EF1 |                                         |
-| NB         | 0x82E9948acA92412b8094fE649C3f32bEfFFEDb7C | Token                                   |
+| CCMP       | 0x0ca3f95c8f66C7B178414CCFd7a508d349b9f794 | Cross Chain Manager Proxy contract hash |
+| ECCD       | 0xbA6F835ECAE18f5Fc5eBc074e5A0B94422a13126 | Cross Chain Data contract hash          |
+| ECCM       | 0xC8042579D6b60E0e35161F228827E3Fa0F51d5B6 | Cross Chain Manager contract hash       |
+| Lock Proxy | 0x8a85143cA6ec1e181C3A5Ae4042ca999bFbF571B | The lock proxy bridge contract hash     |
+| Wrapper    | 0xE324EF8cd52833DD117e8ca87b483E78b30C3696 |                                         |
+| NB         | 0x3fec290112c79e94f4813fd3f7cbac3391426f50 | Token                                   |
 
 ## Fantom
 
