@@ -290,6 +290,18 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | Wrapper    | 0xFAddf0cfb08F92779560db57BE6b2C7303aaD266 |                                         |
 | NB         | 0x82E9948acA92412b8094fE649C3f32bEfFFEDb7C | Token                                   |
 
+## Avalanche
+
+| Type       | Contract Hash                              | Desc                                    |
+| ---------- | ------------------------------------------ | --------------------------------------- |
+| CCMP       | 0xcdd05Ebaa1FA06a5cE9eB67663aE9Ec78B37bd5B | Cross Chain Manager Proxy contract hash |
+| ECCD       | 0x4d8BC48087b994AA419d4679069584a7C92586A8 | Cross Chain Data contract hash          |
+| ECCM       | 0xf37D8C2d072b74d6532541B70319ef08f9F6a4a8 | Cross Chain Manager contract hash       |
+| Lock Proxy | 0x80a53FD352597AbA3dD52c722119865a8ed82632 | The lock proxy bridge contract hash     |
+| Wrapper    | 0xac0a6759696569B3729177ba6844D41FF6D57844 |                                         |
+| NB         | 0x82E9948acA92412b8094fE649C3f32bEfFFEDb7C | Token                                   |
+
+
 ## Router And ChainId
 |   Type   | Router Number |   ChainId    |
 | :------: | :-----------: | :----------: |
@@ -310,4 +322,5 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | Arbitrum |       0       |     205      |
 |   Xdai   |       0       |     206      |
 |Optimistic|       0       |     207      |
-
+|  Fantom  |       0       |     208      |
+| Avalanche|       0       |     209      |
