@@ -192,6 +192,7 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | fUSDT          | 0x83c442b5dc4ee0ed0e5249352fa7c75f65d6bfd6 | d6bfd6655fc7a72f3549520eede04edcb542c483 |
 | fWBTC          | 0xad97a439b4a035184d1ab46a07ee75687f541237 | 3712547f6875ee076ab41a4d1835a0b439a497ad |
 | fWETH          | 0x38a2aace91f92b979207c0dd50a857c117d4785b | 5b78d417c157a850ddc00792972bf991ceaaa238 |
+| pONT          | 0x74ba424c768dbbb64ce02f7786137cdd4a5dc27b | 7bc25d4add7c1386772fe04cb6bb8d764c42ba74 |
 
 ## Note 
 `B` means big-endian, we can search the contract transaction history in corresponding explorer.
