@@ -241,8 +241,8 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 ## Zilliqa
 | Type       | Contract Hash                              | Desc                                    |
 | ---------- | ------------------------------------------ | --------------------------------------- |
-| CCMP       | 0x720a3fb587b670de99d94925b6f99c9a63d462c1 | Cross Chain Manager Proxy contract hash |
-| CCM        | 0xA38366d552672556CE82426Da5031E2Ae0598dcD | Cross Chain contract hash               |
+| CCMP       | 0x6b95e35a3355df6d841127349f243ef4f017eaf2 | Cross Chain Manager Proxy contract hash |
+| CCM        | 0x720a3fb587b670de99d94925b6f99c9a63d462c1 | Cross Chain contract hash               |
 | Lock Proxy | 0xa5a43eecd29534edf80792a9889f52c77455245d | Lock proxy contract hash                |
 | zETH       | 0x0e0cbcd97db4c94890b528ef3d33d5b5c1776eef | Zilliqa-bridged ETH token               |
 | zDai       | 0x8f79cd968f0968565a157975f4fe406ea22d0571 | Zilliqa-bridged Dai Stablecoin          |
