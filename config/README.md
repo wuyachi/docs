@@ -506,6 +506,18 @@ Swapper |  | Fantom Swapper contract hash
 Poly Wrapper | 0x287Bd66753f0cA8e9C2171D782DF39e4C28cfd65 | lock entrance for auto cross chain tx with fee 
 Wrapper 2.0 | 0xf06587dE89e289Ce480CDf21109A14547eb33A0d | wrapper_v2 that take native asset as fee
 
+## Optimistic
+
+Type | Contract Hash | Desc
+---|---|---
+CCMP | 0xE3D0FB6E3cB5DA61EB18b06D035052441009d1E6 | Optimistic Cross Chain Manager Proxy contract hash
+CCM | 0x2aA63cd0b28FB4C31fA8e4E95Ec11815Be07b9Ac | Optimistic Cross Chain Manager contract hash
+ECCD | 0x6c2A37Cf23E21EF3cFC45FdE2C0E1d3a9e7365f9 | Optimistic Cross Chain Data contract hash
+Lock Proxy | 0xd3b90E2603D265Bf46dBC788059AC12D52B6AC57 | Optimistic Lock Proxy contract hash
+Swapper |  | Optimistic Swapper contract hash
+Poly Wrapper | 0x287Bd66753f0cA8e9C2171D782DF39e4C28cfd65 | lock entrance for auto cross chain tx with fee 
+Wrapper 2.0 | 0xf06587dE89e289Ce480CDf21109A14547eb33A0d | wrapper_v2 that take native asset as fee
+
 ## Router And ChainId
 Type | Router Number | ChainId
 :-:|:-:|:-:
@@ -527,6 +539,7 @@ Arbitrum | 0 | 19
 xDAI | 0 | 20
 Avalanche | 0 | 21
 Fantom | 0 | 22
+Optimistic | 0 | 23
 
 ## Relayers
 
