@@ -505,6 +505,7 @@ Lock Proxy | 0xd3b90E2603D265Bf46dBC788059AC12D52B6AC57 | Avalanche Lock Proxy c
 Swapper | 0xb68C0D092842a4a0272867D89245FCD7e7fcA3Eb | Avalanche Swapper contract hash
 Poly Wrapper | 0x287Bd66753f0cA8e9C2171D782DF39e4C28cfd65 | lock entrance for auto cross chain tx with fee 
 Wrapper 2.0 | 0xf06587dE89e289Ce480CDf21109A14547eb33A0d | wrapper_v2 that take native asset as fee
+COOK | 0x637afeff75ca669fF92e4570B14D6399A658902f | COOK
 
 ## Fantom
 
