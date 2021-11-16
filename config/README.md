@@ -385,7 +385,18 @@ ETH-USDT    | 0x061a87Aac7695b9cf9482043175fd3bE3374AB66 | Eth USDT mapping asse
 BSC-USDC    | 0x9AC8B67Febd3E53c8f08E5A481A9D94Ea51Fb07D | Bsc USDT mapping asset in Curve
 MATIC-USDC    | 0x77b81bd926f9E047ae976B674Af1922b5f34aDD7 | MATIC USDT mapping asset in Curve
 Arbitrum-USDC    | 0x72b70b41A59C9e849FF70de60CEbee4D49612A7F | Arbitrum USDT mapping asset in Curve
-
+Pool-8  | 0x6a07A0520C122f247Df2Fa3129Cc85F70f5485Fc | USDC pool address in Curve
+Pool-8-LP | 0xDB721696803539f30Bcb6FD2559c018a32BE9134 | LP token of pool-8
+ETH-USDC | 0xAed3E54b7229d7b8f3970f0a03D98708716de96b | Eth USDC mapping asset in Curve
+ARB-USDC | 0xE397Abf9beD31911a32e3723c0ACd751fF7Df250 | Arbitrum USDC mapping asset in Curve
+AVAX-USDC | 0xA724b1480F761b32c6C70B80709C46ED24383B36 | Avalanche USDC mapping asset in Curve
+XDAI-USDC | 0xa2546C60b3c4f4223b52c4cCe68CDBf5B03960B4 | XDAI USDC mapping asset in Curve
+Pool-10  | 0x58AD8FF9B7A9c85EeaDedCFdAD1f9bCfF7DA47f3 | USDT pool address in Curve
+Pool-10-LP | 0x9998753c05B9044488729740E0dB6ec21bdf1034 | LP token of pool-10
+ETH-USDT | 0x061a87Aac7695b9cf9482043175fd3bE3374AB66 | Eth USDT mapping asset in Curve
+OP-USDT  | 0xd357cAB6e1B6e2520440D501D1a12349fddD000E | Optimistic USDT mapping asset in Curve
+FTM-USDT | 0xDBa1E44e82f7044DC7d6c964f64a32d1bBBaaeaB | Fantom USDT mapping asset in Curve
+OK-USDT | 0x11ea9E229E022D0498db2Ee4369FFf1238FbEE4f | OK USDT mapping asset in Curve
 
 
 
@@ -398,6 +409,7 @@ ECCM | 0x6CE66Cf89A17B5C22e757cca01beAD901fC8C7f2 | OKEx Cross Chain Manager con
 Lock Proxy| 0x9a3658864Aa2Ccc63FA61eAAD5e4f65fA490cA7D | OKEx Asset Proxy contract hash
 Poly Wrapper | 0x11e2A718d46EBe97645b87F2363AFE1BF28c2672 | lock entrance for auto cross chain tx with fee 
 Wrapper 2.0 | 0xbd4a08577476A521C41a21EF3f00b045b74175d5 | wrapper_v2 that take native asset as fee
+Swapper | 0xb68C0D092842a4a0272867D89245FCD7e7fcA3Eb | Curve entrance for auto cross chain tx with fee
 Wing | 0x7a47ab305b8a2a3f4020d13fa9ef73cddcc0e7d4 | Wing mapping asset in OKEx
 Flux | 0xd0C6821aba4FCC65e8f1542589e64BAe9dE11228 | Flux mapping asset in OKEx
 mBTM | 0xB46985584980c17860CE396667bc74d94Bad4eBF | mBTM mapping asset in OKEx
@@ -478,7 +490,7 @@ CCMP | 0x28FF66a1B95d7CAcf8eDED2e658f768F44841212 | xDAI Cross Chain Manager Pro
 CCM | 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03 | xDAI Cross Chain Manager contract hash
 ECCD | 0x4D6934E2bb813f48DC0A7bf7Ead0365D9c894163 | xDAI Cross Chain Data contract hash
 Lock Proxy | 0x77F3A156e8E597C64d4a12d62f20a0d2ff839dD5 | xDAI Lock Proxy contract hash
-Swapper |  | xDAI Swapper contract hash
+Swapper | 0xb68C0D092842a4a0272867D89245FCD7e7fcA3Eb | xDAI Swapper contract hash
 Poly Wrapper | 0xD5d63Dce45E0275Ca76a8b2e9BD8C11679A57D0D | lock entrance for auto cross chain tx with fee 
 Wrapper 2.0 | 0x74A7f2A3aFa8B0CB577985663B5811901A860619 | wrapper_v2 that take native asset as fee
 
@@ -490,7 +502,7 @@ CCMP | 0xE3D0FB6E3cB5DA61EB18b06D035052441009d1E6 | Avalanche Cross Chain Manage
 CCM | 0x2aA63cd0b28FB4C31fA8e4E95Ec11815Be07b9Ac | Avalanche Cross Chain Manager contract hash
 ECCD | 0x6c2A37Cf23E21EF3cFC45FdE2C0E1d3a9e7365f9 | Avalanche Cross Chain Data contract hash
 Lock Proxy | 0xd3b90E2603D265Bf46dBC788059AC12D52B6AC57 | Avalanche Lock Proxy contract hash
-Swapper |  | Avalanche Swapper contract hash
+Swapper | 0xb68C0D092842a4a0272867D89245FCD7e7fcA3Eb | Avalanche Swapper contract hash
 Poly Wrapper | 0x287Bd66753f0cA8e9C2171D782DF39e4C28cfd65 | lock entrance for auto cross chain tx with fee 
 Wrapper 2.0 | 0xf06587dE89e289Ce480CDf21109A14547eb33A0d | wrapper_v2 that take native asset as fee
 
@@ -502,7 +514,7 @@ CCMP | 0xE3D0FB6E3cB5DA61EB18b06D035052441009d1E6 | Fantom Cross Chain Manager P
 CCM | 0x2aA63cd0b28FB4C31fA8e4E95Ec11815Be07b9Ac | Fantom Cross Chain Manager contract hash
 ECCD | 0x6c2A37Cf23E21EF3cFC45FdE2C0E1d3a9e7365f9 | Fantom Cross Chain Data contract hash
 Lock Proxy | 0xd3b90E2603D265Bf46dBC788059AC12D52B6AC57 | Fantom Lock Proxy contract hash
-Swapper |  | Fantom Swapper contract hash
+Swapper | 0xb68C0D092842a4a0272867D89245FCD7e7fcA3Eb | Fantom Swapper contract hash
 Poly Wrapper | 0x287Bd66753f0cA8e9C2171D782DF39e4C28cfd65 | lock entrance for auto cross chain tx with fee 
 Wrapper 2.0 | 0xf06587dE89e289Ce480CDf21109A14547eb33A0d | wrapper_v2 that take native asset as fee
 
@@ -514,7 +526,7 @@ CCMP | 0xE3D0FB6E3cB5DA61EB18b06D035052441009d1E6 | Optimistic Cross Chain Manag
 CCM | 0x2aA63cd0b28FB4C31fA8e4E95Ec11815Be07b9Ac | Optimistic Cross Chain Manager contract hash
 ECCD | 0x6c2A37Cf23E21EF3cFC45FdE2C0E1d3a9e7365f9 | Optimistic Cross Chain Data contract hash
 Lock Proxy | 0xd3b90E2603D265Bf46dBC788059AC12D52B6AC57 | Optimistic Lock Proxy contract hash
-Swapper |  | Optimistic Swapper contract hash
+Swapper | 0xD24BEcEdFCE7f95693Fa3938eaC6dd66725B4Bbf | Optimistic Swapper contract hash
 Poly Wrapper | 0x287Bd66753f0cA8e9C2171D782DF39e4C28cfd65 | lock entrance for auto cross chain tx with fee 
 Wrapper 2.0 | 0xf06587dE89e289Ce480CDf21109A14547eb33A0d | wrapper_v2 that take native asset as fee
 
