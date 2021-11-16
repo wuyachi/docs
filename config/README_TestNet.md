@@ -188,6 +188,7 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | NFT cat1       | 0xd74d35311c2a20ba78cd12056d3017da5bd352a6 | a652d35bda17306d0512cd78ba202a1c31354dd7 |
 | NEO            | 0xef4073a0f2b305a38ec4050e4d3d28bc40ea63f5 | f563ea40bc283d4d0e05c48ea305b3f2a07340ef |
 | GAS            | 0xd2a4cff31913016155e38e474a2c06d08be276cf | cf76e28bd0062c4a478ee35561011319f3cfa4d2 |
+| bNEO            | 0x48c40d4666f93408be1bef038b6722404d9a4c2a | 2a4c9a4d4022678b03ef1bbe0834f966460dc448 |
 | FLM            | 0x1415ab3b409a95555b77bc4ab6a7d9d7be0eddbd | bddd0ebed7d9a7b64abc775b55959a403bab1514 |
 | fUSDT          | 0x83c442b5dc4ee0ed0e5249352fa7c75f65d6bfd6 | d6bfd6655fc7a72f3549520eede04edcb542c483 |
 | fWBTC          | 0xad97a439b4a035184d1ab46a07ee75687f541237 | 3712547f6875ee076ab41a4d1835a0b439a497ad |
