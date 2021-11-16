@@ -285,9 +285,9 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 
 | Type       | Contract Hash                              | Desc                                    |
 | ---------- | ------------------------------------------ | --------------------------------------- |
-| CCMP       | 0xc5757b5d22984E534004cC7Fb1D59eD14EC510a5 | Cross Chain Manager Proxy contract hash |
-| ECCD       | 0x709D63f3d1a46B89cE4F6a61C8fb16aB29fD26F8 | Cross Chain Data contract hash          |
-| ECCM       | 0xD9A3d265a1127051F620e700B5a461af4991EaAE | Cross Chain Manager contract hash       |
+| CCMP       | 0x74D67A4EFbA6Dbbb14DC574b6Db4F11f6b1C5af8 | Cross Chain Manager Proxy contract hash |
+| ECCD       | 0x4Bf7b284De2999628CBBEf6fE9F74f8B8E5eBF16 | Cross Chain Data contract hash          |
+| ECCM       | 0x1C84D74084c3C3301BE4777A568D78211189c871 | Cross Chain Manager contract hash       |
 | Lock Proxy | 0x4a76E52600C6285029c8f7c52183cf86282cA5b8 | The lock proxy bridge contract hash     |
 | Wrapper    | 0xFAddf0cfb08F92779560db57BE6b2C7303aaD266 |                                         |
 | NB         | 0x82E9948acA92412b8094fE649C3f32bEfFFEDb7C | Token                                   |
