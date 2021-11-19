@@ -15,8 +15,8 @@ Polygon | <ul><li>0x5e46b85ad7c337068ad17efc82b4d9ff74ccd502</li> <li>0x2b813b39
 Arbitrum | <ul><li> 0xdb7e0850cd3c59313dee903a6c7a862499621bef</li><li>0x3ce0372afcd3e44ccbf1378a68bcd83cafd25530</li></ul>
 Xdai | <ul><li> 0xEf4Bd3cfA47711DC034a5cbd2671122A272140aE</li></ul>
 Avalanche | <ul><li> 0x8920954cab0F6A727eE0b1167F5ea878B116F6f3</li><li>0xAa30Cbb380F35DB3C1334aa7D6f736377Fb7B959</li></ul>
-Fantom | <ul><li> 0xA28AD792587e7a616e77bEdd4588B574657641b3</li><li>0xD49939b4139ae0c0d94ac105a9B9328033f864A5
-
+Fantom | <ul><li> 0xA28AD792587e7a616e77bEdd4588B574657641b3</li><li>0xD49939b4139ae0c0d94ac105a9B9328033f864A5</li></ul>
+Optimistic | <ul><li> 0xdaA64a287B043DBeC2413B18FcAE6A0BBd710113</li><li>0xAd371A8d57815F0a5dD60ed9Ff6DbD46A6D3D797</li></ul>
 
 
 
@@ -391,6 +391,7 @@ ETH-USDC | 0xAed3E54b7229d7b8f3970f0a03D98708716de96b | Eth USDC mapping asset i
 ARB-USDC | 0xE397Abf9beD31911a32e3723c0ACd751fF7Df250 | Arbitrum USDC mapping asset in Curve
 AVAX-USDC | 0xA724b1480F761b32c6C70B80709C46ED24383B36 | Avalanche USDC mapping asset in Curve
 XDAI-USDC | 0xa2546C60b3c4f4223b52c4cCe68CDBf5B03960B4 | XDAI USDC mapping asset in Curve
+OP-USDC | 0xa70Bc553b23dCe0001438654f8CaF0A39d0Df775 | Optimistic USDC mapping asset in Curve
 Pool-10  | 0x58AD8FF9B7A9c85EeaDedCFdAD1f9bCfF7DA47f3 | USDT pool address in Curve
 Pool-10-LP | 0x9998753c05B9044488729740E0dB6ec21bdf1034 | LP token of pool-10
 ETH-USDT | 0x061a87Aac7695b9cf9482043175fd3bE3374AB66 | Eth USDT mapping asset in Curve
