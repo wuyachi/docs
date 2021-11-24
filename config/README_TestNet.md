@@ -63,7 +63,7 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | -------------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
 | CCMP           | 0x441C035446c947a97bD36b425B67907244576990 | Cross Chain Manager Proxy contract hash                                                                           |
 | ECCD           | 0xE815E5B52A659d78c91B747f7A3b358cc4F04794 | Cross Chain Data contract hash                                                                                    |
-| ECCM           | 0x0894CbaD33e4232f443570E88Fc8209aE7eBdfA5 | Cross Chain Manager contract hash                                                                                 |
+| ECCM           | 0x906bC93FF690d6D3D2C4E7A7dfA4dEbdEF2cD7CA | Cross Chain Manager contract hash                                                                                 |
 | Lock Proxy     | 0x097Ae585BfEf78DDC8E266ABCb840dAF7265130c | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx |
 | Wrapper        | 0x9f9F15CC407F7b26f55D71D43f993580a9107007 | wrapper contract hash                                                                                             |
 | NFT Lock Proxy | 0x9bEF1AE7304D3d2F344ea00e796ADa18cE1beb03 | The NFT lockc proxy contract hash                                                                                 |
