@@ -71,6 +71,7 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | NFT Query      | 0xAB3e1F13127bE931A71Fdc8940bd31506EFC6A70 | The NFT profile query contract hash                                                                               |
 | NFT SEASCAPE   | 0x66638F4970C2ae63773946906922c07a583b6069 | The seascape NFT contracct hash                                                                                   |
 | NFT cat1       | 0x455B51D882571E244d03668f1a458ca74E70d196 | The NFT collection of `digitalCat1` contract hash                                                                 |
+| NFT Nobel Boss | 0x301294a9c7c218d439edd6d5ab16f9663fc10f3e | The NFT Nobel Boss Mint contract              | 
 | Bnb            | 0x0000000000000000000000000000000000000000 | The asset hash that we treat as the Bnb asset                                                                     |
 | USDT           | 0x23F5075740c2C99C569FfD0768c383A92d1a4aD7 | USD Tether                                                                                                        |
 | USDC           | 0xeE8410B64aAed811d84c313b72E040Cb09840b80 | USDC                                                                                                              |
@@ -227,6 +228,9 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | Lock Proxy   | 0x4e5eF0CA5A94b169Fb010fb40DBFD57c4830f446 | The lock proxy bridge contract hash             |
 | Poly Wrapper | 0xD5d63Dce45E0275Ca76a8b2e9BD8C11679A57D0D | lock entrance for auto cross chain tx with fee  |
 | Swapper      | 0x1B0C55be400e2a7D924032B257Fbc75Bbfd256E7 | Curve entrance for auto cross chain tx with fee |
+| NFT Lock Proxy | 0x761fb099d021cf55ffe65f9bedd3e2bab52abccc | The NFT lockc proxy contract hash             |
+| NFT Wrapper    | 0xea5b2a0cf4ca9bd5c72ea1fbee1ffe420e57f692 | The NFT Wrapper contract hash                 |                                                                   | NFT Query      | 0x13227576c94119755bbad5bf01d8ac332f80e8ad | The NFT profile query contract hash           | 
+| NFT Nobel Boss | 0xd0609f06ffa034a525d31fdc1a4ba94a457f4620 | The NFT Nobel Boss Mint contract              | 
 
 ## Palette
 
