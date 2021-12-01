@@ -218,7 +218,7 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 |    ATOM    |       stake       |                7374616b65                | not including currently |
 
 
-## Bor
+## Polygon
 
 | Type         | Contract Hash                              | Desc                                            |
 | ------------ | ------------------------------------------ | ----------------------------------------------- |
