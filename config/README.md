@@ -47,6 +47,10 @@ Swapper | 0xaf83ce8d461e8834de03a3803c968615013c6b3d | curve entrance for auto c
 NFT Lock Proxy | 0x2cdfc90250EF967036838DA601099656e74bCfc5 | The NFT lockc proxy contract hash
 NFT Wrapper | 0xe5204d62361A353C665668C858Ea213070CA159c | The NFT Wrapper contract hash
 NFT Query | 0xB2265A122814dA516318F727183a5D8FeCA8BaCE | The NFT profile query contract hash
+PLT NFT Lock Proxy | 0xD33e44F6E4fE37C4dF23c7171657721B9A725417 | Contract hash of dedicated Palette NFT lock proxy 
+PLT NFT Wrapper | 0xD728e9844af285fA116806c273aa413686aE65e8 | Contract hash of dedicated Palette NFT Wrapper
+PLT NFT Wrapper Fee collecotr | 0x0E860F44d73F9FDbaF5E9B19aFC554Bf3C8E8A57 | Fee collector address of dedicated Palette NFT wrapper
+feiyuan(PLT) | 0x98D848869618CB0178388cA2318952d6495Fb654 | Contract hash of palette nft testing asset
 pONT| 0xcb46c550539ac3db72dc7af7c89b11c306c727c2 | Ethereum Ontology Token
 WBTC| 0x2260fac5e5542a773aa44fbcfedf7c193bc2c599 | WBTC
 USDC| 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48 | USDC
@@ -465,6 +469,11 @@ ECCD | 0x250e76987d838a75310c34bf422ea9f1AC4Cc906 | Palette Cross Chain Data con
 ECCM | 0x1b02EEE12A7bF02922113a70d3D343De4b43f776 | Palette Cross Chain Manager contract hash
 CCMP | 0x7622058504412D5183352A7d350653DfFe58b1DC | Cross Chain Manager Proxy contract hash 
 PLT Wrapper | 0x0A9C412633465fdeE4861CeE02987386100bEAe6 | lock entrance for auto cross chain tx with fee 
+NFT Lock proxy | 0xdCA22CbA4a2d3dA3883b479f824F2147efed1718 | Contract hash of palette lock proxy
+NFT Wrapper | 0x41985E2A8826233618392e38d46d2060fbCC3F2A | Contract hash of palette NFT native wrapper
+NFT Query | 0x0F05299e6ab0FbB3258296d3Ae7bF6Ae53A0c414 | Contract hash of palette NFT query
+NFT Fee Collector | 0x0E860F44d73F9FDbaF5E9B19aFC554Bf3C8E8A57 | fee collector address of palette NFT wrapper
+feiyuan(PLT)| 0x0000000000000000000000000000000000001003 | Test asset hash of palette NFT contracts
 
 ## Zilliqa
 
