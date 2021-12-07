@@ -58,3 +58,17 @@ Node Index | IP | Rpc Port | Mode
 1|172.168.3.85|22000|Miner
 2|172.168.3.84|22001|Miner
 3|172.168.3.85|22001|Miner
+
+## Main chain Contracts
+ChainID | CrossChainID | Contract Name | Contract address
+---|---|---|---
+10897 | 1 | native lock proxy | 0x7d79D936DA7833c7fe056eB450064f34A327DcA8
+10897 | 1 | native token wrapper | 0x5D315b2f0C63890eFbfB37c26E0ae0807e72bCc9
+
+## Side chain Contracts
+ChainID | CrossChainID | Contract Name | Contract address
+---|---|---|---
+108 | 77 | eccd | 0x34d4a23A1FC0C694f0D74DDAf9D8d564cfE2D430
+108 | 77 | eccm | 0xc6195336878Fc34B1b5A13895015a97c1aD9cc25
+108 | 77 | native lock proxy | 0x7d79D936DA7833c7fe056eB450064f34A327DcA8
+108 | 77 | native token wrapper | 0x3b2749D4Ca77837730e8ff8318DC9cc688595E95
