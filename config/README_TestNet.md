@@ -323,7 +323,7 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 |    OK    |      12       |     200      |
 |  Curve   |      10       |      82      |
 | Heimdall |      15       |     201      |
-|   Bor    |      16       |     202      |
+|Polygon   |      16       |     202      |
 | NEO(N3)  |      88       |      88      |
 | Arbitrum |       0       |     205      |
 |   Xdai   |       0       |     206      |
