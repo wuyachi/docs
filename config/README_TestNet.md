@@ -229,7 +229,8 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | Poly Wrapper | 0xD5d63Dce45E0275Ca76a8b2e9BD8C11679A57D0D | lock entrance for auto cross chain tx with fee  |
 | Swapper      | 0x1B0C55be400e2a7D924032B257Fbc75Bbfd256E7 | Curve entrance for auto cross chain tx with fee |
 | NFT Lock Proxy | 0x761fb099d021cf55ffe65f9bedd3e2bab52abccc | The NFT lockc proxy contract hash             |
-| NFT Wrapper    | 0xea5b2a0cf4ca9bd5c72ea1fbee1ffe420e57f692 | The NFT Wrapper contract hash                 |                                                                   | NFT Query      | 0x13227576c94119755bbad5bf01d8ac332f80e8ad | The NFT profile query contract hash           | 
+| NFT Wrapper    | 0xea5b2a0cf4ca9bd5c72ea1fbee1ffe420e57f692 | The NFT Wrapper contract hash                 |                                                                  
+| NFT Query      | 0x13227576c94119755bbad5bf01d8ac332f80e8ad | The NFT profile query contract hash           | 
 | NFT Nobel Boss | 0xd0609f06ffa034a525d31fdc1a4ba94a457f4620 | The NFT Nobel Boss Mint contract              | 
 
 ## Palette
@@ -307,6 +308,18 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | Wrapper    | 0xac0a6759696569B3729177ba6844D41FF6D57844 |                                         |
 | NB         | 0x82E9948acA92412b8094fE649C3f32bEfFFEDb7C | Token                                   |
 
+## Metis
+
+| Type       | Contract Hash                              | Desc                                    |
+| ---------- | ------------------------------------------ | --------------------------------------- |
+| CCMP       | 0xD5a240f7F755bCa2aE992E807b06d24eB6DF7C12 | Cross Chain Manager Proxy contract hash |
+| ECCD       | 0x30e6ec356ceF1cfe3c7e14392EA08448382327bD | Cross Chain Data contract hash          |
+| ECCM       | 0xd6fc5374649cea121395a4860FdB33F21783c4Af | Cross Chain Manager contract hash       |
+| Lock Proxy | 0x0AF53d318De279C8e67FcC6914acF387CFaA8B7E | The lock proxy bridge contract hash     |
+| Wrapper    | 0xc2d365475EEf3ec83e59D1BcDF3A291D7B23Ba99 |                                         |
+| Wrapper2.0 | 0xb0354F5383839e163438Aa53dd58E5e70a548F2F |                                         |
+
+
 
 ## Router And ChainId
 |   Type   | Router Number |   ChainId    |
@@ -330,3 +343,4 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 |Optimistic|       0       |     207      |
 |  Fantom  |       0       |     208      |
 | Avalanche|       0       |     209      |
+|  Metis   |       0       |     300      |
