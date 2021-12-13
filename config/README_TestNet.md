@@ -318,7 +318,37 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | Lock Proxy | 0x0AF53d318De279C8e67FcC6914acF387CFaA8B7E | The lock proxy bridge contract hash     |
 | Wrapper    | 0xc2d365475EEf3ec83e59D1BcDF3A291D7B23Ba99 |                                         |
 | Wrapper2.0 | 0xb0354F5383839e163438Aa53dd58E5e70a548F2F |                                         |
+| NB         | 0x82E9948acA92412b8094fE649C3f32bEfFFEDb7C | Token                                   |
 
+## Goerli
+| Type       | Contract Hash                              | Desc                                    |
+| ---------- | ------------------------------------------ | --------------------------------------- |
+| CCMP       | 0xC8042579D6b60E0e35161F228827E3Fa0F51d5B6 | Cross Chain Manager Proxy contract hash |
+| ECCD       | 0x10BCC4B6C2555fF48540571ebe5aBa6D32915250 | Cross Chain Data contract hash          |
+| ECCM       | 0xbA6F835ECAE18f5Fc5eBc074e5A0B94422a13126 | Cross Chain Manager contract hash       |
+| Lock Proxy | 0x509fB7A017e33f18101dDC0d28Ac06aEaf6Edb4B | The lock proxy bridge contract hash     |
+| Wrapper2.0 | 0xA058FC5427d3E634698d1185C1BA01ADAf998E14 |                                         |
+| NB         | 0x3AA03cD463D1e05e05F717a721bE1bC98dA54917 | Token                                   |
+
+## Rinkeby
+| Type       | Contract Hash                              | Desc                                    |
+| ---------- | ------------------------------------------ | --------------------------------------- |
+| CCMP       | 0x0ca3f95c8f66C7B178414CCFd7a508d349b9f794 | Cross Chain Manager Proxy contract hash |
+| ECCD       | 0xbA6F835ECAE18f5Fc5eBc074e5A0B94422a13126 | Cross Chain Data contract hash          |
+| ECCM       | 0xC8042579D6b60E0e35161F228827E3Fa0F51d5B6 | Cross Chain Manager contract hash       |
+| Lock Proxy | 0x8a85143cA6ec1e181C3A5Ae4042ca999bFbF571B | The lock proxy bridge contract hash     |
+| Wrapper2.0 | 0xE324EF8cd52833DD117e8ca87b483E78b30C3696 |                                         |
+| NB         | 0x3AA03cD463D1e05e05F717a721bE1bC98dA54917 | Token                                   |
+
+## Kovan
+| Type       | Contract Hash                              | Desc                                    |
+| ---------- | ------------------------------------------ | --------------------------------------- |
+| CCMP       | 0x8a85143cA6ec1e181C3A5Ae4042ca999bFbF571B | Cross Chain Manager Proxy contract hash |
+| ECCD       | 0x7D87b4C81B9efE1783E0524a6f475F9C526641C2 | Cross Chain Data contract hash          |
+| ECCM       | 0x509fB7A017e33f18101dDC0d28Ac06aEaf6Edb4B | Cross Chain Manager contract hash       |
+| Lock Proxy | 0x95a10b809c9Cfd51A46652C785ac73d7269834b9 | The lock proxy bridge contract hash     |
+| Wrapper2.0 | 0xa2d97d1A123c6bD39AFD97F696B937fAcb024313 |                                         |
+| NB         | 0x2dA279bD19AB7E8641c0EE1884Da56fb636Ca20f | Token                                   |
 
 
 ## Router And ChainId
@@ -344,3 +374,6 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 |  Fantom  |       0       |     208      |
 | Avalanche|       0       |     209      |
 |  Metis   |       0       |     300      |
+|  Goerli  |       0       |     502      |
+|  Rinkeby |       0       |     402      |
+|  Kovan   |       0       |     302      |
