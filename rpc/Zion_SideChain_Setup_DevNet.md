@@ -46,18 +46,18 @@ Address | Public Key
 0xc5e2344b875e236b3475e9e4E70448525cA5210F|0x02139a07905f7cfa2740437d728bf5c60f4c7c4a263edafd4f1437f6f6f712b361
 
 ## Machine
-IP | SSH Port
+IP | SSH Port 
 ---|---
-172.168.3.84|22
-172.168.3.85|22
+101.32.98.88|22
+124.156.208.166|22
 
 ## Nodes
 Node Index | IP | Rpc Port | Mode
 ---|---|---|---
-0|172.168.3.84|22000|Miner
-1|172.168.3.85|22000|Miner
-2|172.168.3.84|22001|Miner
-3|172.168.3.85|22001|Miner
+0|101.32.98.88|22000|Miner
+1|124.156.208.166|22000|Miner
+2|101.32.98.88|22001|Miner
+3|124.156.208.166|22001|Miner
 
 ## Main chain Contracts
 ChainID | CrossChainID | Contract Name | Contract address
