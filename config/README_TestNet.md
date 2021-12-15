@@ -1,4 +1,4 @@
-# [MainNet](README.md) | TestNet | [DevNet](README_DevNet.md) 
+# [MainNet](README.md) | TestNet | [DevNet](README_DevNet.md) | [Zion_DevNet](Zion_dev_contracts.md)
 
 This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to bind asset mapping in different chain, if the name ends with (s) on behalf of the asset is mapping.
 
@@ -65,6 +65,7 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | ECCD           | 0xE815E5B52A659d78c91B747f7A3b358cc4F04794 | Cross Chain Data contract hash                                                                                    |
 | ECCM           | 0x906bC93FF690d6D3D2C4E7A7dfA4dEbdEF2cD7CA | Cross Chain Manager contract hash                                                                                 |
 | Lock Proxy     | 0x097Ae585BfEf78DDC8E266ABCb840dAF7265130c | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx |
+| Lock Proxy1.5  | 0xB0F4A324871faca39948efFF7b115DE1a08C0C8B | The lock proxy 1.5 bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx |
 | Wrapper        | 0x9f9F15CC407F7b26f55D71D43f993580a9107007 | wrapper contract hash                                                                                             |
 | NFT Lock Proxy | 0x9bEF1AE7304D3d2F344ea00e796ADa18cE1beb03 | The NFT lockc proxy contract hash                                                                                 |
 | NFT Wrapper    | 0x61E289D43C1FEA7598786557A2F309979ad144D3 | The NFT Wrapper contract hash                                                                                     |
@@ -89,6 +90,8 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | CVT            | 0x539DAAFE03Ff2685C8D7922a61C1A66f22807bb7 |
 | REVO           | 0x155040625D7ae3e9caDA9a73E3E44f76D3Ed1409 |
 | Essentia       | 0xcdA43a8EF603aC31DA6E104b481146374C53149C |
+| Metis          | 0xe552fb52a4f19e44ef5a967632dbc320b0820639 | Token
+| LPToken        | 0x53A8a63f0ECb568F5921dcB282814C43Bd5E925F | Metis LP Token
 
 
 ## OK
@@ -316,9 +319,12 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | ECCD       | 0x30e6ec356ceF1cfe3c7e14392EA08448382327bD | Cross Chain Data contract hash          |
 | ECCM       | 0xd6fc5374649cea121395a4860FdB33F21783c4Af | Cross Chain Manager contract hash       |
 | Lock Proxy | 0x0AF53d318De279C8e67FcC6914acF387CFaA8B7E | The lock proxy bridge contract hash     |
+|LockProxy1.5| 0xDD8853B03b00f3411c22568054E2bdc704C6fFA9 | The lock proxy 1.5 bridge contract hash |
 | Wrapper    | 0xc2d365475EEf3ec83e59D1BcDF3A291D7B23Ba99 |                                         |
 | Wrapper2.0 | 0xb0354F5383839e163438Aa53dd58E5e70a548F2F |                                         |
 | NB         | 0x82E9948acA92412b8094fE649C3f32bEfFFEDb7C | Token                                   |
+| Metis      | 0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000 | Token                                   |
+| LPToken    | 0x191BD00B4F94Ea3a7e5c62B402c1Be5A6870ceed | Metis LP Token                          |
 
 ## Goerli
 | Type       | Contract Hash                              | Desc                                    |
