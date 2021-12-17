@@ -440,6 +440,9 @@ ECCM | 0xB16FED79a6Cb9270956f045F2E7989AFfb75d459 | Polygon Cross Chain Manager 
 Lock Proxy| 0x28ff66a1b95d7cacf8eded2e658f768f44841212 | Polygon Asset Proxy contract hash
 Poly Wrapper | 0x4493fb5dc195900938CC23096C7EEdEfc434e283 | lock entrance for auto cross chain tx with fee 
 Wrapper 2.0 | 0xB88f13682F3C602aCD84B4b2eEB96A9DD75Afd89 | wrapper_v2 that take native asset as fee
+NFT Lock Proxy | 0x359596463F4F4e5969330D74504A614c22885D62 | The NFT lockc proxy contract hash
+NFT Wrapper | 0x6cEB2EC1E82880812F6aA60DfA260679D6C8323d | The NFT Wrapper contract hash
+NFT Query | 0x6AF09953541c7b4d0023c5E5a4241F82C68E986C | The NFT profile query contract hash
 Swapper | 0xaC57280B3A657A2e8D1180493C519a476D208F61 | Curve entrance for auto cross chain tx with fee 
 O3 | 0xee9801669c6138e84bd50deb500827b776777d28 | O3
 USDC | 0x2791bca1f2de4661ed88a30c99a7a9449aa84174 | USDC
