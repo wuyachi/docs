@@ -65,9 +65,9 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | ECCD           | 0xE815E5B52A659d78c91B747f7A3b358cc4F04794 | Cross Chain Data contract hash                                                                                    |
 | ECCM           | 0x906bC93FF690d6D3D2C4E7A7dfA4dEbdEF2cD7CA | Cross Chain Manager contract hash                                                                                 |
 | Lock Proxy     | 0x097Ae585BfEf78DDC8E266ABCb840dAF7265130c | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx |
-| Lock Proxy1.5  | 0x21438c8d5a7805d7A378C99a0d31F4DB8845765D | The lock proxy 1.5 bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx |
+| Lock Proxy1.5  | 0xB4004B93f1ce1E63131413cA201D35D1F3f40e5D | The lock proxy 1.5 bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx |
 | Wrapper        | 0x9f9F15CC407F7b26f55D71D43f993580a9107007 | wrapper contract hash                                                                                             |
-| Wrapper1.5     | 0x0421e5B39C062db36f3a9906692255B001F51e25 | wrapper contract hash  used by lockproxy2.0                                                                       |
+| Wrapper3.0     | 0xfb717F8d478156fE7428369075bB2FaB4Ea659B5 | wrapper contract hash  used by lockproxy2.0                                                                       |
 | NFT Lock Proxy | 0x9bEF1AE7304D3d2F344ea00e796ADa18cE1beb03 | The NFT lockc proxy contract hash                                                                                 |
 | NFT Wrapper    | 0x61E289D43C1FEA7598786557A2F309979ad144D3 | The NFT Wrapper contract hash                                                                                     |
 | NFT Query      | 0xAB3e1F13127bE931A71Fdc8940bd31506EFC6A70 | The NFT profile query contract hash                                                                               |
@@ -92,7 +92,7 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | REVO           | 0x155040625D7ae3e9caDA9a73E3E44f76D3Ed1409 |
 | Essentia       | 0xcdA43a8EF603aC31DA6E104b481146374C53149C |
 | Metis          | 0xdB2D16f61e3e1bD54Ba8068E04F5552e718d5b7c | Token
-| LPToken        | 0x688e51E632126F55937c7685e5a827f34eC3D8Ba | Metis LP Token
+| LPToken        | 0xd6828c954E27Ae3929f098BA2Fb8Bf163817C40b | Metis LP Token
 
 
 ## OK
@@ -320,13 +320,13 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | ECCD       | 0x30e6ec356ceF1cfe3c7e14392EA08448382327bD | Cross Chain Data contract hash          |
 | ECCM       | 0xd6fc5374649cea121395a4860FdB33F21783c4Af | Cross Chain Manager contract hash       |
 | Lock Proxy | 0x0AF53d318De279C8e67FcC6914acF387CFaA8B7E | The lock proxy bridge contract hash     |
-|LockProxy1.5| 0xfaBe13d00F4c957150e223A2A09451e0a5418402 | The lock proxy 1.5 bridge contract hash |
+|LockProxy1.5| 0xe6E89cde11B89D940D25c35eaec7aCB489D29820 | The lock proxy 1.5 bridge contract hash |
 | Wrapper    | 0xc2d365475EEf3ec83e59D1BcDF3A291D7B23Ba99 |                                         |
-| Wrapper1.5 | 0x997a029778289BFE5777C2C48DD884D49cD3868A | The Wrapper used in lockProxy 1.5       |
+| Wrapper3.0 | 0xA09E4d0406123d14CFB1d60D78C6Dc386b7de7F9 | The Wrapper used in lockProxy 1.5       |
 | Wrapper2.0 | 0xb0354F5383839e163438Aa53dd58E5e70a548F2F |                                         |
 | NB         | 0x82E9948acA92412b8094fE649C3f32bEfFFEDb7C | Token                                   |
 | Metis      | 0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000 | Token                                   |
-| LPToken    | 0x43AAA252Ecd6e92D4Df68d979b37e3BaC7fec2db | Metis LP Token                          |
+| LPToken    | 0x7A6EE6Aa417a420e2db416895501469fe3095971 | Metis LP Token                          |
 
 ## Goerli
 | Type       | Contract Hash                              | Desc                                    |
