@@ -83,6 +83,24 @@ GASx | gasx | 67617378 | not including in the testing framework
 Cosmos| stake | 7374616b65 | not including in the testing framework
 
 
+
+## Pixie
+
+Type | Contract Hash | Desc
+---|---|---
+ECCD | 0x25BB8E9C0Cc03B30d09769735208a47d389Ff36c | Ethereum Cross Chain Data contract hash
+ECCM | 0x6fd13dd4181dDb0f7463e19caC659FD3e9FB8a82 | Ethereum Cross Chain Manager contract hash
+CCMP | 0x9bEF1AE7304D3d2F344ea00e796ADa18cE1beb03 | Cross Chain Manager Proxy contract hash 
+NFT Lock Proxy | ebad45b887c6bf7cc4c1df8f72da156bc91b04b7 | NFT lock proxy contract hash
+NFT Wrapper | 0x3237b7BC8283B4E07bAC017EAe52eBC34B278cE9 | NFT Wrapper contract hash
+NFT Query | 0x35EFCE8D79D6Cae30B38F6dAC3fc55C62c146b4c | NFT Query contract hash
+P11008713 | 0x2B5bAB0C9D94C380cf87F5B3033258b673FEFa65 | NFT Source asset contract hash
+P11008713 | 0x94aa42C5dAB9b1006f59FF5E311344CC460A2335 | NFT Dest asset contract hash, this asset only used for testing, pixie chain is both of source chain and dest chain
+
+pixie test net rpc: https://http-testnet.chain.pixie.xyz <br>
+pixie test net explorer: https://scan-testnet.chain.pixie.xyz/
+
+
 ## Router And ChainId
 Type | Router Number | ChainId
 :-:|:-:|:-:
@@ -93,3 +111,4 @@ NEO Legacy | 217 | 217
 NEO N3 | 220 | 220
 Cosmos-gaia | 5 | 8
 Switcheo | 5 | 182
+Pixie | 19 | 321
