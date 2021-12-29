@@ -212,8 +212,10 @@ CCMP | 0xABD7f7B89c5fD5D0AEf06165f8173b1b83d7D5c9 | Cross Chain Manager Proxy co
 ECCD | 0x11e2A718d46EBe97645b87F2363AFE1BF28c2672 | BSC Cross Chain Data contract hash
 ECCM | 0x1c9Ca8aBb5da65d94DaD2E8Fb3f45535480d5909 | BSC Cross Chain Manager contract hash
 Lock Proxy| 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03 | BSC Asset Proxy contract hash
+Lock Proxy 1.5 |  0x712EA8f50032Ce78eC74c2389B4544a14F9ADDce | BSC Asset Proxy with LP contract hash
 Poly Wrapper | 0xE3D0FB6E3cB5DA61EB18b06D035052441009d1E6 | lock entrance for auto cross chain tx with fee 
 Wrapper 2.0 | 0x4b0CFdb5e1Ca898a225F9E14AfF9e4eF178a10d2 | wrapper_v2 that take native asset as fee
+Wrapper 3.0 | 0xbc3B4E7517c06019F30Bf2f707eD2770b85f9928 | wrapper_v3 that take native asset as fee
 Swapper | 0x00b93851e3135663AAeC351555EddEE5B01325e6 | Curve entrance for auto cross chain tx with fee 
 NFT Lock Proxy | 0x2cdfc90250EF967036838DA601099656e74bCfc5 | The NFT lockc proxy contract hash
 NFT Wrapper | 0xe2bD9dD8FAF5C4C2087Ab82eC7E63F619CcAa152 | The NFT Wrapper contract hash
@@ -549,6 +551,16 @@ Swapper | 0xD24BEcEdFCE7f95693Fa3938eaC6dd66725B4Bbf | Optimistic Swapper contra
 Poly Wrapper | 0x287Bd66753f0cA8e9C2171D782DF39e4C28cfd65 | lock entrance for auto cross chain tx with fee 
 Wrapper 2.0 | 0xf06587dE89e289Ce480CDf21109A14547eb33A0d | wrapper_v2 that take native asset as fee
 
+## Metis
+
+Type | Contract Hash | Desc
+---|---|---
+CCMP | 0xE3D0FB6E3cB5DA61EB18b06D035052441009d1E6 | Optimistic Cross Chain Manager Proxy contract hash
+CCM | 0x2aA63cd0b28FB4C31fA8e4E95Ec11815Be07b9Ac | Optimistic Cross Chain Manager contract hash
+ECCD | 0x6c2A37Cf23E21EF3cFC45FdE2C0E1d3a9e7365f9 | Optimistic Cross Chain Data contract hash
+Lock Proxy | 0xd3b90E2603D265Bf46dBC788059AC12D52B6AC57 | Optimistic Lock Proxy contract hash
+Wrapper 3.0 | 0xFbFDfc95B8EAe4719Ae7D7b94e6F7aCC2DC2e0D7 | wrapper_v2 that take native asset as fee
+
 ## Router And ChainId
 Type | Router Number | ChainId
 :-:|:-:|:-:
@@ -571,6 +583,7 @@ xDAI | 0 | 20
 Avalanche | 0 | 21
 Fantom | 0 | 22
 Optimistic | 0 | 23
+Metis | 0 | 24
 
 ## Relayers
 
