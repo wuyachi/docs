@@ -358,6 +358,19 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | Wrapper2.0 | 0xa2d97d1A123c6bD39AFD97F696B937fAcb024313 |                                         |
 | NB         | 0x2dA279bD19AB7E8641c0EE1884Da56fb636Ca20f | Token                                   |
 
+##Pixie
+| Type       | Contract Hash                              | Desc                                    |
+| ---------- | ------------------------------------------ | --------------------------------------- |
+| CCMP       | 0x8F967507Ae66ad78c12478E10cA07c9104eb24A7 | Cross Chain Manager Proxy contract hash |
+| ECCD       | 0xF9Dd424e64E9264632a564FBDcC87Ba8eA40B5Ba | Cross Chain Data contract hash          |
+| ECCM       | 0x2E830E0cf3dc8643B497F88C07c8A72EFE24B11f | Cross Chain Manager contract hash       |
+| Lock Proxy | 0x46Fc99509c4Aab0c958B8b2175edAa9C4963Ac09 | The lock proxy bridge contract hash     |
+| Wrapper2.0 | 0xE7Db150e4095Cbb35914b5dC980906C77B5990d2 |                                         |
+| Nft Proxy  | 0xD54a267B2c983d883D39248Dd7002dc7405559E0 |                                         |
+| Nft Query  | 0xbaBaAF5CF7f63437755aAAFE7a4106463c5cD540 |                                         |
+| Nft Wrapper| 0x06e3d8Eeb9DC4732e474c26674e08213c6e11921 |                                         |
+
+
 
 ## Router And ChainId
 |   Type   | Router Number |   ChainId    |
@@ -385,3 +398,4 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 |  Goerli  |       0       |     502      |
 |  Rinkeby |       0       |     402      |
 |  Kovan   |       0       |     302      |
+|  Pixie   |       0       |     316      |
