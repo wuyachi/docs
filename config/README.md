@@ -38,7 +38,7 @@ Xdai | <ul><li> 0xEf4Bd3cfA47711DC034a5cbd2671122A272140aE</li></ul>
 Avalanche | <ul><li> 0x8920954cab0F6A727eE0b1167F5ea878B116F6f3</li><li>0xAa30Cbb380F35DB3C1334aa7D6f736377Fb7B959</li></ul>
 Fantom | <ul><li> 0xA28AD792587e7a616e77bEdd4588B574657641b3</li><li>0xD49939b4139ae0c0d94ac105a9B9328033f864A5</li></ul>
 Optimistic | <ul><li> 0xdaA64a287B043DBeC2413B18FcAE6A0BBd710113</li><li>0xAd371A8d57815F0a5dD60ed9Ff6DbD46A6D3D797</li></ul>
-
+Metis | <ul><li> 0xe682225aFff2CB1C5beB6E3dd0ACF523bE330cf7</li><li>0x21b59D73B4716a53cFE7804Baa31D0C1f75AE0cb</li></ul>
 
 
 ###### [Back to top](README.md#menu)
