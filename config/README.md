@@ -232,7 +232,7 @@ Type | Contract Hash | Desc
 CCMP | 0xABD7f7B89c5fD5D0AEf06165f8173b1b83d7D5c9 | Cross Chain Manager Proxy contract hash 
 ECCD | 0x11e2A718d46EBe97645b87F2363AFE1BF28c2672 | BSC Cross Chain Data contract hash
 ECCM | 0x1c9Ca8aBb5da65d94DaD2E8Fb3f45535480d5909 | BSC Cross Chain Manager contract hash
-Lock Proxy| 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03 | BSC Asset Proxy contract hash
+Lock Proxy| 0xfB571d4dd7039f96D34bB41E695AdC92dF4A332f | BSC Asset Proxy contract hash
 Lock Proxy-PIP4 |  0x960Ff3132b72E3F0b1B9F588e7122d78BB5C4946 | BSC Asset Proxy with LP contract hash
 Poly Wrapper | 0xE3D0FB6E3cB5DA61EB18b06D035052441009d1E6 | lock entrance for auto cross chain tx with fee 
 Wrapper 2.0 | 0x4b0CFdb5e1Ca898a225F9E14AfF9e4eF178a10d2 | wrapper_v2 that take native asset as fee
