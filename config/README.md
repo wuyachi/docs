@@ -582,7 +582,7 @@ Type | Contract Hash | Desc
 CCMP | 0xE3D0FB6E3cB5DA61EB18b06D035052441009d1E6 | Metis Cross Chain Manager Proxy contract hash
 CCM | 0x2aA63cd0b28FB4C31fA8e4E95Ec11815Be07b9Ac | Metis Cross Chain Manager contract hash
 ECCD | 0x6c2A37Cf23E21EF3cFC45FdE2C0E1d3a9e7365f9 | Metis Cross Chain Data contract hash
-Lock Proxy | 0xf01b484320e5f4dad01239772bf896d13ab8ae89 | Metis Lock Proxy contract hash
+Lock Proxy | 0xeFB5a01Ed9f3E94B646233FB68537C5Cb45e301D | Metis Lock Proxy contract hash
 Lock Proxy-PIP4 | 0xbE46E4c47958A79E7F789ea94C5D8071a0DeE31e | Metis Lock Proxy contract hash
 Wrapper 3.0 | 0xFbFDfc95B8EAe4719Ae7D7b94e6F7aCC2DC2e0D7 | wrapper_v2 that take native asset as fee
 Metis| 0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000 | Metis
