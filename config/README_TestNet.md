@@ -11,7 +11,7 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | **[Bsc-79](README_TestNet.md#BSC)** | **[Heco-7](README_TestNet.md#HECO)** | **[Palette-107](README_TestNet.md#Palette)**        | **[Ok-200](README_TestNet.md#Ok)** | **Curve-82**  |
 | **[Neo N3-88](README_TestNet.md#NeoN3)** | **[Polygon-202](README_TestNet.md#Polygon)**           | **[Zilliqa-111](README_TestNet.md#Zilliqa)**       | **[Arbitrum-205](README_TestNet.md#Arbitrum)** | **[xDAI-206](README_TestNet.md#xDAI)**        |
 | **[Avalanche-209](README_TestNet.md#Avalanche)**    | **[Fantom-208](README_TestNet.md#Fantom)**             | **[Optimistic-207](README_TestNet.md#Optimistic)** | **[Metis-300](README_TestNet.md#Metis)**       | **[Goerli-502](README_TestNet.md#Goerli)** |
-| **[Rinkeby-402](README_TestNet.md#Rinkeby)** | **[Kovan-302](README_TestNet.md#Kovan)** | **[Pixie-316](README_TestNet.md#Pixie)** |  **[Boba-400](README_TestNet.md#Boba)** | |  |
+| **[Rinkeby-402](README_TestNet.md#Rinkeby)** | **[Kovan-302](README_TestNet.md#Kovan)** | **[Pixie-316](README_TestNet.md#Pixie)** |  **[Boba-400](README_TestNet.md#Boba)** |**[Oasis-500](README_TestNet.md#Boba)** |  |
 
 ### Quick Index
 
@@ -401,7 +401,15 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | WrapperV3 | 0xF87527a74215777391fE4AfD082FeeED3E5A0ca5 |                                         |
 | Boba | 0xF5B97a4860c1D81A1e915C40EcCB5E4a5E6b830 |  Boba Token                                   |
 | LP Boba | 0x3D3828C8A071169f825EF0A10aFC53867B7DeE39 |  LP Boba Token                                   |
-
+###### [Back to top](README_TestNet.md#menu)
+## Oasis
+| Type       | Contract Hash                              | Desc                                    |
+| ---------- | ------------------------------------------ | --------------------------------------- |
+| CCMP       | 0xD5a240f7F755bCa2aE992E807b06d24eB6DF7C12 | Cross Chain Manager Proxy contract hash |
+| ECCD       | 0x30e6ec356ceF1cfe3c7e14392EA08448382327bD | Cross Chain Data contract hash          |
+| ECCM       | 0xd6fc5374649cea121395a4860FdB33F21783c4Af | Cross Chain Manager contract hash       |
+| LockProxy| 0x0AF53d318De279C8e67FcC6914acF387CFaA8B7E| The lock proxy bridge contract hash     |
+| WrapperV3 | 0xc2d365475EEf3ec83e59D1BcDF3A291D7B23Ba99 |                                         |
 
 ###### [Back to top](README_TestNet.md#menu)
 ## Router And ChainId
@@ -432,5 +440,6 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 |  Kovan   |       0       |     302      |
 |  Pixie   |       0       |     316      |
 |  Boba    |       0       |     400      |
+|  Oasis    |       0       |     500      |
 
 ###### [Back to top](README_TestNet.md#menu)
