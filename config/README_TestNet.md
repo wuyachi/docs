@@ -397,7 +397,7 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | CCMP       | 0x720aF2de5eA84b78AAC7BDFA812B47e41516D59c | Cross Chain Manager Proxy contract hash |
 | ECCD       | 0x55a59c57a133d1c999b3Eaf5B16ad5c1F2e365c8 | Cross Chain Data contract hash          |
 | ECCM       | 0xa65bD4431C38A4dD9c92ebE60dE3cb8C252c04E5 | Cross Chain Manager contract hash       |
-| LockProxyPIP4| 0x46Fc99509c4Aab0c958B8b2175edAa9C4963Ac09 | The lock proxy bridge contract hash     |
+| LockProxyPIP4| 0x4087E556EFd21172668C90905AE3fd1AC7c3ACf8 | The lock proxy bridge contract hash     |
 | WrapperV3 | 0xF87527a74215777391fE4AfD082FeeED3E5A0ca5 |                                         |
 | Boba | 0xF5B97a4860c1D81A1e915C40EcCB5E4a5E6b830 |  Boba Token                                   |
 | LP Boba | 0x3D3828C8A071169f825EF0A10aFC53867B7DeE39 |  LP Boba Token                                   |
