@@ -62,8 +62,10 @@ CCMP | 0x5a51e2ebf8d136926b9ca7b59b60464e7c44d2eb | Cross Chain Manager Proxy co
 ECCD | 0xcf2afe102057ba5c16f899271045a0a37fcb10f2 | Ethereum Cross Chain Data contract hash
 ECCM | 0x14413419452Aaf089762A0c5e95eD2A13bBC488C | Ethereum Cross Chain Manager contract hash
 Lock Proxy| 0x250e76987d838a75310c34bf422ea9f1AC4Cc906 | Ethereum Asset Proxy contract hash
+Lock Proxy-PIP4| 0x7b9Bb72F187B3cb2CaA9Cf1cE95A938f0a66DB54 | Ethereum Asset Proxy contract hash
 Poly Wrapper | 0x2aA63cd0b28FB4C31fA8e4E95Ec11815Be07b9Ac | lock entrance for auto cross chain tx with fee 
 Wrapper 2.0 | 0xd380450e9e373bDC389951C54616edb2EE653524 | wrapper_v2 that take native asset as fee
+Wrapper 3.0 | 0x81910675DbaF69deE0fD77570BFD07f8E436386A | wrapper_v3 that take native asset as fee
 Swapper | 0xaf83ce8d461e8834de03a3803c968615013c6b3d | curve entrance for auto cross chain tx with fee 
 NFT Lock Proxy | 0x2cdfc90250EF967036838DA601099656e74bCfc5 | The NFT lockc proxy contract hash
 NFT Wrapper | 0xe5204d62361A353C665668C858Ea213070CA159c | The NFT Wrapper contract hash
@@ -590,6 +592,19 @@ Metis| 0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000 | Metis
 LP Metis| 0xF3eCc2FF57DF74aE638551b060864717EFE493d2 | LP Metis
 
 ###### [Back to top](README.md#menu)
+## Boba
+
+Type | Contract Hash | Desc
+---|---|---
+CCMP | 0x85472B4D353Cb89f86294b2e983ba44722bC0331 | BOBA Cross Chain Manager Proxy contract hash
+CCM | 0xab7a3CA9bDcE476F0ECC04c127CFEe0F3D212BC5 | BOBA Cross Chain Manager contract hash
+ECCD | 0x4D2A3234b2f2E27f03096097C4A530CAA8427681 | BOBA Cross Chain Data contract hash
+Lock Proxy-PIP4 | 0x526444013Cd4D457212fF88Fe6F8e7c995DF1E40 | BOBA Lock Proxy contract hash
+Wrapper 3.0 | 0x33d9bF459b39a888422580916f01C4c44a68a615 | wrapper_v2 that take native asset as fee
+BOBA| 0xa18bf3994c0cc6e3b63ac420308e5383f53120d7 | BOBA
+LP BOBA| 0x5906777d34257a2b479c291871c9bfdfb922d67d | LP BOBA
+
+###### [Back to top](README.md#menu)
 ## Router And ChainId
 Type | Router Number | ChainId
 :-:|:-:|:-:
@@ -613,6 +628,7 @@ Avalanche | 0 | 21
 Fantom | 0 | 22
 Optimistic | 0 | 23
 Metis | 0 | 24
+Boba | 0 | 25
 ###### [Back to top](README.md#menu)
 ## Relayers
 
