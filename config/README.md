@@ -506,7 +506,9 @@ NFT Lock proxy | 0xdCA22CbA4a2d3dA3883b479f824F2147efed1718 | Contract hash of p
 NFT Wrapper | 0x41985E2A8826233618392e38d46d2060fbCC3F2A | Contract hash of palette NFT native wrapper
 NFT Query | 0x0F05299e6ab0FbB3258296d3Ae7bF6Ae53A0c414 | Contract hash of palette NFT query
 NFT Fee Collector | 0x0E860F44d73F9FDbaF5E9B19aFC554Bf3C8E8A57 | fee collector address of palette NFT wrapper
-feiyuan(PLT)| 0x0000000000000000000000000000000000001003 | Test asset hash of palette NFT contracts
+feiyuan| 0x0000000000000000000000000000000000001003 | Test asset hash of palette NFT contracts
+PLT Token| 0x0000000000000000000000000000000000000103 | Palette native token contract address
+
 ###### [Back to top](README.md#menu)
 ## Zilliqa
 
