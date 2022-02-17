@@ -10,7 +10,7 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | :----------------------------------------- | :-------------------------------------------- | :---------------------------------------- | :------------------------------------ | :----------------------------------- |
 | **[Bsc-79](README_TestNet.md#BSC)** | **[Heco-7](README_TestNet.md#HECO)** | **[Palette-107](README_TestNet.md#Palette)**        | **[Ok-200](README_TestNet.md#Ok)** | **Curve-82**  |
 | **[Neo N3-88](README_TestNet.md#NeoN3)** | **[Polygon-202](README_TestNet.md#Polygon)**           | **[Zilliqa-111](README_TestNet.md#Zilliqa)**       | **[Arbitrum-205](README_TestNet.md#Arbitrum)** | **[xDAI-206](README_TestNet.md#xDAI)**        |
-| **[Avalanche-209](README_TestNet.md#Avalanche)**    | **[Fantom-208](README_TestNet.md#Fantom)**             | **[Optimistic-207](README_TestNet.md#Optimistic)** | **[Metis-300](README_TestNet.md#Metis)**       | **[Goerli-502](README_TestNet.md#Goerli)** |
+| **[Avalanche-209](README_TestNet.md#Avalanche)**    | **[Fantom-208](README_TestNet.md#Fantom)**             | **[Optimistic-210](README_TestNet.md#Optimistic)** | **[Metis-300](README_TestNet.md#Metis)**       | **[Goerli-502](README_TestNet.md#Goerli)** |
 | **[Rinkeby-402](README_TestNet.md#Rinkeby)** | **[Kovan-302](README_TestNet.md#Kovan)** | **[Pixie-316](README_TestNet.md#Pixie)** |  **[Boba-400](README_TestNet.md#Boba)** |**[Oasis-500](README_TestNet.md#Boba)** |  |
 
 ### Quick Index
@@ -431,7 +431,7 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | NEO(N3)  |      88       |      88      |
 | Arbitrum |       0       |     205      |
 |   Xdai   |       0       |     206      |
-|Optimistic|       0       |     207      |
+|Optimistic|       0       |     210      |
 |  Fantom  |       0       |     208      |
 | Avalanche|       0       |     209      |
 |  Metis   |       0       |     300      |
