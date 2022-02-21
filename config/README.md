@@ -11,7 +11,7 @@ This's cross chain asset contract info ONLY in <strong>MAINNET</strong> mode, it
 | **[Bsc-6](README.md#Binance-Smart-Chain)** | **[Heco-7](README.md#Huobi-Eco-ChainHECO)** | **[Palette-8](README.md#Palette)**        |                                       | **[Curve-10](README.md#Curve)**      |
 |                                            | **[OKEx-12](README.md#OKEx)**               |                                           | **[Neo N3-14](README.md#Neo-N3)**     | **Heimdall-15**                      |
 |                                            | **[Polygon-17](README.md#Polygon)**         | **[Zilliqa-18](README.md#Zilliqa)**       | **[Arbitrum-19](README.md#Arbitrum)** | **[xDAI-20](README.md#xDAI)**        |
-| **[Avalanche-21](README.md#Avalanche)**    | **[Fantom-22](README.md#Fantom)**           | **[Optimistic-23](README.md#Optimistic)** | **[Metis-24](README.md#Metis)**       |                                      |
+| **[Avalanche-21](README.md#Avalanche)**    | **[Fantom-22](README.md#Fantom)**           | **[Optimistic-23](README.md#Optimistic)** | **[Metis-24](README.md#Metis)**       |  **[Oasis-26](README.md#Oasis)**                |
 
 ### Quick Index
 
@@ -612,6 +612,16 @@ BOBA| 0xa18bf3994c0cc6e3b63ac420308e5383f53120d7 | BOBA
 LP BOBA| 0x5906777d34257a2b479c291871c9bfdfb922d67d | LP BOBA
 
 ###### [Back to top](README.md#menu)
+## Oasis
+| Type       | Contract Hash                              | Desc                                    |
+| ---------- | ------------------------------------------ | --------------------------------------- |
+| CCMP       | 0x26041DBe06Aa9B765E68e82863e280b67Ba41381 | Cross Chain Manager Proxy contract hash |
+| ECCD       | 0x21A053E85E636D5Db1A2fb397489e26B619D514b | Cross Chain Data contract hash          |
+|CCM         |0x0C611b42B78e7b5760B8EB9DA9fA1fb34Db86C2c  |Eth Cross Chain Manager                  |
+|LockProxy   |0x2BC2B7E2D90B1b23711D39470Ff3E4f1f545bCCd  |                                         |
+|WrapperV3   |0x6Ac449ADE24174238DF325749bD5ea87B02BF7f6  |                                         |
+   
+###### [Back to top](README.md#menu)
 ## Router And ChainId
 Type | Router Number | ChainId
 :-:|:-:|:-:
@@ -636,6 +646,7 @@ Fantom | 0 | 22
 Optimistic | 0 | 23
 Metis | 0 | 24
 Boba | 0 | 25
+Oasis | | 26
 ###### [Back to top](README.md#menu)
 ## Relayers
 
