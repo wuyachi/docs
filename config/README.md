@@ -619,7 +619,7 @@ LP BOBA| 0x5906777d34257a2b479c291871c9bfdfb922d67d | LP BOBA
 | ECCD       | 0x21A053E85E636D5Db1A2fb397489e26B619D514b | Cross Chain Data contract hash          |
 |CCM         |0x0C611b42B78e7b5760B8EB9DA9fA1fb34Db86C2c  |Eth Cross Chain Manager                  |
 |LockProxy   |0x2BC2B7E2D90B1b23711D39470Ff3E4f1f545bCCd  |                                         |
-|WrapperV3   |0x6Ac449ADE24174238DF325749bD5ea87B02BF7f6  |                                         |
+|WrapperV3   |0xbaf396bD590D23D4F4dF5f21b09bA9F869C4B7A6  |                                         |
    
 ###### [Back to top](README.md#menu)
 ## Router And ChainId
