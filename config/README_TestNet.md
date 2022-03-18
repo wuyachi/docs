@@ -117,7 +117,7 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | ---------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
 | CCMP       | 0x38917884b397447227fb45cbA0342F1bFf7A3470 | Cross Chain Manager Proxy contract hash                                                                           |
 | ECCD       | 0xd1Acc7bc3BDA9a63eEF89357a6f4c705ee874f44 | Cross Chain Data contract hash                                                                                    |
-| ECCM       | 0x296f7f9f0e65152965e9BE12b349c14c7cE8eE85 | Cross Chain Manager contract hash                                                                                 |
+| ECCM       | 0x60Ab3e4a841c8a2E4148aAfc74C0E63c4B54d109 | Cross Chain Manager contract hash                                                                                 |
 | Lock Proxy | 0x74cE7D56cd1b5AEe9A3345A490b5Ed768134C7D4 | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx |
 ###### [Back to top](README_TestNet.md#menu)
 ## Heco
