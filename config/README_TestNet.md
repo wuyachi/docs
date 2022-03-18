@@ -11,8 +11,8 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | **[Bsc-79](README_TestNet.md#BSC)** | **[Heco-7](README_TestNet.md#HECO)** | **[Palette-107](README_TestNet.md#Palette)**        | **[Ok-200](README_TestNet.md#Ok)** | **Curve-82**  |
 | **[Neo N3-88](README_TestNet.md#NeoN3)** | **[Polygon-202](README_TestNet.md#Polygon)**           | **[Zilliqa-111](README_TestNet.md#Zilliqa)**       | **[Arbitrum-205](README_TestNet.md#Arbitrum)** | **[xDAI-206](README_TestNet.md#xDAI)**        |
 | **[Avalanche-209](README_TestNet.md#Avalanche)**    | **[Fantom-208](README_TestNet.md#Fantom)**             | **[Optimistic-210](README_TestNet.md#Optimistic)** | **[Metis-300](README_TestNet.md#Metis)**       | **[Goerli-502](README_TestNet.md#Goerli)** |
-| **[Rinkeby-402](README_TestNet.md#Rinkeby)** | **[Kovan-302](README_TestNet.md#Kovan)** | **[Pixie-316](README_TestNet.md#Pixie)** |  **[Boba-400](README_TestNet.md#Boba)** |**[Oasis-500](README_TestNet.md#Boba)** |  |
-
+| **[Rinkeby-402](README_TestNet.md#Rinkeby)** | **[Kovan-302](README_TestNet.md#Kovan)** | **[Pixie-316](README_TestNet.md#Pixie)** |  **[Boba-400](README_TestNet.md#Boba)** |**[Oasis-500](README_TestNet.md#Oasis)** |
+|**[Hoo-603](README_TestNet.md#Hoo)**  |**[Bytom-701](README_TestNet.md#Bytom)**  |**[Harmony-800](README_TestNet.md#Harmony)** | 
 ### Quick Index
 
 | **[Router And ChainId](README_TestNet.md#Router-And-ChainId)** | **[Decentralized Application TestNet Nodes](README_TestNet.md#Decentralized-Application-TestNet-Nodes)** |
@@ -402,8 +402,8 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | ECCM       | 0xa65bD4431C38A4dD9c92ebE60dE3cb8C252c04E5 | Cross Chain Manager contract hash       |
 | LockProxyPIP4| 0x4087E556EFd21172668C90905AE3fd1AC7c3ACf8 | The lock proxy bridge contract hash     |
 | WrapperV3 | 0xF87527a74215777391fE4AfD082FeeED3E5A0ca5 |                                         |
-| Boba | 0xF5B97a4860c1D81A1e915C40EcCB5E4a5E6b830 |  Boba Token                                   |
-| LP Boba | 0x3D3828C8A071169f825EF0A10aFC53867B7DeE39 |  LP Boba Token                                   |
+| Boba       | 0xF5B97a4860c1D81A1e915C40EcCB5E4a5E6b830 |  Boba Token                              |
+| LP Boba    | 0x3D3828C8A071169f825EF0A10aFC53867B7DeE39 |  LP Boba Token                          |
 ###### [Back to top](README_TestNet.md#menu)
 ## Oasis
 | Type       | Contract Hash                              | Desc                                    |
@@ -413,6 +413,41 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | ECCM       | 0xd6fc5374649cea121395a4860FdB33F21783c4Af | Cross Chain Manager contract hash       |
 | LockProxy| 0x0AF53d318De279C8e67FcC6914acF387CFaA8B7E| The lock proxy bridge contract hash     |
 | WrapperV3 | 0xc2d365475EEf3ec83e59D1BcDF3A291D7B23Ba99 |                                         |
+
+###### [Back to top](README_TestNet.md#menu)
+## Hoo
+| Type       | Contract Hash                              | Desc                                    |
+| ---------- | ------------------------------------------ | --------------------------------------- |
+| CCD        |0x53D23ba1c38D6ECf2B7f213F7CF22b17AE3BB868  | Cross Chain Data contract hash          |
+| CCM        |0x0744b1802B9D879AdB2C4ea3b7A9bE38073f3a43  | Cross Chain Manager contract hash       |
+| CCMP       |0xF281938b6B90Bc6C6B135D61661FF8Fb29B11634  | Cross Chain Manager Proxy contract hash |
+| LockProxy  |0xf6378141BC900020a438F3914e4C3ceA29907b27  | Lock Proxy contract hash                |
+| Wrapper    |0x5906777d34257a2b479c291871C9BFdFB922D67D  |                                         |
+| WrapperV3  |0x5906777d34257a2b479c291871C9BFdFB922D67D  |                                         |
+
+###### [Back to top](README_TestNet.md#menu)
+## Bytom
+| Type       | Contract Hash                              | Desc                                    |
+| ---------- | ------------------------------------------ | --------------------------------------- |
+| CCD        |0xc927f0EF4f25E19a40F0Cb34da841B45c13649fd  | Cross Chain Data contract hash          |
+| CCM        |0x7877Ad76Dd6069035B56137707368C945D2aD452  | Cross Chain Manager contract hash       |
+| CCMP       |0x015bBE5074148E245791F4dA27B5bfb3B7DE158A  | Cross Chain Manager Proxy contract hash |
+| LockProxy  |0x720aF2de5eA84b78AAC7BDFA812B47e41516D59c  | Lock Proxy contract hash                |
+| Wrapper    |0xc4ef39a0Dc3838Db46AdA832e46e3cf4B3d495E4  |                                         |
+| WrapperV3  |0xc4ef39a0Dc3838Db46AdA832e46e3cf4B3d495E4  |                                         |
+
+
+
+###### [Back to top](README_TestNet.md#menu)
+## Harmony
+| Type       | Contract Hash                              | Desc                                    |
+| ---------- | ------------------------------------------ | --------------------------------------- |
+| CCD        |0x015bBE5074148E245791F4dA27B5bfb3B7DE158A  | Cross Chain Data contract hash          |
+| CCM        |0x55a59c57a133d1c999b3Eaf5B16ad5c1F2e365c8  | Cross Chain Manager contract hash       |
+| CCMP       |0xa65bD4431C38A4dD9c92ebE60dE3cb8C252c04E5  | Cross Chain Manager Proxy contract hash |
+| LockProxy  |0x0AF53d318De279C8e67FcC6914acF387CFaA8B7E  | Lock Proxy contract hash                |
+| Wrapper    |0xc927f0EF4f25E19a40F0Cb34da841B45c13649fd  |                                         |
+| WrapperV3  |0xc927f0EF4f25E19a40F0Cb34da841B45c13649fd  |                                         |
 
 ###### [Back to top](README_TestNet.md#menu)
 ## Router And ChainId
@@ -443,6 +478,8 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 |  Kovan   |       0       |     302      |
 |  Pixie   |       0       |     316      |
 |  Boba    |       0       |     400      |
-|  Oasis    |       0       |     500      |
-
+|  Oasis   |       0       |     500      |
+|  Hoo     |       0       |     603      |
+|  Bytom   |       0       |     701      |
+| Harmony  |       0       |     800      |
 ###### [Back to top](README_TestNet.md#menu)

@@ -11,8 +11,8 @@ This's cross chain asset contract info ONLY in <strong>MAINNET</strong> mode, it
 | **[Bsc-6](README.md#Binance-Smart-Chain)** | **[Heco-7](README.md#Huobi-Eco-ChainHECO)** | **[Palette-8](README.md#Palette)**        |                                       | **[Curve-10](README.md#Curve)**      |
 |                                            | **[OKEx-12](README.md#OKEx)**               |                                           | **[Neo N3-14](README.md#Neo-N3)**     | **Heimdall-15**                      |
 |                                            | **[Polygon-17](README.md#Polygon)**         | **[Zilliqa-18](README.md#Zilliqa)**       | **[Arbitrum-19](README.md#Arbitrum)** | **[xDAI-20](README.md#xDAI)**        |
-| **[Avalanche-21](README.md#Avalanche)**    | **[Fantom-22](README.md#Fantom)**           | **[Optimistic-23](README.md#Optimistic)** | **[Metis-24](README.md#Metis)**       |  **[Oasis-26](README.md#Oasis)**                |
-
+| **[Avalanche-21](README.md#Avalanche)**    | **[Fantom-22](README.md#Fantom)**           | **[Optimistic-23](README.md#Optimistic)** | **[Metis-24](README.md#Metis)**       |  **[Boba-25](README.md#Boba)**                |
+|  **[Oasis-26](README.md#Oasis)**                |
 ### Quick Index
 
 | **[Poly Relayer Addresses](README.md#Poly-Relayer-Addresses)** | **[Decentralized Application MainNet Nodes](README.md#Decentralized-Application-MainNet-Nodes)** | **[Router And ChainId](README.md#Router-And-ChainId)** |
@@ -627,7 +627,7 @@ LP BOBA| 0x5906777d34257a2b479c291871c9bfdfb922d67d | LP BOBA
 | ECCD       | 0x21A053E85E636D5Db1A2fb397489e26B619D514b | Cross Chain Data contract hash          |
 |CCM         |0x0C611b42B78e7b5760B8EB9DA9fA1fb34Db86C2c  |Eth Cross Chain Manager                  |
 |LockProxy   |0x2BC2B7E2D90B1b23711D39470Ff3E4f1f545bCCd  |                                         |
-|WrapperV3   |0xbaf396bD590D23D4F4dF5f21b09bA9F869C4B7A6  |                                         |
+|Wrapper 3.0 |0xbaf396bD590D23D4F4dF5f21b09bA9F869C4B7A6  |                                         |
    
 ###### [Back to top](README.md#menu)
 ## Router And ChainId
