@@ -77,6 +77,7 @@ PLT NFT Lock Proxy | 0xD33e44F6E4fE37C4dF23c7171657721B9A725417 | Contract hash 
 PLT NFT Wrapper | 0xD728e9844af285fA116806c273aa413686aE65e8 | Contract hash of dedicated Palette NFT Wrapper
 PLT NFT Wrapper Fee collecotr | 0x0E860F44d73F9FDbaF5E9B19aFC554Bf3C8E8A57 | Fee collector address of dedicated Palette NFT wrapper
 feiyuan(PLT) | 0x98D848869618CB0178388cA2318952d6495Fb654 | Contract hash of palette nft testing asset
+FY(T) | 0x9d1E9C7e19A3B5aEf5671c54e7f3aeB75f2E149b | Contract hash of palette nft testing asset
 pONT| 0xcb46c550539ac3db72dc7af7c89b11c306c727c2 | Ethereum Ontology Token
 WBTC| 0x2260fac5e5542a773aa44fbcfedf7c193bc2c599 | WBTC
 USDC| 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48 | USDC
@@ -512,7 +513,8 @@ NFT Lock proxy | 0xdCA22CbA4a2d3dA3883b479f824F2147efed1718 | Contract hash of p
 NFT Wrapper | 0x41985E2A8826233618392e38d46d2060fbCC3F2A | Contract hash of palette NFT native wrapper
 NFT Query | 0x0F05299e6ab0FbB3258296d3Ae7bF6Ae53A0c414 | Contract hash of palette NFT query
 NFT Fee Collector | 0x0E860F44d73F9FDbaF5E9B19aFC554Bf3C8E8A57 | fee collector address of palette NFT wrapper
-feiyuan| 0x0000000000000000000000000000000000001003 | Test asset hash of palette NFT contracts
+feiyuan| 0x0000000000000000000000000000000000001003 | Test asset hash of palette NFT contract
+FY(T) | 0x0000000000000000000000000000000000001009 | Test asset hash of palette NFT contract
 PLT Token| 0x0000000000000000000000000000000000000103 | Palette native token contract address
 
 ###### [Back to top](README.md#menu)
