@@ -232,6 +232,8 @@ fWBTC | B:	0xd6abe115ecb75e1fa0b42f5e85934ce8c1ae2893 </br> L: 9328aec1e84c93855
 fWETH | B:	0xc14b601252aa5dfa6166cf35fe5ccd2e35f3fdf5 </br> L: f5fdf3352ecd5cfe35cf6661fa5daa5212604bc1 | 
 fUSDT | B:	0xcd48b160c1bbc9d74997b803b9a7ad50a4bef020 </br> L: 20f0bea450ada7b903b89749d7c9bbc160b148cd | 
 pONT | B:	0x8122bc2212ec971690a044b37a6f52a9349b702b </br> L:	2b709b34a9526f7ab344a0901697ec1222bc2281 | 
+GM | B:	0x9b049f1283515eef1d3f6ac610e1595ed25ca3e9 </br> L:	e9a35cd25e59e110c66a3f1def5e5183129f049b | 
+fCAKE | B:	0xe65b462b90516012826f8a9c4c285d8c750e3a77 </br> L:	773a0e758c5d284c9c8a6f82126051902b465be6 | 
 ###### [Back to top](README.md#menu)
 ## Binance Smart Chain
 Type | Contract Hash | Desc
@@ -323,6 +325,8 @@ WIT| 0x633a87ca89ce86ed06a807e4af57ffe486980374| WIT
 YNI | 0x91cb98f1b1954253f03f82579d683732bae6813f | YNI
 Metis | e552fb52a4f19e44ef5a967632dbc320b0820639 | Metis
 LP Metis | 0x2c0Ad043f17572906cb5A4Dc388Ef6C5F01a2827 | LP Metis
+GM | 0x0b53b5da7d0f275c31a6a182622bdf02474af253 |
+fCAKE | 0x1176b1e362a23ab750a6d2208dfba4a716c7d102 |
 
 ###### [Back to top](README.md#menu)
 ## Huobi Eco Chain(HECO)
