@@ -12,7 +12,7 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | **[Neo N3-88](README_TestNet.md#NeoN3)** | **[Polygon-202](README_TestNet.md#Polygon)**           | **[Zilliqa-111](README_TestNet.md#Zilliqa)**       | **[Arbitrum-205](README_TestNet.md#Arbitrum)** | **[xDAI-206](README_TestNet.md#xDAI)**        |
 | **[Avalanche-209](README_TestNet.md#Avalanche)**    | **[Fantom-208](README_TestNet.md#Fantom)**             | **[Optimistic-210](README_TestNet.md#Optimistic)** | **[Metis-300](README_TestNet.md#Metis)**       | **[Goerli-502](README_TestNet.md#Goerli)** |
 | **[Rinkeby-402](README_TestNet.md#Rinkeby)** | **[Kovan-302](README_TestNet.md#Kovan)** | **[Pixie-316](README_TestNet.md#Pixie)** |  **[Boba-400](README_TestNet.md#Boba)** |**[Oasis-500](README_TestNet.md#Oasis)** |
-|**[Hoo-603](README_TestNet.md#Hoo)**  |**[Bytom-701](README_TestNet.md#Bytom)**  |**[Harmony-800](README_TestNet.md#Harmony)** | 
+|**[Hoo-603](README_TestNet.md#Hoo)**  |**[Bytom-701](README_TestNet.md#Bytom)**  |**[Harmony-800](README_TestNet.md#Harmony)** |**[Starcoin-318](README_TestNet.md#Starcoin)**| 
 ### Quick Index
 
 | **[Router And ChainId](README_TestNet.md#Router-And-ChainId)** | **[Decentralized Application TestNet Nodes](README_TestNet.md#Decentralized-Application-TestNet-Nodes)** |
@@ -450,6 +450,20 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | WrapperV3  |0xc927f0EF4f25E19a40F0Cb34da841B45c13649fd  |                                         |
 
 ###### [Back to top](README_TestNet.md#menu)
+## Starcoin
+| Type       | Contract Hash                              | Desc                                    |
+| ---------- | ------------------------------------------ | --------------------------------------- |
+| CCM                                  | 0x416b32009fe49fcab1d5f2ba0153838f::CrossChainScript                   | Starcoin Cross Chain Manager contract hash   | 
+| CrossChainEventTypeTag               | 0x416b32009fe49fcab1d5f2ba0153838f::CrossChainManager::CrossChainEvent | Starcoin Cross Chain Event Type Tag          | 
+| VerifyHeaderAndExecuteTxEventTypeTag | 0x416b32009fe49fcab1d5f2ba0153838f::CrossChainManager::VerifyHeaderAndExecuteTxEvent|Starcoin Verify Header And Execute Tx Event Type Tag |
+| LockEventTypeTag                     | 0x416b32009fe49fcab1d5f2ba0153838f::LockProxy::LockEvent               | Starcoin Lock Event Type Tag                 |
+| UnlockEventTypeTag                   | 0x416b32009fe49fcab1d5f2ba0153838f::LockProxy::UnlockEvent             | Starcoin Unlock Event Type Tag               |
+| CrossChainFeeLockEventTypeTag        | 0x416b32009fe49fcab1d5f2ba0153838f::LockProxy::CrossChainFeeLockEvent  | Starcoin Cross Chain Fee Lock Event Type Tag |
+| STC                                  | 0x00000000000000000000000000000001::STC::STC                           | STC                                          |
+| XETH                                 | 0x416b32009fe49fcab1d5f2ba0153838f::XETH::XETH                         | XETH                                         |
+| XUSDT                                | 0x416b32009fe49fcab1d5f2ba0153838f::XUSDT::XUSDT                       | XUSDT                                        |
+
+###### [Back to top](README_TestNet.md#menu)
 ## Router And ChainId
 |   Type   | Router Number |   ChainId    |
 | :------: | :-----------: | :----------: |
@@ -482,4 +496,5 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 |  Hoo     |       0       |     603      |
 |  Bytom   |       0       |     701      |
 | Harmony  |       0       |     800      |
+| Starcoin |       18      |     318      |
 ###### [Back to top](README_TestNet.md#menu)
