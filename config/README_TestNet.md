@@ -435,7 +435,9 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | LockProxy  |0x720aF2de5eA84b78AAC7BDFA812B47e41516D59c  | Lock Proxy contract hash                |
 | Wrapper    |0xc4ef39a0Dc3838Db46AdA832e46e3cf4B3d495E4  |                                         |
 | WrapperV3  |0xc4ef39a0Dc3838Db46AdA832e46e3cf4B3d495E4  |                                         |
-
+| Nft Wrapper| 0x6fd13dd4181dDb0f7463e19caC659FD3e9FB8a82 |                                         |
+| Nft Query  | 0x25BB8E9C0Cc03B30d09769735208a47d389Ff36c |                                         |
+| Nft LockProxy|0x88aD4fD94a05602E595101a3e3171f91289C8f6b|                                         |
 
 
 ###### [Back to top](README_TestNet.md#menu)
