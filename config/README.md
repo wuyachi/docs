@@ -219,6 +219,9 @@ pxWBTC | B: 0x0f6b073b80e6384d691b7cf1cb8649582fbd7d10 </br> L: 107dbd2f584986cb
 pxUSDT | B: 0x962c16f9b8d031d8bf818f8d5e6d229f1d032d35 </br> L: 352d031d9f226d5e8d8f81bfd831d0b8f9162c96 | pxUSDT
 SWTH | B: 0x3e09e602eeeb401a2fec8e8ea137d59aae54a139 </br> L: 39a154ae9ad537a18e8eec2f1a40ebee02e6093e | SWTH
 pMBTC | B: 0xe4848b7c552afcc16ea1d4eee0f33880a0364cb8 </br> L: b84c36a08038f3e0eed4a16ec1fc2a557c8b84e4 | pMBTC
+Wrapper | 125c83403763670c215f9c7c815ef759b258a41b | 
+
+
 ###### [Back to top](README.md#menu)
 ## Neo N3
 Type | Contract Hash | Desc
@@ -234,6 +237,8 @@ fUSDT | B:	0xcd48b160c1bbc9d74997b803b9a7ad50a4bef020 </br> L: 20f0bea450ada7b90
 pONT | B:	0x8122bc2212ec971690a044b37a6f52a9349b702b </br> L:	2b709b34a9526f7ab344a0901697ec1222bc2281 | 
 GM | B:	0x9b049f1283515eef1d3f6ac610e1595ed25ca3e9 </br> L:	e9a35cd25e59e110c66a3f1def5e5183129f049b | 
 fCAKE | B:	0xe65b462b90516012826f8a9c4c285d8c750e3a77 </br> L:	773a0e758c5d284c9c8a6f82126051902b465be6 | 
+Wrapper | f8328398c4c8e77b6c5843f5e404be0170d5012e |
+
 ###### [Back to top](README.md#menu)
 ## Binance Smart Chain
 Type | Contract Hash | Desc
