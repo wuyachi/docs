@@ -12,7 +12,7 @@ This's cross chain asset contract info ONLY in <strong>MAINNET</strong> mode, it
 |                                            | **[OKEx-12](README.md#OKEx)**               |                                           | **[Neo N3-14](README.md#Neo-N3)**     | **Heimdall-15**                      |
 |                                            | **[Polygon-17](README.md#Polygon)**         | **[Zilliqa-18](README.md#Zilliqa)**       | **[Arbitrum-19](README.md#Arbitrum)** | **[xDAI-20](README.md#xDAI)**        |
 | **[Avalanche-21](README.md#Avalanche)**    | **[Fantom-22](README.md#Fantom)**           | **[Optimistic-23](README.md#Optimistic)** | **[Metis-24](README.md#Metis)**       |  **[Boba-25](README.md#Boba)**                |
-|  **[Oasis-26](README.md#Oasis)**                |
+|  **[Oasis-26](README.md#Oasis)**                | **[Harmony-27](README.md#Harmony)**    | **[Hoo-28](README.md#Hoo)**               | **[Bytom-29](README.md#Bytom)**                      | **[Kcc-30](README.md#Kcc)**                     |
 ### Quick Index
 
 | **[Poly Relayer Addresses](README.md#Poly-Relayer-Addresses)** | **[Decentralized Application MainNet Nodes](README.md#Decentralized-Application-MainNet-Nodes)** | **[Router And ChainId](README.md#Router-And-ChainId)** |
@@ -633,7 +633,52 @@ LP BOBA| 0x5906777d34257a2b479c291871c9bfdfb922d67d | LP BOBA
 |CCM         |0x0C611b42B78e7b5760B8EB9DA9fA1fb34Db86C2c  |Eth Cross Chain Manager                  |
 |LockProxy   |0x2BC2B7E2D90B1b23711D39470Ff3E4f1f545bCCd  |                                         |
 |Wrapper 3.0 |0xbaf396bD590D23D4F4dF5f21b09bA9F869C4B7A6  |                                         |
-   
+
+###### [Back to top](README.md#menu)
+## Harmony
+| Type       | Contract Hash                              | Desc                                    |
+| ---------- | ------------------------------------------ | --------------------------------------- |
+| CCD        | 0x4D2A3234b2f2E27f03096097C4A530CAA8427681 | Cross Chain Data contract hash          |
+| CCM        | 0xab7a3CA9bDcE476F0ECC04c127CFEe0F3D212BC5 | Eth Cross Chain Manager                 |
+| CCMP       | 0x85472B4D353Cb89f86294b2e983ba44722bC0331 | Cross Chain Manager Proxy contract hash |
+| LockProxy  | 0x526444013Cd4D457212fF88Fe6F8e7c995DF1E40 |                                         |
+| Wrapper 3.0| 0x5906777d34257a2b479c291871C9BFdFB922D67D |                                         |
+| Wrapper    | 0x5906777d34257a2b479c291871C9BFdFB922D67D |                                         |
+
+###### [Back to top](README.md#menu)
+## Hoo
+| Type       | Contract Hash                              | Desc                                    |
+| ---------- | ------------------------------------------ | --------------------------------------- |
+| CCD        | 0xc87482AF526D5044c7e57Fe1cCBe74d4b603b361 | Cross Chain Data contract hash          |
+| CCM        | 0x18C0628876EFD2A235F81318e5Ba211189A1ddDF | Eth Cross Chain Manager                 |
+| CCMP       | 0xcC78338C36AC20bd3F7763B9ffF5Dd31178FEf1a | Cross Chain Manager Proxy contract hash |
+| LockProxy  | 0xd9c4245508c3e31233109eA018F95857bd1bDae4 |                                         |
+| Wrapper 3.0| 0xC0F6d0443bAB01F4E1B843b96452a6DbA530d878 |                                         |
+| Wrapper    | 0xC0F6d0443bAB01F4E1B843b96452a6DbA530d878 |                                         |
+
+###### [Back to top](README.md#menu)
+## Bytom
+| Type       | Contract Hash                              | Desc                                    |
+| ---------- | ------------------------------------------ | --------------------------------------- |
+| CCD        | 0x4D2A3234b2f2E27f03096097C4A530CAA8427681 | Cross Chain Data contract hash          |
+| CCM        | 0xab7a3CA9bDcE476F0ECC04c127CFEe0F3D212BC5 | Eth Cross Chain Manager                 |
+| CCMP       | 0x85472B4D353Cb89f86294b2e983ba44722bC0331 | Cross Chain Manager Proxy contract hash |
+| NftWrapper | 0x33d9bF459b39a888422580916f01C4c44a68a615 |                                         |
+| NftQuery   | 0x86aE11a962895bbFe67CbE5Fb0a41706E7e3C1c7 |                                         |
+| NftLockProxy| 0x526444013Cd4D457212fF88Fe6F8e7c995DF1E40 |                                        |
+
+###### [Back to top](README.md#menu)
+## Kcc
+| Type       | Contract Hash                              | Desc                                    |
+| ---------- | ------------------------------------------ | --------------------------------------- |
+| CCD        | 0x4D2A3234b2f2E27f03096097C4A530CAA8427681 | Cross Chain Data contract hash          |
+| CCM        | 0xab7a3CA9bDcE476F0ECC04c127CFEe0F3D212BC5 | Eth Cross Chain Manager                 |
+| CCMP       | 0x85472B4D353Cb89f86294b2e983ba44722bC0331 | Cross Chain Manager Proxy contract hash |
+| LockProxy  | 0x526444013Cd4D457212fF88Fe6F8e7c995DF1E40 |                                         |
+| Wrapper 3.0| 0x5906777d34257a2b479c291871C9BFdFB922D67D |                                         |
+| Wrapper    | 0x5906777d34257a2b479c291871C9BFdFB922D67D |                                         |
+
+
 ###### [Back to top](README.md#menu)
 ## Router And ChainId
 Type | Router Number | ChainId
@@ -660,6 +705,10 @@ Optimistic | 0 | 23
 Metis | 0 | 24
 Boba | 0 | 25
 Oasis | | 26
+Harmony | |27
+Hoo  | |28
+Bytom | |29
+Kcc | |30
 ###### [Back to top](README.md#menu)
 ## Relayers
 
