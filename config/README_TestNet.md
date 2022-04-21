@@ -33,8 +33,10 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | CCMP           | 0xb600c8a2e8852832B75DB9Da1A3A1c173eAb28d8 | Cross Chain Manager Proxy contract hash                                                                           |
 | ECCD           | 0xA38366d552672556CE82426Da5031E2Ae0598dcD | Ethereum Cross Chain Data contract hash                                                                           |
 | ECCM           | 0xf989E80AAd477cB6059f366C0170a498909C4a55 | Ethereum Cross Chain Manager contract hash                                                                        |
-| Lock Proxy     | 0xD8aE73e06552E270340b63A8bcAbf9277a1aac99 | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx |
+| Lock Proxy     | 0xD8aE73e06552E270340b63A8bcAbf9277a1aac99 | The lock proxy bridge contract hash 
+| Lock Proxy     | 0xfd40451429251A6dD535c4BB86A7D894409e900F | The lock proxy bridge contract hash for starcoin 
 | Wrapper        | 0xDc37471Af6a8aB7f45F444c5a3Ef4758281bE32C | Ethereum Wrapper contract hash                                                                                    |
+| Wrapper V3     | 0xc58eF4F49BBbd6bdfFeEA8159481C1AFAfBCFD0e | Ethereum Wrapper contract hash                                                                                    |
 | PLT Asset      | 0x1AC77d322e3347B8de181304B7c118a7e89c6Bc1 | The palette asset hash                                                                                            |
 | NFT Lock Proxy | 0x9bEF1AE7304D3d2F344ea00e796ADa18cE1beb03 | The NFT lock proxy contract hash                                                                                  |
 | NFT Wrapper    | 0x940300dc3Fc26e3A330a300be766184C0b5Fe019 | The NFT Wrapper contract hash                                                                                     |
