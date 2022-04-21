@@ -705,10 +705,10 @@ Optimistic | 0 | 23
 Metis | 0 | 24
 Boba | 0 | 25
 Oasis | | 26
-Harmony | |27
-Hoo  | |28
-Bytom | |29
-Kcc | |30
+Harmony |21 |27
+Hoo  |20 |28
+Bytom |22 |29
+Kcc |0 |30
 ###### [Back to top](README.md#menu)
 ## Relayers
 
