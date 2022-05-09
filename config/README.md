@@ -62,6 +62,7 @@ This's cross chain asset contract info ONLY in <strong>MAINNET</strong> mode, it
 | ECCD                          | 0xcf2afe102057ba5c16f899271045a0a37fcb10f2 | Ethereum Cross Chain Data contract hash                |
 | CCM                           | 0x14413419452Aaf089762A0c5e95eD2A13bBC488C | Ethereum Cross Chain Manager contract hash             |
 | Lock Proxy                    | 0x250e76987d838a75310c34bf422ea9f1AC4Cc906 | Ethereum Asset Proxy contract hash                     |
+| Lock Proxy-STC                | 0x3Ee764C95e9d2264DE3717a4CB45BCd3c5F00035 | Lock Proxy for Starcoin                                |
 | Lock Proxy-PIP4               | 0x7b9Bb72F187B3cb2CaA9Cf1cE95A938f0a66DB54 | Ethereum Asset Proxy contract hash                     |
 | Poly Wrapper                  | 0x2aA63cd0b28FB4C31fA8e4E95Ec11815Be07b9Ac | lock entrance for auto cross chain tx with fee         |
 | WrapperV2                     | 0xd380450e9e373bDC389951C54616edb2EE653524 | wrapper_v2 that take native asset as fee               |
@@ -153,6 +154,8 @@ This's cross chain asset contract info ONLY in <strong>MAINNET</strong> mode, it
 | ISM                           | 0x5126efa050f6d3166110039c5ca48cc57b8e6ba2 | ISM                                                    |
 | eCell                         | 0x9b62ec1453cea5dde760aaf662048ca6eeb66e7f | eCell                                                  |
 | PLT                           | 0x0944d5848bd9f60a34ba92aea300d4286696eb76 | PLT                                                    |
+| pSTC                          | 0xec8614B0a68786Dc7b452e088a75Cba4F68755b8 | Mapped asset for Starcoin                              |
+
 
 ###### [Back to top](README.md#menu)
 ## Ethereum: nrenBTC/nsBTC/nTUSD/nUSDC/nwBTC/nwETH/nDAI
