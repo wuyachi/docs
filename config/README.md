@@ -13,6 +13,8 @@ This's cross chain asset contract info ONLY in <strong>MAINNET</strong> mode, it
 |                                            | **[Polygon-17](README.md#Polygon)**         | **[Zilliqa-18](README.md#Zilliqa)**       | **[Arbitrum-19](README.md#Arbitrum)** | **[xDAI-20](README.md#xDAI)**          |
 | **[Avalanche-21](README.md#Avalanche)**    | **[Fantom-22](README.md#Fantom)**           | **[Optimistic-23](README.md#Optimistic)** | **[Metis-24](README.md#Metis)**       | **[Boba-25](README.md#Boba)**          |
 | **[Oasis-26](README.md#Oasis)**            | **[Harmony-27](README.md#Harmony)**         | **[Hsc-28](README.md#Hsc)**               | **[Bytom-29](README.md#Bytom)**       | **[Kcc-30](README.md#Kcc)**            |
+| **[Starcoin-31](README.md#Starcoin)**      |
+
 ### Quick Index
 
 | **[Poly Relayer Addresses](README.md#Poly-Relayer-Addresses)**   | **[Decentralized Application MainNet Nodes](README.md#Decentralized-Application-MainNet-Nodes)**   | **[Router And ChainId](README.md#Router-And-ChainId)**   |
@@ -674,6 +676,24 @@ Type | Denom (coin name) | Asset/Contract Hash | Desc
 | LockProxy | 0x526444013Cd4D457212fF88Fe6F8e7c995DF1E40 |                                         |
 | WrapperV3 | 0x5906777d34257a2b479c291871C9BFdFB922D67D |                                         |
 
+###### [Back to top](README.md#menu)
+## Starcoin
+| Type                                 | Contract Hash                                                                                                                                                           | Desc                                                 |
+|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| LockProxy                            | 0x307865353235353236333763353839376132643439396662663038323136663733653a3a43726f7373436861696e536372697074                                                              | Lock Proxy for Starcoin                              |
+| STC                                  | ETH bytes: 0x307830303030303030303030303030303030303030303030303030303030303030313a3a5354433a3a535443</br>STC: 0x00000000000000000000000000000001::STC::STC             |                                                      |
+| XETH                                 | ETH bytes: 0x307865353235353236333763353839376132643439396662663038323136663733653a3a584554483a3a58455448</br>STC: 0xe52552637c5897a2d499fbf08216f73e::XETH::XETH       |                                                      |
+| XUSDT                                | ETH bytes: 0x307865353235353236333763353839376132643439396662663038323136663733653a3a58555344543a3a5855534454</br>STC: 0xe52552637c5897a2d499fbf08216f73e::XUSDT::XUSDT |                                                      |
+| CCM                                  | 0xe52552637c5897a2d499fbf08216f73e::CrossChainScript                                                                                                                    | Starcoin Cross Chain Manager contract hash           | 
+| CrossChainEventTypeTag               | 0xe52552637c5897a2d499fbf08216f73e::CrossChainManager::CrossChainEvent                                                                                                  | Starcoin Cross Chain Event Type Tag                  | 
+| VerifyHeaderAndExecuteTxEventTypeTag | 0xe52552637c5897a2d499fbf08216f73e::CrossChainManager::VerifyHeaderAndExecuteTxEvent                                                                                    | Starcoin Verify Header And Execute Tx Event Type Tag |
+| LockEventTypeTag                     | 0xe52552637c5897a2d499fbf08216f73e::LockProxy::LockEvent                                                                                                                | Starcoin Lock Event Type Tag                         |
+| UnlockEventTypeTag                   | 0xe52552637c5897a2d499fbf08216f73e::LockProxy::UnlockEvent                                                                                                              | Starcoin Unlock Event Type Tag                       |
+| CrossChainFeeLockEventTypeTag        | 0xe52552637c5897a2d499fbf08216f73e::LockProxy::CrossChainFeeLockEvent                                                                                                   | Starcoin Cross Chain Fee Lock Event Type Tag         |
+
+## Note
+`ETH bytes` refers to the contract used for ETH bytes<br/>
+`STC` refers to the contract used for Starcoin
 
 ###### [Back to top](README.md#menu)
 ## Router And ChainId
@@ -705,6 +725,7 @@ Type | Denom (coin name) | Asset/Contract Hash | Desc
 |     Hsc      |      20       |    28     |
 |    Bytom     |      22       |    29     |
 |     Kcc      |       0       |    30     |
+| Starcoin     |      18       |   31      |
 
 ###### [Back to top](README.md#menu)
 ## Relayers
