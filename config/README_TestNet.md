@@ -13,7 +13,8 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 | **[Avalanche-209](README_TestNet.md#Avalanche)** | **[Fantom-208](README_TestNet.md#Fantom)**            | **[Optimistic-210](README_TestNet.md#Optimistic)** | **[Metis-300](README_TestNet.md#Metis)**       | **[Goerli-502](README_TestNet.md#Goerli)**    |
 | **[Rinkeby-402](README_TestNet.md#Rinkeby)**     | **[Kovan-302](README_TestNet.md#Kovan)**              | **[Pixie-316](README_TestNet.md#Pixie)**           | **[Starcoin-318](README_TestNet.md#Starcoin)** | **[OntEvm-333](README_TestNet.md#OntEvm)**    |
 | **[Boba-400](README_TestNet.md#Boba)**           | **[Oasis-500](README_TestNet.md#Oasis)**              | **[Hsc-603](README_TestNet.md#Hsc)**               | **[Bytom-701](README_TestNet.md#Bytom)**       | **[Harmony-800](README_TestNet.md#Harmony)**  | 
-| **[Kcc-900](README_TestNet.md#Kcc)**             | **[BCS Pallete-1001](README_TestNet.md#BCS-Pallete)** | **[MilkOmeda-810](README_TestNet.md#MilkOmeda)**   |
+| **[Kcc-900](README_TestNet.md#Kcc)**             | **[BCS Palette-1001](README_TestNet.md#BCS-Palette)** | **[Milkomeda-810](README_TestNet.md#Milkomeda)**   | **[BCS Palette 2-1002](README_TestNet.md#BCS-Palette-2)** | **[Kava-920](README_TestNet.md#Kava)**         |
+| **[Cube-930](README_TestNet.md#Cube)**           |
 ### Quick Index
 
 | **[Router And ChainId](README_TestNet.md#Router-And-ChainId)**   | **[Decentralized Application TestNet Nodes](README_TestNet.md#Decentralized-Application-TestNet-Nodes)**   |
@@ -488,7 +489,7 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 | WrapperV3  | 0xc2d365475EEf3ec83e59D1BcDF3A291D7B23Ba99 |                                         |
 
 ###### [Back to top](README_TestNet.md#menu)
-## BCS Pallete
+## BCS Palette
 | Type        | Contract Hash                              | Desc                                    |
 |-------------|--------------------------------------------|-----------------------------------------|
 | CCD         | 0x4850b984174513693dabf536dc9fd53b8afed5f5 | Cross Chain Data contract hash          |
@@ -501,15 +502,45 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 | Lock Proxy  | 0x0000000000000000000000000000000000000103 |                                         |
 
 ###### [Back to top](README_TestNet.md#menu)
-## MilkOmeda
+## Milkomeda
 | Type        | Contract Hash                              | Desc                                    |
 |-------------|--------------------------------------------|-----------------------------------------|
 | CCD         | 0xa2b760C09838f5606Ed94D0C7861B4CA085625a7 | Cross Chain Data contract hash          |            
 | CCM         | 0xFcf7A3207b7442F29a9f88e2d7638633B494843f | Cross Chain Manager contract hash       |
 | CCMP        | 0x1FbC3872515982254DabC7Ad50d556513316bC7a | Cross Chain Manager Proxy contract hash |
-| LockProxy   | 0xd6fc5374649cea121395a4860FdB33F21783c4Af | Proxy contract hash                     |
+| Lock Proxy  | 0xd6fc5374649cea121395a4860FdB33F21783c4Af | Proxy contract hash                     |
 | WrapperV3   | 0xf4B609a3ca7353a8f379069f939964Db351B39c1 |                                         |
 
+###### [Back to top](README_TestNet.md#menu)
+## BCS Palette 2
+| Type        | Contract Hash                               | Desc                                    |
+|-------------|---------------------------------------------|-----------------------------------------|
+| CCD         | 0xDDa8A22492AdEc7F3441EeACFfa3DB23e63BfAE1  | Cross Chain Data contract hash          |
+| CCM         | 0xC2CA384247EF3a121E2c4acA754652C7f8D8bA19  | Cross Chain Manager contract hash       |
+| CCMP        | 0x9B1Ada2351773f9F6caeF6E4A10394FD6Cd35348  | Cross Chain Manager Proxy contract hash |
+| PLT Wrapper | 0xdF539255E823b9D08aAD0b7D7b89868246f65B5a  |                                         |
+| Lock Proxy  | 0x0000000000000000000000000000000000000103  | Proxy contract hash                     |
+| wePLT       | 0x0000000000000000000000000000000000000103  |                                         |
+
+###### [Back to top](README_TestNet.md#menu)
+## Kava
+| Type       | Contract Hash                              | Desc                                      |
+|------------|--------------------------------------------|-------------------------------------------|
+| CCD        | 0x30e6ec356ceF1cfe3c7e14392EA08448382327bD | Cross Chain Data contract hash            |
+| CCM        | 0xd6fc5374649cea121395a4860FdB33F21783c4Af | Cross Chain Manager contract hash         |
+| CCMP       | 0xD5a240f7F755bCa2aE992E807b06d24eB6DF7C12 | Cross Chain Manager Proxy contract hash   |
+| Lock Proxy | 0x0AF53d318De279C8e67FcC6914acF387CFaA8B7E | Proxy contract hash                       |
+| WrapperV3  | 0xc2d365475EEf3ec83e59D1BcDF3A291D7B23Ba99 |                                           |
+
+###### [Back to top](README_TestNet.md#menu)
+## Cube
+| Type       | Contract Hash                              | Desc                                      |
+|------------|--------------------------------------------|-------------------------------------------|
+| CCD        | 0xd6fc5374649cea121395a4860FdB33F21783c4Af | Cross Chain Data contract hash            |
+| CCM        | 0xD5a240f7F755bCa2aE992E807b06d24eB6DF7C12 | Cross Chain Manager contract hash         |
+| CCMP       | 0x603927a5E6F54155402e4aC5896CE6F309A8a095 | Cross Chain Manager Proxy contract hash   |
+| Lock Proxy | 0xFeE651E032197770B65516EFbBdeD11483533264 | Proxy contract hash                       |
+| WrapperV3  | 0x30e6ec356ceF1cfe3c7e14392EA08448382327bD |                                           |
 
 ###### [Back to top](README_TestNet.md#menu)
 ## Router And ChainId
@@ -547,6 +578,9 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 |    Bytom    |      22       |     701      |
 |   Harmony   |       0       |     800      |
 |     Kcc     |       0       |     900      |
-| BCS Pallete |       0       |     1001     |
-| MilkOmeda   |       0       |     810      |
+| BCS Palette |       8       |     1001     |
+| Milkomeda   |       0       |     810      |
+|BCS Palette 2|       8       |     1002     |
+|     Kava    |       0       |     920      |
+|     Cube    |       0       |     930      |
 ###### [Back to top](README_TestNet.md#menu)
