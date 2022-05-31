@@ -13,7 +13,7 @@ This's cross chain asset contract info ONLY in <strong>MAINNET</strong> mode, it
 |                                            | **[Polygon-17](README.md#Polygon)**         | **[Zilliqa-18](README.md#Zilliqa)**       | **[Arbitrum-19](README.md#Arbitrum)** | **[xDAI-20](README.md#xDAI)**          |
 | **[Avalanche-21](README.md#Avalanche)**    | **[Fantom-22](README.md#Fantom)**           | **[Optimistic-23](README.md#Optimistic)** | **[Metis-24](README.md#Metis)**       | **[Boba-25](README.md#Boba)**          |
 | **[Oasis-26](README.md#Oasis)**            | **[Harmony-27](README.md#Harmony)**         | **[Hsc-28](README.md#Hsc)**               | **[Bytom-29](README.md#Bytom)**       | **[Kcc-30](README.md#Kcc)**            |
-| **[Starcoin-31](README.md#Starcoin)**      |
+| **[Starcoin-31](README.md#Starcoin)**      |**[Kava-32](README.md#Kava)**                |
 
 ### Quick Index
 
@@ -699,6 +699,17 @@ Type | Denom (coin name) | Asset/Contract Hash | Desc
 `STC` refers to the contract used for Starcoin
 
 ###### [Back to top](README.md#menu)
+## Kava
+| Type      | Contract Hash                              | Desc                                    |
+|-----------|--------------------------------------------|-----------------------------------------|
+| CCD       | 0x4D2A3234b2f2E27f03096097C4A530CAA8427681 | Cross Chain Data contract hash          |
+| CCM       | 0xab7a3CA9bDcE476F0ECC04c127CFEe0F3D212BC5 | Eth Cross Chain Manager                 |
+| CCMP      | 0x85472B4D353Cb89f86294b2e983ba44722bC0331 | Cross Chain Manager Proxy contract hash |
+| LockProxy | 0x526444013Cd4D457212fF88Fe6F8e7c995DF1E40 |                                         |
+| WrapperV3 | 0x6cEB2EC1E82880812F6aA60DfA260679D6C8323d |                                         |
+
+
+###### [Back to top](README.md#menu)
 ## Router And ChainId
 |     Type     | Router Number |  ChainId  |
 |:------------:|:-------------:|:---------:|
@@ -728,7 +739,8 @@ Type | Denom (coin name) | Asset/Contract Hash | Desc
 |     Hsc      |      20       |    28     |
 |    Bytom     |      22       |    29     |
 |     Kcc      |       0       |    30     |
-| Starcoin     |      18       |   31      |
+| Starcoin     |      18       |    31     |
+|   Kava       |      0        |    32     |
 
 ###### [Back to top](README.md#menu)
 ## Relayers
