@@ -402,15 +402,15 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 ## Starcoin
 | Type                                 | Contract Hash                                                                        | Desc                                                 |
 |--------------------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------|
-| CCM                                  | 0x416b32009fe49fcab1d5f2ba0153838f::CrossChainScript                                 | Starcoin Cross Chain Manager contract hash           | 
+| CCM+LockProxy                        | 0x416b32009fe49fcab1d5f2ba0153838f::CrossChainScript <br/> bytes: 307834313662333230303966653439666361623164356632626130313533383338663a3a43726f7373436861696e536372697074                                 | Cross Chain Manage contract and Lock Proxy contract for Starcoin           | 
 | CrossChainEventTypeTag               | 0x416b32009fe49fcab1d5f2ba0153838f::CrossChainManager::CrossChainEvent               | Starcoin Cross Chain Event Type Tag                  | 
 | VerifyHeaderAndExecuteTxEventTypeTag | 0x416b32009fe49fcab1d5f2ba0153838f::CrossChainManager::VerifyHeaderAndExecuteTxEvent | Starcoin Verify Header And Execute Tx Event Type Tag |
 | LockEventTypeTag                     | 0x416b32009fe49fcab1d5f2ba0153838f::LockProxy::LockEvent                             | Starcoin Lock Event Type Tag                         |
 | UnlockEventTypeTag                   | 0x416b32009fe49fcab1d5f2ba0153838f::LockProxy::UnlockEvent                           | Starcoin Unlock Event Type Tag                       |
 | CrossChainFeeLockEventTypeTag        | 0x416b32009fe49fcab1d5f2ba0153838f::LockProxy::CrossChainFeeLockEvent                | Starcoin Cross Chain Fee Lock Event Type Tag         |
-| STC                                  | 0x00000000000000000000000000000001::STC::STC                                         | STC                                                  |
-| XETH                                 | 0x416b32009fe49fcab1d5f2ba0153838f::XETH::XETH                                       | XETH                                                 |
-| XUSDT                                | 0x416b32009fe49fcab1d5f2ba0153838f::XUSDT::XUSDT                                     | XUSDT                                                |
+| STC                                  | 0x00000000000000000000000000000001::STC::STC <br/> bytes: 0x307830303030303030303030303030303030303030303030303030303030303030313a3a5354433a3a535443               | STC                                                  |
+| XETH                                 | 0x416b32009fe49fcab1d5f2ba0153838f::XETH::XETH <br/> bytes: 0x307834313662333230303966653439666361623164356632626130313533383338663a3a584554483a3a58455448         | XETH                                                 |
+| XUSDT                                | 0x416b32009fe49fcab1d5f2ba0153838f::XUSDT::XUSDT <br/> bytes: 0x307834313662333230303966653439666361623164356632626130313533383338663a3a58555344543a3a5855534454   | XUSDT                                                |
 
 ###### [Back to top](README_TestNet.md#menu)
 ## OntEvm
