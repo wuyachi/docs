@@ -253,7 +253,7 @@ This's cross chain asset contract info ONLY in <strong>MAINNET</strong> mode, it
 | WrapperV2       | 0x4b0CFdb5e1Ca898a225F9E14AfF9e4eF178a10d2 | wrapper_v2 that take native asset as fee        |
 | WrapperV3       | 0xbc3B4E7517c06019F30Bf2f707eD2770b85f9928 | wrapper_v3 that take native asset as fee        |
 | Swapper         | 0x00b93851e3135663AAeC351555EddEE5B01325e6 | Curve entrance for auto cross chain tx with fee |
-| NFT Lock Proxy  | 0x2cdfc90250EF967036838DA601099656e74bCfc5 | The NFT lockc proxy contract hash               |
+| NFT Lock Proxy  | 0xffaD3BfCbE1B56dD9FF23c44CBB7A2af45B9BD30 | The NFT lockc proxy contract hash               |
 | NFT Wrapper     | 0xe2bD9dD8FAF5C4C2087Ab82eC7E63F619CcAa152 | The NFT Wrapper contract hash                   |
 | NFT Query       | 0x02015dBb2Dc25Cc7313D7EDb4785c2C46F3B7FD2 | The NFT profile query contract hash             |
 | pNEO            | 0xb119b3b8e5e6eeffbe754b20ee5b8a42809931fb | NEO mapping asset in BSC                        |
