@@ -547,7 +547,7 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 |    Type     | Router Number |   ChainId    |
 |:-----------:|:-------------:|:------------:|
 |   Bitcoin   |       1       |      1       |
-|  Ethereum   |       2       |      2       |
+|  Ethereum   |       0       |      2       |
 |  Ontology   |       3       |      3       |
 |   NEO(N2)   |       4       |      5       |
 |  Switcheo   |       5       | release soon |
