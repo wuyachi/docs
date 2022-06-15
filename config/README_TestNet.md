@@ -9,8 +9,8 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 | **Bitcoin-1**                                    | **[Ethereum-2](README_TestNet.md#Ethereum)**          | **[Ontology-3](README_TestNet.md#Ontology)**       | **[Neo N2-5](README_TestNet.md#NeoN2)**        | **Switcheo-**                                 |
 |:-------------------------------------------------|:------------------------------------------------------|:---------------------------------------------------|:-----------------------------------------------|:----------------------------------------------|
 | **[Bsc-79](README_TestNet.md#BSC)**              | **[Heco-7](README_TestNet.md#HECO)**                  | **[Palette-107](README_TestNet.md#Palette)**       | **[Ok-200](README_TestNet.md#Ok)**             | **Curve-82**                                  |
-| **[Neo N3-88](README_TestNet.md#NeoN3)**         | **[Polygon-202](README_TestNet.md#Polygon)**          | **[Zilliqa-111](README_TestNet.md#Zilliqa)**       | **[Arbitrum-205](README_TestNet.md#Arbitrum)** | **[xDAI-206](README_TestNet.md#xDAI)**        |
-| **[Avalanche-209](README_TestNet.md#Avalanche)** | **[Fantom-208](README_TestNet.md#Fantom)**            | **[Optimistic-210](README_TestNet.md#Optimistic)** | **[Metis-300](README_TestNet.md#Metis)**       | **[Goerli-502](README_TestNet.md#Goerli)**    |
+| **[Neo N3-88](README_TestNet.md#NeoN3)**         | **[Polygon-202](README_TestNet.md#Polygon)**          | **[Zilliqa-111](README_TestNet.md#Zilliqa)**       | **[Arbitrum-205](README_TestNet.md#Arbitrum)** | **[Gnosis-206](README_TestNet.md#Gnosis)**        |
+| **[Avalanche-209](README_TestNet.md#Avalanche)** | **[Fantom-208](README_TestNet.md#Fantom)**            | **[Optimism-210](README_TestNet.md#Optimism)** | **[Metis-300](README_TestNet.md#Metis)**       | **[Goerli-502](README_TestNet.md#Goerli)**    |
 | **[Rinkeby-402](README_TestNet.md#Rinkeby)**     | **[Kovan-302](README_TestNet.md#Kovan)**              | **[Pixie-316](README_TestNet.md#Pixie)**           | **[Starcoin-318](README_TestNet.md#Starcoin)** | **[OntEvm-333](README_TestNet.md#OntEvm)**    |
 | **[Boba-400](README_TestNet.md#Boba)**           | **[Oasis-500](README_TestNet.md#Oasis)**              | **[Hsc-603](README_TestNet.md#Hsc)**               | **[Bytom-701](README_TestNet.md#Bytom)**       | **[Harmony-800](README_TestNet.md#Harmony)**  | 
 | **[Kcc-900](README_TestNet.md#Kcc)**             | **[BCS Palette-1001](README_TestNet.md#BCS-Palette)** | **[Milkomeda-810](README_TestNet.md#Milkomeda)**   | **[BCS Palette 2-1002](README_TestNet.md#BCS-Palette-2)** | **[Kava-920](README_TestNet.md#Kava)**         |
@@ -30,89 +30,93 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 ###### [Back to top](README_TestNet.md#menu)
 ## Ethereum
 
-| Type           | Contract Hash                              | Desc                                                                     |
-|----------------|--------------------------------------------|--------------------------------------------------------------------------|
-| CCMP           | 0xb600c8a2e8852832B75DB9Da1A3A1c173eAb28d8 | Cross Chain Manager Proxy contract hash                                  |
-| CCD            | 0xA38366d552672556CE82426Da5031E2Ae0598dcD | Ethereum Cross Chain Data contract hash                                  |
-| CCM            | 0xf989E80AAd477cB6059f366C0170a498909C4a55 | Ethereum Cross Chain Manager contract hash                               |
-| Lock Proxy     | 0xD8aE73e06552E270340b63A8bcAbf9277a1aac99 | The lock proxy bridge contract hash                                      |
-| Lock Proxy     | 0xfd40451429251A6dD535c4BB86A7D894409e900F | The lock proxy bridge contract hash for starcoin                         |
-| Wrapper        | 0xDc37471Af6a8aB7f45F444c5a3Ef4758281bE32C | Ethereum Wrapper contract hash                                           |
-| Wrapper V3     | 0xc58eF4F49BBbd6bdfFeEA8159481C1AFAfBCFD0e | Ethereum Wrapper contract hash                                           |
-| PLT Asset      | 0x1AC77d322e3347B8de181304B7c118a7e89c6Bc1 | The palette asset hash                                                   |
-| NFT Lock Proxy | 0x9bEF1AE7304D3d2F344ea00e796ADa18cE1beb03 | The NFT lock proxy contract hash                                         |
-| NFT Wrapper    | 0x940300dc3Fc26e3A330a300be766184C0b5Fe019 | The NFT Wrapper contract hash                                            |
-| NFT Query      | 0x500674D603331C43ed2288834BAb284BF65fc076 | The NFT profile query contract hash                                      |
-| NFT SEASCAPE   | 0x3680fb34F55030326659cd9AaEc522B6E355bdB6 | The seascape NFT contracct hash                                          |
-| NFT cat1       | 0xa85c9FC8F2c9060d674E0CA97F703a0A30619305 | The NFT collection of `digitalCat1` contract hash                        |
-| ERC20          | 0x276788aF4a803781267c84692416311DE1F761f9 | ERC20 template contract hash in Ethereum chain                           |
-| EOEP4          | 0x3105A14F7956D33a51F12eF3AE50A3f1eF161Dff | OEP4x template contract hash in Ethereum chain                           |
-| EONG           | 0x42d9feF0Cbd9c3000CECe9764d99A4a6fE9E1B34 | ONGx contract hash in Ethereum chain                                     |
-| EONT           | 0x530aae4C0859894023906e28467f2a7F111B6ff3 | ONTx contract hash in Ethereum chain                                     |
-| EONTD          | 0x76130c293AA35bf7B3e5fED1E9aE1E5DF12C6A92 | ONTD ONT with decimals                                                   |
-| ETH            | 0x0000000000000000000000000000000000000000 | The asset hash that we treat as the Ether asset                          |
-| USDT           | 0xad3f96ae966ad60347f31845b7e4b333104c52fb | USD Tether                                                               |
-| USDC           | 0x0d9c8723b343a8368bebe0b5e89273ff8d712e3c | USDC                                                                     |
-| WBTC           | 0x557563dc4ed3fd256eBA55B9622f53331ab97c2f | WBTC                                                                     |
-| DAI            | 0x8Cad2301F7348DFc10C65778197028F432d51e76 | DAI                                                                      |
-| EBTC           | 0x92705a16815A3d1AEC3cE9Cc273C5aa302961FcC | Btcx contract hash corresponding with unique btc redeem script           |
-| ECNEO          | 0x7E269f2f33A97C64192e9889FAeEC72A6fcdB397 |                                                                          |
-| RENBTC         | 0x239100e629a9Ca8e0BF45C7892b0fc72d78AA97A |                                                                          |
-| pWING          | 0xB60e03E6973B1d0b90a763f5B64C48ca7cB8c2d1 | WING on ethereum                                                         |
-| pPAX           | 0x825c227B07153eA450a6607E35c2BF70a9B2fe47 |                                                                          |
-| sUSD           | 0x21718C0FbD10900565fa57C76e1862cd3F6a4d8E | [How to get sUSD](https://developer.synthetix.io/integrations/testnets/) |
-| pOKB           | 0x776C8DB09367615BC741Be6e13Dec8EAbD2bD8bd |                                                                          |
-| pUNI           | 0x1269d9940a2bfc5aC13c759E7ef1E35FEc7278f6 |                                                                          |
-| pBNB           | 0x09c6a1B0B32a8B2c327532518C68F9B0C54255b8 |                                                                          |
-| pHT            |                                            | 0x930B81bDdCd7A793D3541E41D85475a20E169092                               |
-| pHRC20         | 0x3FDd17AbFbB43D29e32746C273085C05d58e2e80 |                                                                          |
-| pFLM           | 0xc4e419CC0945dC9860A73B3A2cAcAA12aD7CF3B8 |                                                                          |
-| xWETH          | 0xd38fc89febb12e5d32faa72e07d486a268b9c63a |                                                                          |
-| xWBTC          | 0x447b931cc604a30dc16c49002f35a7aab7888b78 |                                                                          |
-| xUSDT          | 0xf15b5430321f4e51f5f534cedada7fbb78fa6680 |                                                                          |
-| Cash           | 0x6678C7f809c699c9B1F7da6F263b5cF407b8EB1d | Cash                                                                     |
-| Share          | 0x61ADf6f0D936C8602893228bbB83d1AC08eB60FB | Share                                                                    |
-| CVT            | 0xe6DF8136171FA8C3D4eA450C4A86bA707AECFBba |                                                                          |
-| REVO           | 0x155040625D7ae3e9caDA9a73E3E44f76D3Ed1409 |                                                                          |
-| Essentia       | 0xdD5B6056744F7ECa6784cA09C2590004Ec67729D |                                                                          |
+| Type                   | Contract Hash                                | Desc                                                                     |
+|------------------------|----------------------------------------------|--------------------------------------------------------------------------|
+| CCMP                   | 0xb600c8a2e8852832B75DB9Da1A3A1c173eAb28d8   | Cross Chain Manager Proxy contract hash                                  |
+| CCD                    | 0xA38366d552672556CE82426Da5031E2Ae0598dcD   | Ethereum Cross Chain Data contract hash                                  |
+| CCM                    | 0xf989E80AAd477cB6059f366C0170a498909C4a55   | Ethereum Cross Chain Manager contract hash                               |
+| Lock Proxy             | 0xD8aE73e06552E270340b63A8bcAbf9277a1aac99   | The lock proxy bridge contract hash                                      |
+| Lock Proxy             | 0xfd40451429251A6dD535c4BB86A7D894409e900F   | The lock proxy bridge contract hash for starcoin                         |
+| Wrapper                | 0xDc37471Af6a8aB7f45F444c5a3Ef4758281bE32C   | Ethereum Wrapper contract hash                                           |
+| Wrapper V3             | 0xc58eF4F49BBbd6bdfFeEA8159481C1AFAfBCFD0e   | Ethereum Wrapper contract hash                                           |
+| Ethereum Bridge-O3V2   | 0xED035c39a7e4Ee13b8ab48f70c7936ecCc6f4B0D   | Ethereum Bridge for O3V2                                                 |
+| Ethereum Wrapper-O3V2  | 0xfaACa57E382Df0728D26751C3e068aa2f34E69Fb	  | Ethereum Wrapper for O3V2                                                |
+| PLT Asset              | 0x1AC77d322e3347B8de181304B7c118a7e89c6Bc1   | The palette asset hash                                                   |
+| NFT Lock Proxy         | 0x9bEF1AE7304D3d2F344ea00e796ADa18cE1beb03   | The NFT lock proxy contract hash                                         |
+| NFT Wrapper            | 0x940300dc3Fc26e3A330a300be766184C0b5Fe019   | The NFT Wrapper contract hash                                            |
+| NFT Query              | 0x500674D603331C43ed2288834BAb284BF65fc076   | The NFT profile query contract hash                                      |
+| NFT SEASCAPE           | 0x3680fb34F55030326659cd9AaEc522B6E355bdB6   | The seascape NFT contracct hash                                          |
+| NFT cat1               | 0xa85c9FC8F2c9060d674E0CA97F703a0A30619305   | The NFT collection of `digitalCat1` contract hash                        |
+| ERC20                  | 0x276788aF4a803781267c84692416311DE1F761f9   | ERC20 template contract hash in Ethereum chain                           |
+| EOEP4                  | 0x3105A14F7956D33a51F12eF3AE50A3f1eF161Dff   | OEP4x template contract hash in Ethereum chain                           |
+| EONG                   | 0x42d9feF0Cbd9c3000CECe9764d99A4a6fE9E1B34   | ONGx contract hash in Ethereum chain                                     |
+| EONT                   | 0x530aae4C0859894023906e28467f2a7F111B6ff3   | ONTx contract hash in Ethereum chain                                     |
+| EONTD                  | 0x76130c293AA35bf7B3e5fED1E9aE1E5DF12C6A92   | ONTD ONT with decimals                                                   |
+| ETH                    | 0x0000000000000000000000000000000000000000   | The asset hash that we treat as the Ether asset                          |
+| USDT                   | 0xad3f96ae966ad60347f31845b7e4b333104c52fb   | USD Tether                                                               |
+| USDC                   | 0x0d9c8723b343a8368bebe0b5e89273ff8d712e3c   | USDC                                                                     |
+| WBTC                   | 0x557563dc4ed3fd256eBA55B9622f53331ab97c2f   | WBTC                                                                     |
+| DAI                    | 0x8Cad2301F7348DFc10C65778197028F432d51e76   | DAI                                                                      |
+| EBTC                   | 0x92705a16815A3d1AEC3cE9Cc273C5aa302961FcC   | Btcx contract hash corresponding with unique btc redeem script           |
+| ECNEO                  | 0x7E269f2f33A97C64192e9889FAeEC72A6fcdB397   |                                                                          |
+| RENBTC                 | 0x239100e629a9Ca8e0BF45C7892b0fc72d78AA97A   |                                                                          |
+| pWING                  | 0xB60e03E6973B1d0b90a763f5B64C48ca7cB8c2d1   | WING on ethereum                                                         |
+| pPAX                   | 0x825c227B07153eA450a6607E35c2BF70a9B2fe47   |                                                                          |
+| sUSD                   | 0x21718C0FbD10900565fa57C76e1862cd3F6a4d8E   | [How to get sUSD](https://developer.synthetix.io/integrations/testnets/) |
+| pOKB                   | 0x776C8DB09367615BC741Be6e13Dec8EAbD2bD8bd   |                                                                          |
+| pUNI                   | 0x1269d9940a2bfc5aC13c759E7ef1E35FEc7278f6   |                                                                          |
+| pBNB                   | 0x09c6a1B0B32a8B2c327532518C68F9B0C54255b8   |                                                                          |
+| pHT                    |                                              | 0x930B81bDdCd7A793D3541E41D85475a20E169092                               |
+| pHRC20                 | 0x3FDd17AbFbB43D29e32746C273085C05d58e2e80   |                                                                          |
+| pFLM                   | 0xc4e419CC0945dC9860A73B3A2cAcAA12aD7CF3B8   |                                                                          |
+| xWETH                  | 0xd38fc89febb12e5d32faa72e07d486a268b9c63a   |                                                                          |
+| xWBTC                  | 0x447b931cc604a30dc16c49002f35a7aab7888b78   |                                                                          |
+| xUSDT                  | 0xf15b5430321f4e51f5f534cedada7fbb78fa6680   |                                                                          |
+| Cash                   | 0x6678C7f809c699c9B1F7da6F263b5cF407b8EB1d   | Cash                                                                     |
+| Share                  | 0x61ADf6f0D936C8602893228bbB83d1AC08eB60FB   | Share                                                                    |
+| CVT                    | 0xe6DF8136171FA8C3D4eA450C4A86bA707AECFBba   |                                                                          |
+| REVO                   | 0x155040625D7ae3e9caDA9a73E3E44f76D3Ed1409   |                                                                          |
+| Essentia               | 0xdD5B6056744F7ECa6784cA09C2590004Ec67729D   |                                                                          |
 
 ###### [Back to top](README_TestNet.md#menu)
 ## Bsc
 
-| Type           | Contract Hash                              | Desc                                                                                                                  |
-|----------------|--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| CCMP           | 0x441C035446c947a97bD36b425B67907244576990 | Cross Chain Manager Proxy contract hash                                                                               |
-| CCD            | 0xE815E5B52A659d78c91B747f7A3b358cc4F04794 | Cross Chain Data contract hash                                                                                        |
-| CCM            | 0x906bC93FF690d6D3D2C4E7A7dfA4dEbdEF2cD7CA | Cross Chain Manager contract hash                                                                                     |
-| Lock Proxy     | 0x097Ae585BfEf78DDC8E266ABCb840dAF7265130c | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx     |
-| Lock Proxy1.5  | 0xB4004B93f1ce1E63131413cA201D35D1F3f40e5D | The lock proxy 1.5 bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx |
-| Wrapper        | 0x9f9F15CC407F7b26f55D71D43f993580a9107007 | wrapper contract hash                                                                                                 |
-| Wrapper3.0     | 0xfb717F8d478156fE7428369075bB2FaB4Ea659B5 | wrapper contract hash  used by lockproxy2.0                                                                           |
-| NFT Lock Proxy | 0x9bEF1AE7304D3d2F344ea00e796ADa18cE1beb03 | The NFT lockc proxy contract hash                                                                                     |
-| NFT Wrapper    | 0x61E289D43C1FEA7598786557A2F309979ad144D3 | The NFT Wrapper contract hash                                                                                         |
-| NFT Query      | 0xAB3e1F13127bE931A71Fdc8940bd31506EFC6A70 | The NFT profile query contract hash                                                                                   |
-| NFT SEASCAPE   | 0x66638F4970C2ae63773946906922c07a583b6069 | The seascape NFT contracct hash                                                                                       |
-| NFT cat1       | 0x455B51D882571E244d03668f1a458ca74E70d196 | The NFT collection of `digitalCat1` contract hash                                                                     |
-| NFT Nobel Boss | 0x301294a9c7c218d439edd6d5ab16f9663fc10f3e | The NFT Nobel Boss Mint contract                                                                                      | 
-| Bnb            | 0x0000000000000000000000000000000000000000 | The asset hash that we treat as the Bnb asset                                                                         |
-| USDT           | 0x23F5075740c2C99C569FfD0768c383A92d1a4aD7 | USD Tether                                                                                                            |
-| USDC           | 0xeE8410B64aAed811d84c313b72E040Cb09840b80 | USDC                                                                                                                  |
-| WBTC           | 0xA3cE15f11D4427b6bad5630036f368a98e923E95 | WBTC                                                                                                                  |
-| DAI            | 0xe5750F0EE3DFD2e6a3Aca35ddC0E904188Fd571e | DAI                                                                                                                   |
-| WING           | 0x0a7BF54D2684885d731Dc63917A3178A2a1a8d4A | WING                                                                                                                  |
-| ONTd           | 0xAd21Ee6507E8Ee05E7A239163031d1853Bb8869f | ONTd                                                                                                                  |
-| pHT            | 0xFdE5B4D9B2D89b8DC11Bd83E1E1867a53F88695c | pHT                                                                                                                   |
-| pHRC20         | 0xdb82f10Ef81ed9E43f3F03Fd8d2D3b92C86F546b | pHRC20                                                                                                                |
-| pEth           | 0x44c86e6b6B613f3471ad87dBfAeB92B320b71a23 | pEth                                                                                                                  |
-| pNeo           | 0xCe5b38C8B83428C5B4209a1866AA483De271Bd6c | pNeo                                                                                                                  |
-| pSUSD          | 0xFE9b30ed047bC43F1537140772f50969a29df5de | pSUSD                                                                                                                 |
-| Cash           | 0x62D475e25f7492027eB1888599f96f195B0D6065 | Cash                                                                                                                  |
-| Share          | 0x4a2f867152E5370fb026b768CaC4647750c5Ae02 | Share                                                                                                                 |
-| CVT            | 0x539DAAFE03Ff2685C8D7922a61C1A66f22807bb7 |                                                                                                                       |
-| REVO           | 0x155040625D7ae3e9caDA9a73E3E44f76D3Ed1409 |                                                                                                                       |
-| Essentia       | 0xcdA43a8EF603aC31DA6E104b481146374C53149C |                                                                                                                       |
-| Metis          | 0xdB2D16f61e3e1bD54Ba8068E04F5552e718d5b7c | Token                                                                                                                 |
-| LPToken        | 0xd6828c954E27Ae3929f098BA2Fb8Bf163817C40b | Metis LP Token                                                                                                        |
+| Type              | Contract Hash                               | Desc                                                                                                                  |
+|-------------------|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| CCMP              | 0x441C035446c947a97bD36b425B67907244576990  | Cross Chain Manager Proxy contract hash                                                                               |
+| CCD               | 0xE815E5B52A659d78c91B747f7A3b358cc4F04794  | Cross Chain Data contract hash                                                                                        |
+| CCM               | 0x906bC93FF690d6D3D2C4E7A7dfA4dEbdEF2cD7CA  | Cross Chain Manager contract hash                                                                                     |
+| Lock Proxy        | 0x097Ae585BfEf78DDC8E266ABCb840dAF7265130c  | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx     |
+| Lock Proxy1.5     | 0xB4004B93f1ce1E63131413cA201D35D1F3f40e5D  | The lock proxy 1.5 bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx |
+| Wrapper           | 0x9f9F15CC407F7b26f55D71D43f993580a9107007  | wrapper contract hash                                                                                                 |
+| Wrapper3.0        | 0xfb717F8d478156fE7428369075bB2FaB4Ea659B5  | wrapper contract hash  used by lockproxy2.0                                                                           |
+| BSC Bridge-O3V2   | 0x1930cA2566FA8bFf858e35A5Ab8B4b5617702E3A  | BSC Bridge for O3V2                                                                                                   |
+| BSC  Wrapper-O3V2 | 0xCDE343463b14C6E91Df25676D0852c818613eB19  | BSC Wrapper for O3V2                                                                                                  |
+| NFT Lock Proxy    | 0x9bEF1AE7304D3d2F344ea00e796ADa18cE1beb03  | The NFT lockc proxy contract hash                                                                                     |
+| NFT Wrapper       | 0x61E289D43C1FEA7598786557A2F309979ad144D3  | The NFT Wrapper contract hash                                                                                         |
+| NFT Query         | 0xAB3e1F13127bE931A71Fdc8940bd31506EFC6A70  | The NFT profile query contract hash                                                                                   |
+| NFT SEASCAPE      | 0x66638F4970C2ae63773946906922c07a583b6069  | The seascape NFT contracct hash                                                                                       |
+| NFT cat1          | 0x455B51D882571E244d03668f1a458ca74E70d196  | The NFT collection of `digitalCat1` contract hash                                                                     |
+| NFT Nobel Boss    | 0x301294a9c7c218d439edd6d5ab16f9663fc10f3e  | The NFT Nobel Boss Mint contract                                                                                      | 
+| Bnb               | 0x0000000000000000000000000000000000000000  | The asset hash that we treat as the Bnb asset                                                                         |
+| USDT              | 0x23F5075740c2C99C569FfD0768c383A92d1a4aD7  | USD Tether                                                                                                            |
+| USDC              | 0xeE8410B64aAed811d84c313b72E040Cb09840b80  | USDC                                                                                                                  |
+| WBTC              | 0xA3cE15f11D4427b6bad5630036f368a98e923E95  | WBTC                                                                                                                  |
+| DAI               | 0xe5750F0EE3DFD2e6a3Aca35ddC0E904188Fd571e  | DAI                                                                                                                   |
+| WING              | 0x0a7BF54D2684885d731Dc63917A3178A2a1a8d4A  | WING                                                                                                                  |
+| ONTd              | 0xAd21Ee6507E8Ee05E7A239163031d1853Bb8869f  | ONTd                                                                                                                  |
+| pHT               | 0xFdE5B4D9B2D89b8DC11Bd83E1E1867a53F88695c  | pHT                                                                                                                   |
+| pHRC20            | 0xdb82f10Ef81ed9E43f3F03Fd8d2D3b92C86F546b  | pHRC20                                                                                                                |
+| pEth              | 0x44c86e6b6B613f3471ad87dBfAeB92B320b71a23  | pEth                                                                                                                  |
+| pNeo              | 0xCe5b38C8B83428C5B4209a1866AA483De271Bd6c  | pNeo                                                                                                                  |
+| pSUSD             | 0xFE9b30ed047bC43F1537140772f50969a29df5de  | pSUSD                                                                                                                 |
+| Cash              | 0x62D475e25f7492027eB1888599f96f195B0D6065  | Cash                                                                                                                  |
+| Share             | 0x4a2f867152E5370fb026b768CaC4647750c5Ae02  | Share                                                                                                                 |
+| CVT               | 0x539DAAFE03Ff2685C8D7922a61C1A66f22807bb7  |                                                                                                                       |
+| REVO              | 0x155040625D7ae3e9caDA9a73E3E44f76D3Ed1409  |                                                                                                                       |
+| Essentia          | 0xcdA43a8EF603aC31DA6E104b481146374C53149C  |                                                                                                                       |
+| Metis             | 0xdB2D16f61e3e1bD54Ba8068E04F5552e718d5b7c  | Token                                                                                                                 |
+| LPToken           | 0xd6828c954E27Ae3929f098BA2Fb8Bf163817C40b  | Metis LP Token                                                                                                        |
 
 ###### [Back to top](README_TestNet.md#menu)
 ## OK
@@ -244,18 +248,20 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 ###### [Back to top](README_TestNet.md#menu)
 ## Polygon
 
-| Type           | Contract Hash                              | Desc                                            |
-|----------------|--------------------------------------------|-------------------------------------------------|
-| CCMP           | 0x15D3f62822a446b8C5fDBBef157f0b82b05c29Ab | Cross Chain Manager Proxy contract hash         |
-| CCD            | 0xd097cf11c0215563AaAE2d3bb49366C59FFFa144 | Cross Chain Data contract hash                  |
-| CCM            | 0xDC1045aD8956e14eC51B7824AB26b1360567ab51 | Cross Chain Manager contract hash               |
-| Lock Proxy     | 0x4e5eF0CA5A94b169Fb010fb40DBFD57c4830f446 | The lock proxy bridge contract hash             |
-| Poly Wrapper   | 0xD5d63Dce45E0275Ca76a8b2e9BD8C11679A57D0D | lock entrance for auto cross chain tx with fee  |
-| Swapper        | 0x1B0C55be400e2a7D924032B257Fbc75Bbfd256E7 | Curve entrance for auto cross chain tx with fee |
-| NFT Lock Proxy | 0x761fb099d021cf55ffe65f9bedd3e2bab52abccc | The NFT lockc proxy contract hash               |
-| NFT Wrapper    | 0xea5b2a0cf4ca9bd5c72ea1fbee1ffe420e57f692 | The NFT Wrapper contract hash                   |                                                                  
-| NFT Query      | 0x13227576c94119755bbad5bf01d8ac332f80e8ad | The NFT profile query contract hash             | 
-| NFT Nobel Boss | 0xd0609f06ffa034a525d31fdc1a4ba94a457f4620 | The NFT Nobel Boss Mint contract                | 
+| Type                  | Contract Hash                               | Desc                                            |
+|-----------------------|---------------------------------------------|-------------------------------------------------|
+| CCMP                  | 0x15D3f62822a446b8C5fDBBef157f0b82b05c29Ab  | Cross Chain Manager Proxy contract hash         |
+| CCD                   | 0xd097cf11c0215563AaAE2d3bb49366C59FFFa144  | Cross Chain Data contract hash                  |
+| CCM                   | 0xDC1045aD8956e14eC51B7824AB26b1360567ab51  | Cross Chain Manager contract hash               |
+| Lock Proxy            | 0x4e5eF0CA5A94b169Fb010fb40DBFD57c4830f446  | The lock proxy bridge contract hash             |
+| Poly Wrapper          | 0xD5d63Dce45E0275Ca76a8b2e9BD8C11679A57D0D  | lock entrance for auto cross chain tx with fee  |
+| Swapper               | 0x1B0C55be400e2a7D924032B257Fbc75Bbfd256E7  | Curve entrance for auto cross chain tx with fee |
+| Polygon Bridge-O3V2   | 0xd7fCb6544E447cAD3592D8c8091dAd0Af95A7875  | Polygon Bridge for O3V2                         |
+| Polygon Wrapper-O3V2  | 0x8436c725511Bc80285Df3A4D560e5befFCb8f13f  | Polygon Wrapper for O3V2                        |
+| NFT Lock Proxy        | 0x761fb099d021cf55ffe65f9bedd3e2bab52abccc  | The NFT lockc proxy contract hash               |
+| NFT Wrapper           | 0xea5b2a0cf4ca9bd5c72ea1fbee1ffe420e57f692  | The NFT Wrapper contract hash                   |                                                                  
+| NFT Query             | 0x13227576c94119755bbad5bf01d8ac332f80e8ad  | The NFT profile query contract hash             | 
+| NFT Nobel Boss        | 0xd0609f06ffa034a525d31fdc1a4ba94a457f4620  | The NFT Nobel Boss Mint contract                | 
 ###### [Back to top](README_TestNet.md#menu)
 ## Palette
 
@@ -279,47 +285,56 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 | zDai       | 0x8f79cd968f0968565a157975f4fe406ea22d0571 | Zilliqa-bridged Dai Stablecoin          |
 ###### [Back to top](README_TestNet.md#menu)
 ## Arbitrum
+| Type                   | Contract Hash                               | Desc                                    |
+|------------------------|---------------------------------------------|-----------------------------------------|
+| CCMP                   | 0xeE96Aa05b320a570C489aBd5EEc546AE4Fb58Eb7  | Cross Chain Manager Proxy contract hash |
+| CCD                    | 0x71c2003f90bA0D2ce8a79DE9a70E7dD41BBfB983  | Cross Chain Data contract hash          |
+| CCM                    | 0x3A77dB10eAa7436e608a99643Ab2bEB2E901C72C  | Cross Chain Manager contract hash       |
+| Lock Proxy             | 0x97f72bA888A26A0F98C67cf15d781dDBFE64B990  | The lock proxy bridge contract hash     |
+| Wrapper                | 0x27eb74B4Db37517F1dC6dE67364e19782624402F  |                                         |
+| Arbitrum Bridge-O3V2   | 0x66265a0D04a70f737887fCa3e35bc634729d4439  | Arbitrum Bridge for O3V2                |
+| Arbitrum Wrapper-O3V2  | 0x67901cb4b2b88D7Fb680653c82ddcd70c63b44e6  | Arbitrum Wrapper for O3V2               |
 
-| Type       | Contract Hash                              | Desc                                    |
-|------------|--------------------------------------------|-----------------------------------------|
-| CCMP       | 0xeE96Aa05b320a570C489aBd5EEc546AE4Fb58Eb7 | Cross Chain Manager Proxy contract hash |
-| CCD        | 0x71c2003f90bA0D2ce8a79DE9a70E7dD41BBfB983 | Cross Chain Data contract hash          |
-| CCM        | 0x3A77dB10eAa7436e608a99643Ab2bEB2E901C72C | Cross Chain Manager contract hash       |
-| Lock Proxy | 0x97f72bA888A26A0F98C67cf15d781dDBFE64B990 | The lock proxy bridge contract hash     |
-| Wrapper    | 0x27eb74B4Db37517F1dC6dE67364e19782624402F |                                         |
 ###### [Back to top](README_TestNet.md#menu)
-## Xdai
+## Gnosis
 
-| Type       | Contract Hash                              | Desc                                    |
-|------------|--------------------------------------------|-----------------------------------------|
-| CCMP       | 0x3E5ceC313CECaa37319e0F2C949656441103C429 | Cross Chain Manager Proxy contract hash |
-| CCD        | 0xAefD220aE393144dcb5EFD6Ab55ABDf6a3d0444d | Cross Chain Data contract hash          |
-| CCM        | 0xF87527a74215777391fE4AfD082FeeED3E5A0ca5 | Cross Chain Manager contract hash       |
-| Lock Proxy | 0x52B3048eeF2E53bAF430B0bA4752999F244d1709 | The lock proxy bridge contract hash     |
-| Wrapper    | 0xa7eDA65F94A2a334a0de42d479585b65D27b2249 |                                         |
-| NB         | 0xFe1c7C8193FA9491c8790dF7f24174D88146873D | Token                                   |
+| Type                 | Contract Hash                               | Desc                                    |
+|----------------------|---------------------------------------------|-----------------------------------------|
+| CCMP                 | 0x3E5ceC313CECaa37319e0F2C949656441103C429  | Cross Chain Manager Proxy contract hash |
+| CCD                  | 0xAefD220aE393144dcb5EFD6Ab55ABDf6a3d0444d  | Cross Chain Data contract hash          |
+| CCM                  | 0xF87527a74215777391fE4AfD082FeeED3E5A0ca5  | Cross Chain Manager contract hash       |
+| Lock Proxy           | 0x52B3048eeF2E53bAF430B0bA4752999F244d1709  | The lock proxy bridge contract hash     |
+| Wrapper              | 0xa7eDA65F94A2a334a0de42d479585b65D27b2249  |                                         |
+| NB                   | 0xFe1c7C8193FA9491c8790dF7f24174D88146873D  | Token                                   |
+| Gnosis Bridge-O3V2   | 0x8CAA3eA180456b5dFa16Aa0deBAef12C86Dd3eaD  | Gnosis Bridge for O3V2                  |
+| Gnosis Wrapper-O3V2  | 0x26e52b21Dd5aD9ee8fEFf9931EA75396657d9276  | Gnosis Wrapper for O3V2                 |
 ###### [Back to top](README_TestNet.md#menu)
-## Optimistic
+## Optimism
 
-| Type       | Contract Hash                              | Desc                                    |
-|------------|--------------------------------------------|-----------------------------------------|
-| CCMP       | 0x0ca3f95c8f66C7B178414CCFd7a508d349b9f794 | Cross Chain Manager Proxy contract hash |
-| CCD        | 0xbA6F835ECAE18f5Fc5eBc074e5A0B94422a13126 | Cross Chain Data contract hash          |
-| CCM        | 0xC8042579D6b60E0e35161F228827E3Fa0F51d5B6 | Cross Chain Manager contract hash       |
-| Lock Proxy | 0x8a85143cA6ec1e181C3A5Ae4042ca999bFbF571B | The lock proxy bridge contract hash     |
-| Wrapper    | 0xE324EF8cd52833DD117e8ca87b483E78b30C3696 |                                         |
-| NB         | 0x3fec290112c79e94f4813fd3f7cbac3391426f50 | Token                                   |
+| Type                   | Contract Hash                               | Desc                                    |
+|------------------------|---------------------------------------------|-----------------------------------------|
+| CCMP                   | 0x0ca3f95c8f66C7B178414CCFd7a508d349b9f794  | Cross Chain Manager Proxy contract hash |
+| CCD                    | 0xbA6F835ECAE18f5Fc5eBc074e5A0B94422a13126  | Cross Chain Data contract hash          |
+| CCM                    | 0xC8042579D6b60E0e35161F228827E3Fa0F51d5B6  | Cross Chain Manager contract hash       |
+| Lock Proxy             | 0x8a85143cA6ec1e181C3A5Ae4042ca999bFbF571B  | The lock proxy bridge contract hash     |
+| Wrapper                | 0xE324EF8cd52833DD117e8ca87b483E78b30C3696  |                                         |
+| NB                     | 0x3fec290112c79e94f4813fd3f7cbac3391426f50  | Token                                   |
+| Optimism Bridge-O3V2   | 0x204eEd4D99d311F2F1Ea2C4b988a31971C5CED66  | Optimism Bridge for O3V2                |
+| Optimism Wrapper-O3V2  | 0xC4CA00366dB4B77AB78241Ce1B409ff5f89261ed  | Optimism Wrapper for O3V2               |
+
 ###### [Back to top](README_TestNet.md#menu)
 ## Fantom
 
-| Type       | Contract Hash                              | Desc                                    |
-|------------|--------------------------------------------|-----------------------------------------|
-| CCMP       | 0x74D67A4EFbA6Dbbb14DC574b6Db4F11f6b1C5af8 | Cross Chain Manager Proxy contract hash |
-| CCD        | 0x4Bf7b284De2999628CBBEf6fE9F74f8B8E5eBF16 | Cross Chain Data contract hash          |
-| CCM        | 0x1C84D74084c3C3301BE4777A568D78211189c871 | Cross Chain Manager contract hash       |
-| Lock Proxy | 0x4a76E52600C6285029c8f7c52183cf86282cA5b8 | The lock proxy bridge contract hash     |
-| Wrapper    | 0xFAddf0cfb08F92779560db57BE6b2C7303aaD266 |                                         |
-| NB         | 0x82E9948acA92412b8094fE649C3f32bEfFFEDb7C | Token                                   |
+| Type                 | Contract Hash                               | Desc                                    |
+|----------------------|---------------------------------------------|-----------------------------------------|
+| CCMP                 | 0x74D67A4EFbA6Dbbb14DC574b6Db4F11f6b1C5af8  | Cross Chain Manager Proxy contract hash |
+| CCD                  | 0x4Bf7b284De2999628CBBEf6fE9F74f8B8E5eBF16  | Cross Chain Data contract hash          |
+| CCM                  | 0x1C84D74084c3C3301BE4777A568D78211189c871  | Cross Chain Manager contract hash       |
+| Lock Proxy           | 0x4a76E52600C6285029c8f7c52183cf86282cA5b8  | The lock proxy bridge contract hash     |
+| Wrapper              | 0xFAddf0cfb08F92779560db57BE6b2C7303aaD266  |                                         |
+| NB                   | 0x82E9948acA92412b8094fE649C3f32bEfFFEDb7C  | Token                                   |
+| Fantom Bridge-O3V2   | 0xF714DE1d5e32D40DF1566619BE3F98Bb1C505d89  | Fantom Bridge for O3V2                  |
+| Fantom Wrapper-O3V2  | 0x1930cA2566FA8bFf858e35A5Ab8B4b5617702E3A  | Fantom Wrapper for O3V2                 |
 ###### [Back to top](README_TestNet.md#menu)
 ## Avalanche
 
@@ -544,43 +559,43 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 
 ###### [Back to top](README_TestNet.md#menu)
 ## Router And ChainId
-|    Type     | Router Number |   ChainId    |
-|:-----------:|:-------------:|:------------:|
-|   Bitcoin   |       1       |      1       |
-|  Ethereum   |       0       |      2       |
-|  Ontology   |       3       |      3       |
-|   NEO(N2)   |       4       |      5       |
-|  Switcheo   |       5       | release soon |
-|     BSC     |       6       |      79      |
-|    Heco     |       7       |      7       |
-|   Palette   |       8       |     107      |
-|   Zilliqa   |      111      |     111      |
-|     OK      |      12       |     200      |
-|    Curve    |      10       |      82      |
-|  Heimdall   |      15       |     201      |
-|   Polygon   |       0       |     202      |
-|   NEO(N3)   |      88       |      88      |
-|  Arbitrum   |       0       |     205      |
-|    Xdai     |       0       |     206      |
-| Optimistic  |       0       |     210      |
-|   Fantom    |       0       |     208      |
-|  Avalanche  |       0       |     209      |
-|    Metis    |       0       |     300      |
-|   Goerli    |       0       |     502      |
-|   Rinkeby   |       0       |     402      |
-|    Kovan    |       0       |     302      |
-|    Pixie    |       0       |     316      |
-|  Starcoin   |      18       |     318      |
-|   OntEvm    |       0       |     333      |
-|    Boba     |       0       |     400      |
-|    Oasis    |       0       |     500      |
-|     Hsc     |      20       |     603      |
-|    Bytom    |      22       |     701      |
-|   Harmony   |       0       |     800      |
-|     Kcc     |       0       |     900      |
-| BCS Palette |       8       |     1001     |
-| Milkomeda   |       0       |     810      |
-|BCS Palette 2|       8       |     1002     |
-|     Kava    |       0       |     920      |
-|     Cube    |       0       |     930      |
+|     Type      | Router Number |   ChainId    |
+|:-------------:|:-------------:|:------------:|
+|    Bitcoin    |       1       |      1       |
+|   Ethereum    |       0       |      2       |
+|   Ontology    |       3       |      3       |
+|    NEO(N2)    |       4       |      5       |
+|   Switcheo    |       5       | release soon |
+|      BSC      |       6       |      79      |
+|     Heco      |       7       |      7       |
+|    Palette    |       8       |     107      |
+|    Zilliqa    |      111      |     111      |
+|      OK       |      12       |     200      |
+|     Curve     |      10       |      82      |
+|   Heimdall    |      15       |     201      |
+|    Polygon    |       0       |     202      |
+|    NEO(N3)    |      88       |      88      |
+|   Arbitrum    |       0       |     205      |
+|    Gnosis     |       0       |     206      |
+|  Optimism   |       0       |     210      |
+|    Fantom     |       0       |     208      |
+|   Avalanche   |       0       |     209      |
+|     Metis     |       0       |     300      |
+|    Goerli     |       0       |     502      |
+|    Rinkeby    |       0       |     402      |
+|     Kovan     |       0       |     302      |
+|     Pixie     |       0       |     316      |
+|   Starcoin    |      18       |     318      |
+|    OntEvm     |       0       |     333      |
+|     Boba      |       0       |     400      |
+|     Oasis     |       0       |     500      |
+|      Hsc      |      20       |     603      |
+|     Bytom     |      22       |     701      |
+|    Harmony    |       0       |     800      |
+|      Kcc      |       0       |     900      |
+|  BCS Palette  |       8       |     1001     |
+|   Milkomeda   |       0       |     810      |
+| BCS Palette 2 |       8       |     1002     |
+|     Kava      |       0       |     920      |
+|     Cube      |       0       |     930      |
 ###### [Back to top](README_TestNet.md#menu)

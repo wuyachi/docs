@@ -10,8 +10,8 @@ This's cross chain asset contract info ONLY in <strong>MAINNET</strong> mode, it
 |:-------------------------------------------|:--------------------------------------------|:------------------------------------------|:--------------------------------------|:---------------------------------------|
 | **[Bsc-6](README.md#Binance-Smart-Chain)** | **[Heco-7](README.md#Huobi-Eco-ChainHECO)** | **[Palette-8](README.md#Palette)**        |                                       | **[Curve-10](README.md#Curve)**        |
 |                                            | **[OKEx-12](README.md#OKEx)**               |                                           | **[Neo N3-14](README.md#Neo-N3)**     | **Heimdall-15**                        |
-|                                            | **[Polygon-17](README.md#Polygon)**         | **[Zilliqa-18](README.md#Zilliqa)**       | **[Arbitrum-19](README.md#Arbitrum)** | **[xDAI-20](README.md#xDAI)**          |
-| **[Avalanche-21](README.md#Avalanche)**    | **[Fantom-22](README.md#Fantom)**           | **[Optimistic-23](README.md#Optimistic)** | **[Metis-24](README.md#Metis)**       | **[Boba-25](README.md#Boba)**          |
+|                                            | **[Polygon-17](README.md#Polygon)**         | **[Zilliqa-18](README.md#Zilliqa)**       | **[Arbitrum-19](README.md#Arbitrum)** | **[Gnosis-20](README.md#Gnosis)**          |
+| **[Avalanche-21](README.md#Avalanche)**    | **[Fantom-22](README.md#Fantom)**           | **[Optimism-23](README.md#Optimism)** | **[Metis-24](README.md#Metis)**       | **[Boba-25](README.md#Boba)**          |
 | **[Oasis-26](README.md#Oasis)**            | **[Harmony-27](README.md#Harmony)**         | **[Hsc-28](README.md#Hsc)**               | **[Bytom-29](README.md#Bytom)**       | **[Kcc-30](README.md#Kcc)**            |
 | **[Starcoin-31](README.md#Starcoin)**      |**[Kava-32](README.md#Kava)**                | **[Cube-35](README.md#Cube)**             |
 
@@ -37,7 +37,7 @@ This's cross chain asset contract info ONLY in <strong>MAINNET</strong> mode, it
 | Xdai       | <ul><li> 0xEf4Bd3cfA47711DC034a5cbd2671122A272140aE</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | Avalanche  | <ul><li> 0x8920954cab0F6A727eE0b1167F5ea878B116F6f3</li><li>0xAa30Cbb380F35DB3C1334aa7D6f736377Fb7B959</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | Fantom     | <ul><li> 0xA28AD792587e7a616e77bEdd4588B574657641b3</li><li>0xD49939b4139ae0c0d94ac105a9B9328033f864A5</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Optimistic | <ul><li> 0xdaA64a287B043DBeC2413B18FcAE6A0BBd710113</li><li>0xAd371A8d57815F0a5dD60ed9Ff6DbD46A6D3D797</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Optimism | <ul><li> 0xdaA64a287B043DBeC2413B18FcAE6A0BBd710113</li><li>0xAd371A8d57815F0a5dD60ed9Ff6DbD46A6D3D797</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | Metis      | <ul><li> 0xe682225aFff2CB1C5beB6E3dd0ACF523bE330cf7</li><li>0x21b59D73B4716a53cFE7804Baa31D0C1f75AE0cb</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | Boba       | <ul><li>0xEd144b86AAacc3255d93D90Ee6675cC79D82b67E</li><li>0x21A633Bae44dBd522adFcdF0F2A3e9bD6567DA65</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | Oasis      | <ul><li>0x573703ac4206aa1aeC5fbaCD712e13Bb118C0e34</li><li>0xb75ffd07c4dfb07083f8cb76d866d5b1479735ae</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -56,105 +56,107 @@ This's cross chain asset contract info ONLY in <strong>MAINNET</strong> mode, it
 ###### [Back to top](README.md#menu)
 ## Ethereum
 
-| Type                          | Contract Hash                              | Desc                                                   |
-|-------------------------------|--------------------------------------------|--------------------------------------------------------|
-| CCMP                          | 0x5a51e2ebf8d136926b9ca7b59b60464e7c44d2eb | Cross Chain Manager Proxy contract hash                |
-| ECCD                          | 0xcf2afe102057ba5c16f899271045a0a37fcb10f2 | Ethereum Cross Chain Data contract hash                |
-| CCM                           | 0x14413419452Aaf089762A0c5e95eD2A13bBC488C | Ethereum Cross Chain Manager contract hash             |
-| Lock Proxy                    | 0x250e76987d838a75310c34bf422ea9f1AC4Cc906 | Ethereum Asset Proxy contract hash                     |
-| Lock Proxy-STC                | 0x3Ee764C95e9d2264DE3717a4CB45BCd3c5F00035 | Lock Proxy for Starcoin                                |
-| Lock Proxy-PIP4               | 0x7b9Bb72F187B3cb2CaA9Cf1cE95A938f0a66DB54 | Ethereum Asset Proxy contract hash                     |
-| Poly Wrapper                  | 0x2aA63cd0b28FB4C31fA8e4E95Ec11815Be07b9Ac | lock entrance for auto cross chain tx with fee         |
-| WrapperV2                     | 0xd380450e9e373bDC389951C54616edb2EE653524 | wrapper_v2 that take native asset as fee               |
-| WrapperV3                     | 0x81910675DbaF69deE0fD77570BFD07f8E436386A | wrapper_v3 that take native asset as fee               |
-| Swapper                       | 0xaf83ce8d461e8834de03a3803c968615013c6b3d | curve entrance for auto cross chain tx with fee        |
-| NFT Lock Proxy                | 0x2cdfc90250EF967036838DA601099656e74bCfc5 | The NFT lockc proxy contract hash                      |
-| NFT Wrapper                   | 0xe5204d62361A353C665668C858Ea213070CA159c | The NFT Wrapper contract hash                          |
-| NFT Query                     | 0xB2265A122814dA516318F727183a5D8FeCA8BaCE | The NFT profile query contract hash                    |
-| PLT NFT Lock Proxy            | 0xD33e44F6E4fE37C4dF23c7171657721B9A725417 | Contract hash of dedicated Palette NFT lock proxy      |
-| PLT NFT Wrapper               | 0xD728e9844af285fA116806c273aa413686aE65e8 | Contract hash of dedicated Palette NFT Wrapper         |
-| PLT NFT Wrapper Fee collecotr | 0x0E860F44d73F9FDbaF5E9B19aFC554Bf3C8E8A57 | Fee collector address of dedicated Palette NFT wrapper |
-| feiyuan(PLT)                  | 0x98D848869618CB0178388cA2318952d6495Fb654 | Contract hash of palette nft testing asset             |
-| FY(T)                         | 0x9d1E9C7e19A3B5aEf5671c54e7f3aeB75f2E149b | Contract hash of palette nft testing asset             |
-| pONT                          | 0xcb46c550539ac3db72dc7af7c89b11c306c727c2 | Ethereum Ontology Token                                |
-| WBTC                          | 0x2260fac5e5542a773aa44fbcfedf7c193bc2c599 | WBTC                                                   |
-| USDC                          | 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48 | USDC                                                   |
-| renBTC                        | 0xeb4c2781e4eba804ce9a9803c67d0893436bb27d | renBTC                                                 |
-| USDT                          | 0xdac17f958d2ee523a2206206994597c13d831ec7 | USDT                                                   |
-| DAI                           | 0x6b175474e89094c44da98b954eedeac495271d0f | DAI                                                    |
-| pWING                         | 0xDb0f18081b505A7DE20B18ac41856BCB4Ba86A1a | pWING                                                  |
-| sUSD                          | 0x57ab1ec28d129707052df4df418d58a2d46d5f51 | sUSD                                                   |
-| PAX                           | 0x8e870d67f660d95d5be530380d0ec0bd388289e1 | PAX                                                    |
-| pNEO                          | 0x381225768DD2bd60D70482B51109D0DEFeE92503 | pNEO                                                   |
-| GAS                           | 0xaf42337192ddfaad6c9d8e519b3bf8f8b330f50a | Neo N3 GAS                                             |
-| pFLM                          | 0xC6061CA95ad0378bDb12381206a1D723D14b72c4 | pFLM                                                   |
-| UNI                           | 0x1f9840a85d5af5bf1d1762f925bdaddc4201f984 | UNI                                                    |
-| OKB                           | 0x75231f58b43240c9718dd58b4967c5114342a86c | OKB                                                    |
-| YFI                           | 0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e | YFI                                                    |
-| UNFI                          | 0x441761326490cACF7aF299725B6292597EE822c2 | UNFI                                                   |
-| CWS                           | 0xac0104cca91d167873b8601d2e71eb3d4d8c33e0 | CWS                                                    |
-| COOK                          | 0xff75ced57419bcaebe5f05254983b013b0646ef5 | COOK                                                   |
-| FEI                           | 0x956F47F50A910163D8BF957Cf5846D573E7f87CA | FEI                                                    |
-| TRIBE                         | 0xc7283b66eb1eb5fb86327f08e1b5816b0720212b | TRIBE                                                  |
-| 8PAY                          | 0xFeea0bDd3D07eb6FE305938878C0caDBFa169042 | 8PAY                                                   |
-| YNI                           | 0xdeaa665ab71785ccf576dc76e5fcb5a2283ea0c6 | YNI                                                    |
-| REVO                          | 0x155040625d7ae3e9cada9a73e3e44f76d3ed1409 | REVO                                                   |
-| BLES                          | 0xe796d6ca1ceb1b022ece5296226bf784110031cd | BLES                                                   |
-| CVT                           | 0xBe428c3867F05deA2A89Fc76a102b544eaC7f772 | CVT                                                    |
-| FLUX                          | 0x7645DdfEecedA57e41f92679c4aCd83c56A81D14 | FLUX                                                   |
-| cDAI                          | 0x5d3a536e4d6dbd6114cc1ead35777bab948e3643 | cDAI                                                   |
-| cETH                          | 0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5 | cETH                                                   |
-| aDAI                          | 0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d | aDAI                                                   |
-| aETH                          | 0x3a3A65aAb0dd2A17E3F1947bA16138cd37d08c04 | aETH                                                   |
-| KEL                           | 0x4abb9cc67bd3da9eb966d1159a71a0e68bd15432 | KEL                                                    |
-| SHIB                          | 95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce   | SHIB                                                   |
-| CC                            | 0xb7fbFf4Ce5200215c690cc95855e5d6C5236Ee9f | CC                                                     |
-| STACK                         | 0x56a86d648c435dc707c8405b78e2ae8eb4e60ba4 | STACK                                                  |
-| SOFA                          | 0xe29d80fcaadf1cc9f179d4c9759b2f5a0f5936dd | SOFA                                                   |
-| BBANK                         | 0xf4b5470523ccd314c6b9da041076e7d79e0df267 | BBANK                                                  |
-| PLUT                          | 0x44e288b2484e5a5297cf7193bf36690ea6801f95 | PLUT                                                   |
-| LEV                           | 0xbc194e6f748a222754C3E8b9946922c09E7d4e91 | LEV                                                    |
-| TAP                           | 0x7f1f2d3dfa99678675ece1c243d3f7bc3746db5d | TAP                                                    |
-| KISHU                         | 0xa2b4c0af19cc16a6cfacce81f192b024d625817d | KISHU                                                  |
-| O3                            | 0xee9801669c6138e84bd50deb500827b776777d28 | O3                                                     |
-| SOFA                          | 0xe29d80fcaadf1cc9f179d4c9759b2f5a0f5936dd | SOFA                                                   |
-| SPAY                          | 0x58FaD9E3C3AE54c9BA98c3f0E4bF88aB3E8Cf3c5 | SPAY                                                   |
-| mBTM                          | 0x9288A57D6c5644B25569e9D1d5e9e328228D26c6 | mBTM                                                   |
-| FREL                          | 0x29ceddcf0da3c1d8068a7dfbd0fb06c2e438ff70 | FREL                                                   |
-| DOV                           | 0xac3211a5025414af2866ff09c23fc18bc97e79b1 | DOV                                                    |
-| CELL                          | 0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099 | CELL                                                   |
-| DMOD                          | 0x5f6c5c2fb289db2228d159c69621215e354218d7 | DMOD                                                   |
-| FILE                          | 0xABDf43c835577f0983686a9851841D314385aafE | FILE                                                   |
-| ROCKS                         | 0x0829d2d5cC09d3d341E813c821B0cfAE272D9fb2 | ROCKS                                                  |
-| COW                           | 0x34965f73Cfa05Bf8d8aF37cB4af64Fa950605Ea8 | COW                                                    |
-| TSX                           | 0x734c90044a0ba31b3f2e640c10dc5d3540499bfd | TSX                                                    |
-| PRY                           | 0x3c81d482172cc273c3b91dd9d8eb212023d00521 | PRY                                                    |
-| SPAY                          | 0x58FaD9E3C3AE54c9BA98c3f0E4bF88aB3E8Cf3c5 | SPAY                                                   |
-| MOZ                           | 0x7bd82b320ebc28d8eb3c4f5fa2af7b14da5b90c3 | MOZ                                                    |
-| STN                           | 0xe63d6B308BCe0F6193AeC6b7E6eBa005f41e36AB | STN                                                    |
-| CART                          | 0x5C8C8D560048F34E5f7f8ad71f2f81a89DBd273e | CART                                                   |
-| BKC                           | 0xdfa9e19a4c4640dc0030718430aecfcda9121dbd | BKC                                                    |
-| HD                            | 0x6ce654aC973D326F89f0685E7459542641410eD9 | HD                                                     |
-| GOF                           | 0x488E0369f9BC5C40C002eA7c1fe4fd01A198801c | GOF                                                    |
-| WETH                          | 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2 | WETH                                                   |
-| ROSN                          | 0x651Cd665bD558175A956fb3D72206eA08Eb3dF5b | ROSE                                                   |
-| SPHRI                         | 0x8A0cdfaB62eD35b836DC0633482798421C81b3Ec | SPHRI                                                  |
-| SLD                           | 0x1ef6a7e2c966fb7c5403efefde38338b1a95a084 | SLD                                                    |
-| HDT                           | 0x1cc945Be7d0D2C852d0096A8b5714b44eD21D5D3 | HDT                                                    |
-| SIL                           | 0x133Bb423d9248a336D2b3086b8F44A7DbFF3a13C | SIL                                                    |
-| OOE                           | 0x7778360f035c589fce2f4ea5786cbd8b36e5396b | OOE                                                    |
-| BET                           | 0x028a52032a7075a42585c037f069c62b49ebaa3d | BET                                                    |
-| CBC                           | 0x723b23F44B3E3a0fa029044B6326fBA41EDdF5E6 | CBC                                                    |
-| DFC                           | 0x1b2a76da77d03b7fc21189d9838f55bd849014af | DFC                                                    |
-| USDC                          | 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48 | USDC                                                   |
-| PKR                           | 0x001a8ffcb0f03e99141652ebcdecdb0384e3bd6c | PRK                                                    |
-| SBC                           | 0xba5841109ec38e58b6184c0ab65ba59a9355ffe2 | SBC                                                    |
-| CFB                           | 0x5549fE6ED280e5A271A4c8c85277a5F07ec9bbDB | CFB                                                    |
-| EPK                           | 0xdaf88906ac1de12ba2b1d2f7bfc94e9638ac40c4 | EPK                                                    |
-| ISM                           | 0x5126efa050f6d3166110039c5ca48cc57b8e6ba2 | ISM                                                    |
-| eCell                         | 0x9b62ec1453cea5dde760aaf662048ca6eeb66e7f | eCell                                                  |
-| PLT                           | 0x0944d5848bd9f60a34ba92aea300d4286696eb76 | PLT                                                    |
-| pSTC                          | 0xec8614B0a68786Dc7b452e088a75Cba4F68755b8 | Mapped asset for Starcoin                              |
+| Type                          | Contract Hash                               | Desc                                                   |
+|-------------------------------|---------------------------------------------|--------------------------------------------------------|
+| CCMP                          | 0x5a51e2ebf8d136926b9ca7b59b60464e7c44d2eb  | Cross Chain Manager Proxy contract hash                |
+| ECCD                          | 0xcf2afe102057ba5c16f899271045a0a37fcb10f2  | Ethereum Cross Chain Data contract hash                |
+| CCM                           | 0x14413419452Aaf089762A0c5e95eD2A13bBC488C  | Ethereum Cross Chain Manager contract hash             |
+| Lock Proxy                    | 0x250e76987d838a75310c34bf422ea9f1AC4Cc906  | Ethereum Asset Proxy contract hash                     |
+| Lock Proxy-STC                | 0x3Ee764C95e9d2264DE3717a4CB45BCd3c5F00035  | Lock Proxy for Starcoin                                |
+| Lock Proxy-PIP4               | 0x7b9Bb72F187B3cb2CaA9Cf1cE95A938f0a66DB54  | Ethereum Asset Proxy contract hash                     |
+| Poly Wrapper                  | 0x2aA63cd0b28FB4C31fA8e4E95Ec11815Be07b9Ac  | lock entrance for auto cross chain tx with fee         |
+| WrapperV2                     | 0xd380450e9e373bDC389951C54616edb2EE653524  | wrapper_v2 that take native asset as fee               |
+| WrapperV3                     | 0x81910675DbaF69deE0fD77570BFD07f8E436386A  | wrapper_v3 that take native asset as fee               |
+| Swapper                       | 0xaf83ce8d461e8834de03a3803c968615013c6b3d  | curve entrance for auto cross chain tx with fee        |
+| Ethereum Bridge-O3V2          | 0xF7a9FE22149aD2a077eb40a90f316a8A47525EC3  | Ethereum Bridge for O3V2                               |
+| Ethereum Wrapper-O3V2         | 0xeCF2B548e5c21028B0b60363207700fA421B6EcB  | Ethereum Wrapper for O3V2                              |
+| NFT Lock Proxy                | 0x2cdfc90250EF967036838DA601099656e74bCfc5  | The NFT lockc proxy contract hash                      |
+| NFT Wrapper                   | 0xe5204d62361A353C665668C858Ea213070CA159c  | The NFT Wrapper contract hash                          |
+| NFT Query                     | 0xB2265A122814dA516318F727183a5D8FeCA8BaCE  | The NFT profile query contract hash                    |
+| PLT NFT Lock Proxy            | 0xD33e44F6E4fE37C4dF23c7171657721B9A725417  | Contract hash of dedicated Palette NFT lock proxy      |
+| PLT NFT Wrapper               | 0xD728e9844af285fA116806c273aa413686aE65e8  | Contract hash of dedicated Palette NFT Wrapper         |
+| PLT NFT Wrapper Fee collecotr | 0x0E860F44d73F9FDbaF5E9B19aFC554Bf3C8E8A57  | Fee collector address of dedicated Palette NFT wrapper |
+| feiyuan(PLT)                  | 0x98D848869618CB0178388cA2318952d6495Fb654  | Contract hash of palette nft testing asset             |
+| FY(T)                         | 0x9d1E9C7e19A3B5aEf5671c54e7f3aeB75f2E149b  | Contract hash of palette nft testing asset             |
+| pONT                          | 0xcb46c550539ac3db72dc7af7c89b11c306c727c2  | Ethereum Ontology Token                                |
+| WBTC                          | 0x2260fac5e5542a773aa44fbcfedf7c193bc2c599  | WBTC                                                   |
+| USDC                          | 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48  | USDC                                                   |
+| renBTC                        | 0xeb4c2781e4eba804ce9a9803c67d0893436bb27d  | renBTC                                                 |
+| USDT                          | 0xdac17f958d2ee523a2206206994597c13d831ec7  | USDT                                                   |
+| DAI                           | 0x6b175474e89094c44da98b954eedeac495271d0f  | DAI                                                    |
+| pWING                         | 0xDb0f18081b505A7DE20B18ac41856BCB4Ba86A1a  | pWING                                                  |
+| sUSD                          | 0x57ab1ec28d129707052df4df418d58a2d46d5f51  | sUSD                                                   |
+| PAX                           | 0x8e870d67f660d95d5be530380d0ec0bd388289e1  | PAX                                                    |
+| pNEO                          | 0x381225768DD2bd60D70482B51109D0DEFeE92503  | pNEO                                                   |
+| GAS                           | 0xaf42337192ddfaad6c9d8e519b3bf8f8b330f50a  | Neo N3 GAS                                             |
+| pFLM                          | 0xC6061CA95ad0378bDb12381206a1D723D14b72c4  | pFLM                                                   |
+| UNI                           | 0x1f9840a85d5af5bf1d1762f925bdaddc4201f984  | UNI                                                    |
+| OKB                           | 0x75231f58b43240c9718dd58b4967c5114342a86c  | OKB                                                    |
+| YFI                           | 0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e  | YFI                                                    |
+| UNFI                          | 0x441761326490cACF7aF299725B6292597EE822c2  | UNFI                                                   |
+| CWS                           | 0xac0104cca91d167873b8601d2e71eb3d4d8c33e0  | CWS                                                    |
+| COOK                          | 0xff75ced57419bcaebe5f05254983b013b0646ef5  | COOK                                                   |
+| FEI                           | 0x956F47F50A910163D8BF957Cf5846D573E7f87CA  | FEI                                                    |
+| TRIBE                         | 0xc7283b66eb1eb5fb86327f08e1b5816b0720212b  | TRIBE                                                  |
+| 8PAY                          | 0xFeea0bDd3D07eb6FE305938878C0caDBFa169042  | 8PAY                                                   |
+| YNI                           | 0xdeaa665ab71785ccf576dc76e5fcb5a2283ea0c6  | YNI                                                    |
+| REVO                          | 0x155040625d7ae3e9cada9a73e3e44f76d3ed1409  | REVO                                                   |
+| BLES                          | 0xe796d6ca1ceb1b022ece5296226bf784110031cd  | BLES                                                   |
+| CVT                           | 0xBe428c3867F05deA2A89Fc76a102b544eaC7f772  | CVT                                                    |
+| FLUX                          | 0x7645DdfEecedA57e41f92679c4aCd83c56A81D14  | FLUX                                                   |
+| cDAI                          | 0x5d3a536e4d6dbd6114cc1ead35777bab948e3643  | cDAI                                                   |
+| cETH                          | 0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5  | cETH                                                   |
+| aDAI                          | 0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d  | aDAI                                                   |
+| aETH                          | 0x3a3A65aAb0dd2A17E3F1947bA16138cd37d08c04  | aETH                                                   |
+| KEL                           | 0x4abb9cc67bd3da9eb966d1159a71a0e68bd15432  | KEL                                                    |
+| SHIB                          | 95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce    | SHIB                                                   |
+| CC                            | 0xb7fbFf4Ce5200215c690cc95855e5d6C5236Ee9f  | CC                                                     |
+| STACK                         | 0x56a86d648c435dc707c8405b78e2ae8eb4e60ba4  | STACK                                                  |
+| SOFA                          | 0xe29d80fcaadf1cc9f179d4c9759b2f5a0f5936dd  | SOFA                                                   |
+| BBANK                         | 0xf4b5470523ccd314c6b9da041076e7d79e0df267  | BBANK                                                  |
+| PLUT                          | 0x44e288b2484e5a5297cf7193bf36690ea6801f95  | PLUT                                                   |
+| LEV                           | 0xbc194e6f748a222754C3E8b9946922c09E7d4e91  | LEV                                                    |
+| TAP                           | 0x7f1f2d3dfa99678675ece1c243d3f7bc3746db5d  | TAP                                                    |
+| KISHU                         | 0xa2b4c0af19cc16a6cfacce81f192b024d625817d  | KISHU                                                  |
+| O3                            | 0xee9801669c6138e84bd50deb500827b776777d28  | O3                                                     |
+| SOFA                          | 0xe29d80fcaadf1cc9f179d4c9759b2f5a0f5936dd  | SOFA                                                   |
+| SPAY                          | 0x58FaD9E3C3AE54c9BA98c3f0E4bF88aB3E8Cf3c5  | SPAY                                                   |
+| mBTM                          | 0x9288A57D6c5644B25569e9D1d5e9e328228D26c6  | mBTM                                                   |
+| FREL                          | 0x29ceddcf0da3c1d8068a7dfbd0fb06c2e438ff70  | FREL                                                   |
+| DOV                           | 0xac3211a5025414af2866ff09c23fc18bc97e79b1  | DOV                                                    |
+| CELL                          | 0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099  | CELL                                                   |
+| DMOD                          | 0x5f6c5c2fb289db2228d159c69621215e354218d7  | DMOD                                                   |
+| FILE                          | 0xABDf43c835577f0983686a9851841D314385aafE  | FILE                                                   |
+| ROCKS                         | 0x0829d2d5cC09d3d341E813c821B0cfAE272D9fb2  | ROCKS                                                  |
+| COW                           | 0x34965f73Cfa05Bf8d8aF37cB4af64Fa950605Ea8  | COW                                                    |
+| TSX                           | 0x734c90044a0ba31b3f2e640c10dc5d3540499bfd  | TSX                                                    |
+| PRY                           | 0x3c81d482172cc273c3b91dd9d8eb212023d00521  | PRY                                                    |
+| SPAY                          | 0x58FaD9E3C3AE54c9BA98c3f0E4bF88aB3E8Cf3c5  | SPAY                                                   |
+| MOZ                           | 0x7bd82b320ebc28d8eb3c4f5fa2af7b14da5b90c3  | MOZ                                                    |
+| STN                           | 0xe63d6B308BCe0F6193AeC6b7E6eBa005f41e36AB  | STN                                                    |
+| CART                          | 0x5C8C8D560048F34E5f7f8ad71f2f81a89DBd273e  | CART                                                   |
+| BKC                           | 0xdfa9e19a4c4640dc0030718430aecfcda9121dbd  | BKC                                                    |
+| HD                            | 0x6ce654aC973D326F89f0685E7459542641410eD9  | HD                                                     |
+| GOF                           | 0x488E0369f9BC5C40C002eA7c1fe4fd01A198801c  | GOF                                                    |
+| WETH                          | 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2  | WETH                                                   |
+| ROSN                          | 0x651Cd665bD558175A956fb3D72206eA08Eb3dF5b  | ROSE                                                   |
+| SPHRI                         | 0x8A0cdfaB62eD35b836DC0633482798421C81b3Ec  | SPHRI                                                  |
+| SLD                           | 0x1ef6a7e2c966fb7c5403efefde38338b1a95a084  | SLD                                                    |
+| HDT                           | 0x1cc945Be7d0D2C852d0096A8b5714b44eD21D5D3  | HDT                                                    |
+| SIL                           | 0x133Bb423d9248a336D2b3086b8F44A7DbFF3a13C  | SIL                                                    |
+| OOE                           | 0x7778360f035c589fce2f4ea5786cbd8b36e5396b  | OOE                                                    |
+| BET                           | 0x028a52032a7075a42585c037f069c62b49ebaa3d  | BET                                                    |
+| CBC                           | 0x723b23F44B3E3a0fa029044B6326fBA41EDdF5E6  | CBC                                                    |
+| DFC                           | 0x1b2a76da77d03b7fc21189d9838f55bd849014af  | DFC                                                    |
+| USDC                          | 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48  | USDC                                                   |
+| PKR                           | 0x001a8ffcb0f03e99141652ebcdecdb0384e3bd6c  | PRK                                                    |
+| SBC                           | 0xba5841109ec38e58b6184c0ab65ba59a9355ffe2  | SBC                                                    |
+| CFB                           | 0x5549fE6ED280e5A271A4c8c85277a5F07ec9bbDB  | CFB                                                    |
+| EPK                           | 0xdaf88906ac1de12ba2b1d2f7bfc94e9638ac40c4  | EPK                                                    |
+| ISM                           | 0x5126efa050f6d3166110039c5ca48cc57b8e6ba2  | ISM                                                    |
+| eCell                         | 0x9b62ec1453cea5dde760aaf662048ca6eeb66e7f  | eCell                                                  |
+| PLT                           | 0x0944d5848bd9f60a34ba92aea300d4286696eb76  | PLT                                                    |
+| pSTC                          | 0xec8614B0a68786Dc7b452e088a75Cba4F68755b8  | Mapped asset for Starcoin                              |
 
 
 ###### [Back to top](README.md#menu)
@@ -241,97 +243,99 @@ This's cross chain asset contract info ONLY in <strong>MAINNET</strong> mode, it
 
 ###### [Back to top](README.md#menu)
 ## Binance Smart Chain
-| Type            | Contract Hash                              | Desc                                            |
-|-----------------|--------------------------------------------|-------------------------------------------------|
-| CCMP            | 0xABD7f7B89c5fD5D0AEf06165f8173b1b83d7D5c9 | Cross Chain Manager Proxy contract hash         |
-| CCD             | 0x11e2A718d46EBe97645b87F2363AFE1BF28c2672 | BSC Cross Chain Data contract hash              |
-| CCM             | 0x1c9Ca8aBb5da65d94DaD2E8Fb3f45535480d5909 | BSC Cross Chain Manager contract hash           |
-| Lock Proxy      | 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03 | BSC Asset Proxy contract hash                   |
-| Lock Proxy_1    | 0xfB571d4dd7039f96D34bB41E695AdC92dF4A332f | BSC Asset Proxy contract hash                   |
-| Lock Proxy-PIP4 | 0x960Ff3132b72E3F0b1B9F588e7122d78BB5C4946 | BSC Asset Proxy with LP contract hash           |
-| Poly Wrapper    | 0xE3D0FB6E3cB5DA61EB18b06D035052441009d1E6 | lock entrance for auto cross chain tx with fee  |
-| WrapperV2       | 0x4b0CFdb5e1Ca898a225F9E14AfF9e4eF178a10d2 | wrapper_v2 that take native asset as fee        |
-| WrapperV3       | 0xbc3B4E7517c06019F30Bf2f707eD2770b85f9928 | wrapper_v3 that take native asset as fee        |
-| Swapper         | 0x00b93851e3135663AAeC351555EddEE5B01325e6 | Curve entrance for auto cross chain tx with fee |
-| NFT Lock Proxy  | 0x2cdfc90250EF967036838DA601099656e74bCfc5 | The NFT lockc proxy contract hash               |
-| NFT Wrapper     | 0xe2bD9dD8FAF5C4C2087Ab82eC7E63F619CcAa152 | The NFT Wrapper contract hash                   |
-| NFT Query       | 0x02015dBb2Dc25Cc7313D7EDb4785c2C46F3B7FD2 | The NFT profile query contract hash             |
-| pNEO            | 0xb119b3b8e5e6eeffbe754b20ee5b8a42809931fb | NEO mapping asset in BSC                        |
-| GAS             | 0x126f5a96ac0d9eb19dfb10edf5be85f897a7bb52 | GAS mapping asset in BSC                        |
-| pETH            | 0xb9478391eec218defa96f7b9a7938cf44e7a2fd5 | ETH mapping asset in BSC                        |
-| pUSDT           | 0x48389753b64C9e581975457332E60dC49325A653 | USDT mapping asset in BSC                       |
-| pDAI            | 0x8F339ABc2A2a8a4D0364C7e35F892c40FBFb4BC0 | DAI mapping asset in BSC                        |
-| pUSDC           | 0x0dBbf67Fb78651D3F6407A421040f1503b486693 | USDC mapping asset in BSC                       |
-| psUSD           | 0x89bcD91F7922126C568436841b16d036528E9714 | sUSD mapping asset in BSC                       |
-| pCWS            | 0xbcf39f0edda668c58371e519af37ca705f2bfcbd | pCWS mapping asset in BSC                       |
-| SHARE           | 0x07721c5b7536293e9cd9861E0De5f43fC3ac3c2e | SHARE mapping asset in BSC                      |
-| COOK            | 0x965b0Df5BDA0E7a0649324D78f03D5F7F2De086a | COOK mapping asset in BSC                       |
-| FEI             | 0xB096d364dBdF04F6230cd5D1aA5EE1C91FC7A819 | FEI mapping asset in BSC                        |
-| TRIBE           | 0x7bE1BE4FDc499bC6FeC8d4a4C0936BAD7799565A | TRIBE mapping asset in BSC                      |
-| 8PAY            | 0xFeea0bDd3D07eb6FE305938878C0caDBFa169042 | 8PAY mapping asset in BSC                       |
-| HMDX            | 0xaee4164c1ee46ed0bbc34790f1a3d1fc87796668 | MDX mapping asset in BSC                        |
-| REVO            | 0x155040625d7ae3e9cada9a73e3e44f76d3ed1409 | REVO mapping asset in BSC                       |
-| BLES            | 0x393d87e44c7b1f5ba521b351532c24ece253b849 | BLES mapping asset in BSC                       |
-| CVT             | 0xD27547A4e3bA5FBc8ac6C2477151aB8E17e4D341 | CVT mapping asset in BSC                        |
-| bFLUX           | 0x1ab6478b47270ff05af11a012ac17b098758e193 | FLUX mapping asset in BSC                       |
-| KEL             | 0x4e1b16Ef22935A575a6811D4616f98C4077E4408 | KEL mapping asset in BSC                        |
-| ISM             | 0xcc6133136a75d464110f4305e3be0555e1daac3f | ISM mapping asset in BSC                        |
-| CC              | 0xb7fbFf4Ce5200215c690cc95855e5d6C5236Ee9f | CC mapping asset in BSC                         |
-| STACK           | 0x6855f7bb6287F94ddcC8915E37e73a3c9fEe5CF3 | STACK mapping asset in BSC                      |
-| BUSD            | 0xe9e7cea3dedca5984780bafc599bd69add087d56 | BUSD                                            |
-| SOFA            | 0xab4ab24a9eb4afe24d6209bb3ecfc381319e33d1 | SOFA mapping asset in BSC                       |
-| BBANK           | 0xf4b5470523ccd314c6b9da041076e7d79e0df267 | BBANK mapping asset in BSC                      |
-| PLUT            | 0xFa502E90F5D76F92Fb3ab86E8c329bED15dc2bD9 | PLUT mapping asset in BSC                       |
-| LEV             | 0xbc194e6f748a222754C3E8b9946922c09E7d4e91 | LEV mapping asset in BSC                        |
-| TAP             | 0xfD799ddCCA8ab5c1ad8a3D64a58d4e907C9d0B71 | TAP mapping asset in BSC                        |
-| O3              | 0xee9801669c6138e84bd50deb500827b776777d28 | O3 mapping asset in BSC                         |
-| SOFA            | 0x54f93c0dc067af625dd63da1ce12bd44329902d9 | SOFA                                            |
-| mBTM            | 0x79f8ed0bc943000ddfd798a66760862937829183 | mBTM                                            |
-| SPAY            | 0xbcf39f0edda668c58371e519af37ca705f2bfcbd | SPAY                                            |
-| FREL            | 0xfd5af95C12446b60d23e16A4EA95690cE942e5dC | FREL                                            |
-| DOV             | 0xc9457161320210D22F0D0d5fC1309Acb383d4609 | DOV                                             |
-| CELL            | 0x0FFb06aabbA09b1D6E9Bd78D97791B0eFAc9536a | CELL                                            |
-| BOPR            | 0xFd4677B9FB00355CbE87EC54f42B79a008b4c622 | BOPR                                            |
-| DMOD            | 0x002D8563759f5e1EAf8784181F3973288F6856e4 | DMOD                                            |
-| FILE            | 0xA8F19840e08dC3f134FF45062b953a2B14E02F5A | FILE                                            |
-| ROCKS           | 0x0829d2d5cC09d3d341E813c821B0cfAE272D9fb2 | ROCKS                                           |
-| mBTC            | 0xf4e3e2f3e0657ba3f6951c8716b28ddbb269b6ff | mBTC                                            |
-| COW             | 0x422E3aF98bC1dE5a1838BE31A56f75DB4Ad43730 | COW                                             |
-| TSX             | 0x270388e0ca29cfd7c7e73903d9d933a23d1bab39 | TSX                                             |
-| PRY             | 0x3c81d482172cc273c3b91dd9d8eb212023d00521 | PRY                                             |
-| SPAY            | 0x13A637026dF26F846D55ACC52775377717345c06 | SPAY                                            |
-| MOZ             | 0xe4b22193d68f18f8e8eb3a26f4d64cb6d4573022 | MOZ                                             |
-| STN             | 0xf7fb08c187e6cd1f2149e6c818d0b6d4d4ef1430 | STN                                             |
-| GOF             | 0x2bcF9c1861FaE2d5a7D2b3242b71e2a8d461F61e | GOF                                             |
-| CART            | 0x5C8C8D560048F34E5f7f8ad71f2f81a89DBd273e | CART                                            |
-| ETH             | 0x2170ed0880ac9a755fd29b2688956bd959f933f8 | ETH                                             |
-| ROSN            | 0x651Cd665bD558175A956fb3D72206eA08Eb3dF5b | ROSE                                            |
-| HKR             | 0xb23236a6d1af62bd4809e0ef933cfd7a6917cd68 | HKR                                             |
-| HAI             | 0x971fe540feff9d91d6fbb93c27fbb527bfb96a3e | HAI                                             |
-| DOGK            | 0x42b1495e9bf2de0ae6510d50584a0799166542f7 | DOGK                                            |
-| SPHRI           | 0x8B7a0007F6E0ddb16cd14f34af3306947fC698a6 | SPHRI                                           |
-| SLD             | 0x1ef6a7e2c966fb7c5403efefde38338b1a95a084 | SLD                                             |
-| BTCB            | 0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c | Binance-Peg BTCB Token                          |
-| SIL             | 0x133Bb423d9248a336D2b3086b8F44A7DbFF3a13C | SIL                                             |
-| OOE             | 0x9029fdfae9a03135846381c7ce16595c3554e10a | OOE                                             |
-| BET             | 0x028a52032a7075a42585c037f069c62b49ebaa3d | BET                                             |
-| CBC             | 0x793cEa0F1003411396b3A81A77d92Fe37015E7A9 | CBC                                             |
-| DFC             | 0x1b2a76da77d03b7fc21189d9838f55bd849014af | DFC                                             |
-| USDC            | 0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d | USDC                                            |
-| PKR             | 0xc49dde62b4a0810074721faca54aab52369f486a | PKR                                             |
-| WING            | 0x3cb7378565718c64ab86970802140cc48ef1f969 | WING                                            |
-| ONG             | 0x308bfaeaac8bdab6e9fc5ead8edcb5f95b0599d9 | ONG                                             |
-| SBC             | 0xDA22650f4739C9d0b4B4b0915A4CAfDE6C52C480 | SBC                                             |
-| CFB             | 0xf36538cBE8a85E418BBA643E8259de38DD02de43 | CFB                                             |
-| EPK             | 0x87ecea8512516ced5db9375c63c23a0846c73a57 | EPK                                             |
-| DOG             | 0x8dc27752faff2ade6efba8054e2f207506247f43 | DOG                                             |
-| C               | 0x1f09c5fa5522036c7cc7cddea46e9961ca01ead2 | C                                               |
-| WIT             | 0x633a87ca89ce86ed06a807e4af57ffe486980374 | WIT                                             |
-| YNI             | 0x91cb98f1b1954253f03f82579d683732bae6813f | YNI                                             |
-| Metis           | e552fb52a4f19e44ef5a967632dbc320b0820639   | Metis                                           |
-| LP Metis        | 0x2c0Ad043f17572906cb5A4Dc388Ef6C5F01a2827 | LP Metis                                        |
-| GM              | 0x0b53b5da7d0f275c31a6a182622bdf02474af253 |                                                 |
-| fCAKE           | 0x1176b1e362a23ab750a6d2208dfba4a716c7d102 |                                                 |
+| Type             | Contract Hash                                | Desc                                            |
+|------------------|----------------------------------------------|-------------------------------------------------|
+| CCMP             | 0xABD7f7B89c5fD5D0AEf06165f8173b1b83d7D5c9   | Cross Chain Manager Proxy contract hash         |
+| CCD              | 0x11e2A718d46EBe97645b87F2363AFE1BF28c2672   | BSC Cross Chain Data contract hash              |
+| CCM              | 0x1c9Ca8aBb5da65d94DaD2E8Fb3f45535480d5909   | BSC Cross Chain Manager contract hash           |
+| Lock Proxy       | 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03   | BSC Asset Proxy contract hash                   |
+| Lock Proxy_1     | 0xfB571d4dd7039f96D34bB41E695AdC92dF4A332f   | BSC Asset Proxy contract hash                   |
+| Lock Proxy-PIP4  | 0x960Ff3132b72E3F0b1B9F588e7122d78BB5C4946   | BSC Asset Proxy with LP contract hash           |
+| Poly Wrapper     | 0xE3D0FB6E3cB5DA61EB18b06D035052441009d1E6   | lock entrance for auto cross chain tx with fee  |
+| WrapperV2        | 0x4b0CFdb5e1Ca898a225F9E14AfF9e4eF178a10d2   | wrapper_v2 that take native asset as fee        |
+| WrapperV3        | 0xbc3B4E7517c06019F30Bf2f707eD2770b85f9928   | wrapper_v3 that take native asset as fee        |
+| Swapper          | 0x00b93851e3135663AAeC351555EddEE5B01325e6   | Curve entrance for auto cross chain tx with fee |
+| BSC Bridge-O3V2  | 0x12682669700109AE1F3B326D74f2A5bDB63549E3   | BSC Bridge for O3V2                             |
+| BSC Wrapper-O3V2 | 0xCCB7a45E36f22eDE66b6222A0A55c547E6D516D7   | BSC Wrapper for O3V2                            |
+| NFT Lock Proxy   | 0x2cdfc90250EF967036838DA601099656e74bCfc5   | The NFT lockc proxy contract hash               |
+| NFT Wrapper      | 0xe2bD9dD8FAF5C4C2087Ab82eC7E63F619CcAa152   | The NFT Wrapper contract hash                   |
+| NFT Query        | 0x02015dBb2Dc25Cc7313D7EDb4785c2C46F3B7FD2   | The NFT profile query contract hash             |
+| pNEO             | 0xb119b3b8e5e6eeffbe754b20ee5b8a42809931fb   | NEO mapping asset in BSC                        |
+| GAS              | 0x126f5a96ac0d9eb19dfb10edf5be85f897a7bb52   | GAS mapping asset in BSC                        |
+| pETH             | 0xb9478391eec218defa96f7b9a7938cf44e7a2fd5   | ETH mapping asset in BSC                        |
+| pUSDT            | 0x48389753b64C9e581975457332E60dC49325A653   | USDT mapping asset in BSC                       |
+| pDAI             | 0x8F339ABc2A2a8a4D0364C7e35F892c40FBFb4BC0   | DAI mapping asset in BSC                        |
+| pUSDC            | 0x0dBbf67Fb78651D3F6407A421040f1503b486693   | USDC mapping asset in BSC                       |
+| psUSD            | 0x89bcD91F7922126C568436841b16d036528E9714   | sUSD mapping asset in BSC                       |
+| pCWS             | 0xbcf39f0edda668c58371e519af37ca705f2bfcbd   | pCWS mapping asset in BSC                       |
+| SHARE            | 0x07721c5b7536293e9cd9861E0De5f43fC3ac3c2e   | SHARE mapping asset in BSC                      |
+| COOK             | 0x965b0Df5BDA0E7a0649324D78f03D5F7F2De086a   | COOK mapping asset in BSC                       |
+| FEI              | 0xB096d364dBdF04F6230cd5D1aA5EE1C91FC7A819   | FEI mapping asset in BSC                        |
+| TRIBE            | 0x7bE1BE4FDc499bC6FeC8d4a4C0936BAD7799565A   | TRIBE mapping asset in BSC                      |
+| 8PAY             | 0xFeea0bDd3D07eb6FE305938878C0caDBFa169042   | 8PAY mapping asset in BSC                       |
+| HMDX             | 0xaee4164c1ee46ed0bbc34790f1a3d1fc87796668   | MDX mapping asset in BSC                        |
+| REVO             | 0x155040625d7ae3e9cada9a73e3e44f76d3ed1409   | REVO mapping asset in BSC                       |
+| BLES             | 0x393d87e44c7b1f5ba521b351532c24ece253b849   | BLES mapping asset in BSC                       |
+| CVT              | 0xD27547A4e3bA5FBc8ac6C2477151aB8E17e4D341   | CVT mapping asset in BSC                        |
+| bFLUX            | 0x1ab6478b47270ff05af11a012ac17b098758e193   | FLUX mapping asset in BSC                       |
+| KEL              | 0x4e1b16Ef22935A575a6811D4616f98C4077E4408   | KEL mapping asset in BSC                        |
+| ISM              | 0xcc6133136a75d464110f4305e3be0555e1daac3f   | ISM mapping asset in BSC                        |
+| CC               | 0xb7fbFf4Ce5200215c690cc95855e5d6C5236Ee9f   | CC mapping asset in BSC                         |
+| STACK            | 0x6855f7bb6287F94ddcC8915E37e73a3c9fEe5CF3   | STACK mapping asset in BSC                      |
+| BUSD             | 0xe9e7cea3dedca5984780bafc599bd69add087d56   | BUSD                                            |
+| SOFA             | 0xab4ab24a9eb4afe24d6209bb3ecfc381319e33d1   | SOFA mapping asset in BSC                       |
+| BBANK            | 0xf4b5470523ccd314c6b9da041076e7d79e0df267   | BBANK mapping asset in BSC                      |
+| PLUT             | 0xFa502E90F5D76F92Fb3ab86E8c329bED15dc2bD9   | PLUT mapping asset in BSC                       |
+| LEV              | 0xbc194e6f748a222754C3E8b9946922c09E7d4e91   | LEV mapping asset in BSC                        |
+| TAP              | 0xfD799ddCCA8ab5c1ad8a3D64a58d4e907C9d0B71   | TAP mapping asset in BSC                        |
+| O3               | 0xee9801669c6138e84bd50deb500827b776777d28   | O3 mapping asset in BSC                         |
+| SOFA             | 0x54f93c0dc067af625dd63da1ce12bd44329902d9   | SOFA                                            |
+| mBTM             | 0x79f8ed0bc943000ddfd798a66760862937829183   | mBTM                                            |
+| SPAY             | 0xbcf39f0edda668c58371e519af37ca705f2bfcbd   | SPAY                                            |
+| FREL             | 0xfd5af95C12446b60d23e16A4EA95690cE942e5dC   | FREL                                            |
+| DOV              | 0xc9457161320210D22F0D0d5fC1309Acb383d4609   | DOV                                             |
+| CELL             | 0x0FFb06aabbA09b1D6E9Bd78D97791B0eFAc9536a   | CELL                                            |
+| BOPR             | 0xFd4677B9FB00355CbE87EC54f42B79a008b4c622   | BOPR                                            |
+| DMOD             | 0x002D8563759f5e1EAf8784181F3973288F6856e4   | DMOD                                            |
+| FILE             | 0xA8F19840e08dC3f134FF45062b953a2B14E02F5A   | FILE                                            |
+| ROCKS            | 0x0829d2d5cC09d3d341E813c821B0cfAE272D9fb2   | ROCKS                                           |
+| mBTC             | 0xf4e3e2f3e0657ba3f6951c8716b28ddbb269b6ff   | mBTC                                            |
+| COW              | 0x422E3aF98bC1dE5a1838BE31A56f75DB4Ad43730   | COW                                             |
+| TSX              | 0x270388e0ca29cfd7c7e73903d9d933a23d1bab39   | TSX                                             |
+| PRY              | 0x3c81d482172cc273c3b91dd9d8eb212023d00521   | PRY                                             |
+| SPAY             | 0x13A637026dF26F846D55ACC52775377717345c06   | SPAY                                            |
+| MOZ              | 0xe4b22193d68f18f8e8eb3a26f4d64cb6d4573022   | MOZ                                             |
+| STN              | 0xf7fb08c187e6cd1f2149e6c818d0b6d4d4ef1430   | STN                                             |
+| GOF              | 0x2bcF9c1861FaE2d5a7D2b3242b71e2a8d461F61e   | GOF                                             |
+| CART             | 0x5C8C8D560048F34E5f7f8ad71f2f81a89DBd273e   | CART                                            |
+| ETH              | 0x2170ed0880ac9a755fd29b2688956bd959f933f8   | ETH                                             |
+| ROSN             | 0x651Cd665bD558175A956fb3D72206eA08Eb3dF5b   | ROSE                                            |
+| HKR              | 0xb23236a6d1af62bd4809e0ef933cfd7a6917cd68   | HKR                                             |
+| HAI              | 0x971fe540feff9d91d6fbb93c27fbb527bfb96a3e   | HAI                                             |
+| DOGK             | 0x42b1495e9bf2de0ae6510d50584a0799166542f7   | DOGK                                            |
+| SPHRI            | 0x8B7a0007F6E0ddb16cd14f34af3306947fC698a6   | SPHRI                                           |
+| SLD              | 0x1ef6a7e2c966fb7c5403efefde38338b1a95a084   | SLD                                             |
+| BTCB             | 0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c   | Binance-Peg BTCB Token                          |
+| SIL              | 0x133Bb423d9248a336D2b3086b8F44A7DbFF3a13C   | SIL                                             |
+| OOE              | 0x9029fdfae9a03135846381c7ce16595c3554e10a   | OOE                                             |
+| BET              | 0x028a52032a7075a42585c037f069c62b49ebaa3d   | BET                                             |
+| CBC              | 0x793cEa0F1003411396b3A81A77d92Fe37015E7A9   | CBC                                             |
+| DFC              | 0x1b2a76da77d03b7fc21189d9838f55bd849014af   | DFC                                             |
+| USDC             | 0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d   | USDC                                            |
+| PKR              | 0xc49dde62b4a0810074721faca54aab52369f486a   | PKR                                             |
+| WING             | 0x3cb7378565718c64ab86970802140cc48ef1f969   | WING                                            |
+| ONG              | 0x308bfaeaac8bdab6e9fc5ead8edcb5f95b0599d9   | ONG                                             |
+| SBC              | 0xDA22650f4739C9d0b4B4b0915A4CAfDE6C52C480   | SBC                                             |
+| CFB              | 0xf36538cBE8a85E418BBA643E8259de38DD02de43   | CFB                                             |
+| EPK              | 0x87ecea8512516ced5db9375c63c23a0846c73a57   | EPK                                             |
+| DOG              | 0x8dc27752faff2ade6efba8054e2f207506247f43   | DOG                                             |
+| C                | 0x1f09c5fa5522036c7cc7cddea46e9961ca01ead2   | C                                               |
+| WIT              | 0x633a87ca89ce86ed06a807e4af57ffe486980374   | WIT                                             |
+| YNI              | 0x91cb98f1b1954253f03f82579d683732bae6813f   | YNI                                             |
+| Metis            | e552fb52a4f19e44ef5a967632dbc320b0820639     | Metis                                           |
+| LP Metis         | 0x2c0Ad043f17572906cb5A4Dc388Ef6C5F01a2827   | LP Metis                                        |
+| GM               | 0x0b53b5da7d0f275c31a6a182622bdf02474af253   |                                                 |
+| fCAKE            | 0x1176b1e362a23ab750a6d2208dfba4a716c7d102   |                                                 |
 
 ###### [Back to top](README.md#menu)
 ## Huobi Eco Chain(HECO)
@@ -445,11 +449,11 @@ This's cross chain asset contract info ONLY in <strong>MAINNET</strong> mode, it
 | ARB-USDC      | 0xE397Abf9beD31911a32e3723c0ACd751fF7Df250 | Arbitrum USDC mapping asset in Curve    |
 | AVAX-USDC     | 0xA724b1480F761b32c6C70B80709C46ED24383B36 | Avalanche USDC mapping asset in Curve   |
 | XDAI-USDC     | 0xa2546C60b3c4f4223b52c4cCe68CDBf5B03960B4 | XDAI USDC mapping asset in Curve        |
-| OP-USDC       | 0xa70Bc553b23dCe0001438654f8CaF0A39d0Df775 | Optimistic USDC mapping asset in Curve  |
+| OP-USDC       | 0xa70Bc553b23dCe0001438654f8CaF0A39d0Df775 | Optimism USDC mapping asset in Curve  |
 | Pool-10       | 0x58AD8FF9B7A9c85EeaDedCFdAD1f9bCfF7DA47f3 | USDT pool address in Curve              |
 | Pool-10-LP    | 0x9998753c05B9044488729740E0dB6ec21bdf1034 | LP token of pool-10                     |
 | ETH-USDT      | 0x061a87Aac7695b9cf9482043175fd3bE3374AB66 | Eth USDT mapping asset in Curve         |
-| OP-USDT       | 0xd357cAB6e1B6e2520440D501D1a12349fddD000E | Optimistic USDT mapping asset in Curve  |
+| OP-USDT       | 0xd357cAB6e1B6e2520440D501D1a12349fddD000E | Optimism USDT mapping asset in Curve  |
 | FTM-USDT      | 0xDBa1E44e82f7044DC7d6c964f64a32d1bBBaaeaB | Fantom USDT mapping asset in Curve      |
 | OK-USDT       | 0x11ea9E229E022D0498db2Ee4369FFf1238FbEE4f | OK USDT mapping asset in Curve          |
 
@@ -475,28 +479,30 @@ This's cross chain asset contract info ONLY in <strong>MAINNET</strong> mode, it
 
 ###### [Back to top](README.md#menu)
 ## Polygon
-| Type           | Contract Hash                              | Desc                                            |
-|----------------|--------------------------------------------|-------------------------------------------------|
-| CCMP           | 0x5366ea2b5b729ff3cef404c2408c8c60cc061b71 | Cross Chain Manager Proxy contract hash         |
-| CCD            | 0x7cea671dabfba880af6723bddd6b9f4caa15c87b | Polygon Cross Chain Data contract hash          |
-| CCM            | 0xB16FED79a6Cb9270956f045F2E7989AFfb75d459 | Polygon Cross Chain Manager contract hash       |
-| Lock Proxy     | 0x28FF66a1B95d7CAcf8eDED2e658f768F44841212 | Polygon Asset Proxy contract hash               |
-| Poly Wrapper   | 0x4493fb5dc195900938CC23096C7EEdEfc434e283 | lock entrance for auto cross chain tx with fee  |
-| WrapperV2      | 0xB88f13682F3C602aCD84B4b2eEB96A9DD75Afd89 | wrapper_v2 that take native asset as fee        |
-| NFT Lock Proxy | 0x359596463F4F4e5969330D74504A614c22885D62 | The NFT lockc proxy contract hash               |
-| NFT Wrapper    | 0x6cEB2EC1E82880812F6aA60DfA260679D6C8323d | The NFT Wrapper contract hash                   |
-| NFT Query      | 0x6AF09953541c7b4d0023c5E5a4241F82C68E986C | The NFT profile query contract hash             |
-| Swapper        | 0xaC57280B3A657A2e8D1180493C519a476D208F61 | Curve entrance for auto cross chain tx with fee |
-| O3             | 0xee9801669c6138e84bd50deb500827b776777d28 | O3                                              |
-| USDC           | 0x2791bca1f2de4661ed88a30c99a7a9449aa84174 | USDC                                            |
-| SXC            | 0x46d3EC8CE3eC767414F16FE12176De23E3E5B46A | SXC                                             |
-| OOE            | 0x9d5565da88e596730522cbc5a918d2a89dbc16d9 | OOE                                             |
-| ONTd           | 0xD4814770065F634003A8d8D70B4743E0C3f334ad | ONTd                                            |
-| ONG            | 0x727e6cA466a7522D54F1f0b97a344f64e65d2767 | ONG                                             |
-| CBC            | 0x14e449473251F2D9D4eA5D26199F002C214b2475 | CBC                                             |
-| WIT            | 0xaacd1ba28e00a480ed7cb5284b7719c0bd694a94 | WIT                                             |
-| TSX            | 0xF11de26883EB2EBF9877a01703DDC1eB619094E6 | TSX                                             |
-| GAS            | 0x22506cf648764800ac6913fe5e9e34a2621b7e08 | Neo N3 GAS                                      |
+| Type                  | Contract Hash                               | Desc                                            |
+|-----------------------|---------------------------------------------|-------------------------------------------------|
+| CCMP                  | 0x5366ea2b5b729ff3cef404c2408c8c60cc061b71  | Cross Chain Manager Proxy contract hash         |
+| CCD                   | 0x7cea671dabfba880af6723bddd6b9f4caa15c87b  | Polygon Cross Chain Data contract hash          |
+| CCM                   | 0xB16FED79a6Cb9270956f045F2E7989AFfb75d459  | Polygon Cross Chain Manager contract hash       |
+| Lock Proxy            | 0x28FF66a1B95d7CAcf8eDED2e658f768F44841212  | Polygon Asset Proxy contract hash               |
+| Poly Wrapper          | 0x4493fb5dc195900938CC23096C7EEdEfc434e283  | lock entrance for auto cross chain tx with fee  |
+| WrapperV2             | 0xB88f13682F3C602aCD84B4b2eEB96A9DD75Afd89  | wrapper_v2 that take native asset as fee        |
+| Polygon Bridge-O3V2   | 0x5F8517D606580D30c3bf210Fa016B8916c685be8  | Polygon Bridge for O3V2                         |
+| Polygon Wrapper-O3V2  | 0xa9472DA7e5F349A59C074E059ef0Ab504735dfA2  | Polygon Wrapper for O3V2                        |
+| NFT Lock Proxy        | 0x359596463F4F4e5969330D74504A614c22885D62  | The NFT lockc proxy contract hash               |
+| NFT Wrapper           | 0x6cEB2EC1E82880812F6aA60DfA260679D6C8323d  | The NFT Wrapper contract hash                   |
+| NFT Query             | 0x6AF09953541c7b4d0023c5E5a4241F82C68E986C  | The NFT profile query contract hash             |
+| Swapper               | 0xaC57280B3A657A2e8D1180493C519a476D208F61  | Curve entrance for auto cross chain tx with fee |
+| O3                    | 0xee9801669c6138e84bd50deb500827b776777d28  | O3                                              |
+| USDC                  | 0x2791bca1f2de4661ed88a30c99a7a9449aa84174  | USDC                                            |
+| SXC                   | 0x46d3EC8CE3eC767414F16FE12176De23E3E5B46A  | SXC                                             |
+| OOE                   | 0x9d5565da88e596730522cbc5a918d2a89dbc16d9  | OOE                                             |
+| ONTd                  | 0xD4814770065F634003A8d8D70B4743E0C3f334ad  | ONTd                                            |
+| ONG                   | 0x727e6cA466a7522D54F1f0b97a344f64e65d2767  | ONG                                             |
+| CBC                   | 0x14e449473251F2D9D4eA5D26199F002C214b2475  | CBC                                             |
+| WIT                   | 0xaacd1ba28e00a480ed7cb5284b7719c0bd694a94  | WIT                                             |
+| TSX                   | 0xF11de26883EB2EBF9877a01703DDC1eB619094E6  | TSX                                             |
+| GAS                   | 0x22506cf648764800ac6913fe5e9e34a2621b7e08  | Neo N3 GAS                                      |
 
 ###### [Back to top](README.md#menu)
 ## Note 
@@ -537,30 +543,33 @@ Type | Denom (coin name) | Asset/Contract Hash | Desc
 ###### [Back to top](README.md#menu)
 ## Arbitrum
 
-| Type         | Contract Hash                              | Desc                                             |
-|--------------|--------------------------------------------|--------------------------------------------------|
-| CCMP         | 0xABD7f7B89c5fD5D0AEf06165f8173b1b83d7D5c9 | Arbitrum Cross Chain Manager Proxy contract hash |
-| CCM          | 0x7ceA671DABFBa880aF6723bDdd6B9f4caA15C87B | Arbitrum Cross Chain Manager contract hash       |
-| CCD          | 0x11e2A718d46EBe97645b87F2363AFE1BF28c2672 | Arbitrum Cross Chain Data contract hash          |
-| Lock Proxy   | 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03 | Arbitrum Lock Proxy contract hash                |
-| Swapper      | 0x7E418a9926c8D1cbd09CC93E8051cC3BbdfE3854 | Arbitrum Swapper contract hash                   |
-| USDT         | 0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9 | Arbitrum USDT contract hash                      |
-| Poly Wrapper | 0xCf018d59B4728d073bd961ABe6A8024A8F0A3cdB | lock entrance for auto cross chain tx with fee   |
-| WrapperV2    | 0x0f8C16BA16E58525Eb2aDc231ff360cfa00bB527 | wrapper_v2 that take native asset as fee         |
+| Type                  | Contract Hash                                | Desc                                             |
+|-----------------------|----------------------------------------------|--------------------------------------------------|
+| CCMP                  | 0xABD7f7B89c5fD5D0AEf06165f8173b1b83d7D5c9   | Arbitrum Cross Chain Manager Proxy contract hash |
+| CCM                   | 0x7ceA671DABFBa880aF6723bDdd6B9f4caA15C87B   | Arbitrum Cross Chain Manager contract hash       |
+| CCD                   | 0x11e2A718d46EBe97645b87F2363AFE1BF28c2672   | Arbitrum Cross Chain Data contract hash          |
+| Lock Proxy            | 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03   | Arbitrum Lock Proxy contract hash                |
+| Swapper               | 0x7E418a9926c8D1cbd09CC93E8051cC3BbdfE3854   | Arbitrum Swapper contract hash                   |
+| USDT                  | 0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9   | Arbitrum USDT contract hash                      |
+| Poly Wrapper          | 0xCf018d59B4728d073bd961ABe6A8024A8F0A3cdB   | lock entrance for auto cross chain tx with fee   |
+| WrapperV2             | 0x0f8C16BA16E58525Eb2aDc231ff360cfa00bB527   | wrapper_v2 that take native asset as fee         |
+| Arbitrum Bridge-O3V2  | 0x30E39786F0dd700DA277a54BD9c07F7894cB5aBa   | Arbitrum Bridge for O3V2                         |
+| Arbitrum Wrapper-O3V2 | 0x446eb3aC5e6267931eD1198203B12CAfcd2E6240	| Arbitrum Wrapper for O3V2                        |
 
 ###### [Back to top](README.md#menu)
-## xDAI
+## Gnosis
 
-| Type         | Contract Hash                              | Desc                                           |
-|--------------|--------------------------------------------|------------------------------------------------|
-| CCMP         | 0x28FF66a1B95d7CAcf8eDED2e658f768F44841212 | xDAI Cross Chain Manager Proxy contract hash   |
-| CCM          | 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03 | xDAI Cross Chain Manager contract hash         |
-| CCD          | 0x4D6934E2bb813f48DC0A7bf7Ead0365D9c894163 | xDAI Cross Chain Data contract hash            |
-| Lock Proxy   | 0x77F3A156e8E597C64d4a12d62f20a0d2ff839dD5 | xDAI Lock Proxy contract hash                  |
-| Swapper      | 0xb68C0D092842a4a0272867D89245FCD7e7fcA3Eb | xDAI Swapper contract hash                     |
-| Poly Wrapper | 0xD5d63Dce45E0275Ca76a8b2e9BD8C11679A57D0D | lock entrance for auto cross chain tx with fee |
-| WrapperV2    | 0x74A7f2A3aFa8B0CB577985663B5811901A860619 | wrapper_v2 that take native asset as fee       |
-
+| Type                | Contract Hash                              | Desc                                           |
+|---------------------|--------------------------------------------|------------------------------------------------|
+| CCMP                | 0x28FF66a1B95d7CAcf8eDED2e658f768F44841212 | Gnosis Cross Chain Manager Proxy contract hash   |
+| CCM                 | 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03 | Gnosis Cross Chain Manager contract hash         |
+| CCD                 | 0x4D6934E2bb813f48DC0A7bf7Ead0365D9c894163 | Gnosis Cross Chain Data contract hash            |
+| Lock Proxy          | 0x77F3A156e8E597C64d4a12d62f20a0d2ff839dD5 | Gnosis Lock Proxy contract hash                  |
+| Swapper             | 0xb68C0D092842a4a0272867D89245FCD7e7fcA3Eb | Gnosis Swapper contract hash                     |
+| Poly Wrapper        | 0xD5d63Dce45E0275Ca76a8b2e9BD8C11679A57D0D | lock entrance for auto cross chain tx with fee |
+| WrapperV2           | 0x74A7f2A3aFa8B0CB577985663B5811901A860619 | wrapper_v2 that take native asset as fee       |
+| Gnosis Bridge-O3V2  | 0x3A5292101A26c1dC75f97965B9091D4761A5d1E3	| Gnosis Bridge for O3V2                         |
+| Gnosis Wrapper-O3V2 | 0x426223eef2e4f577767533aa1854E8b980b1Df5F	| Gnosis Wrapper for O3V2                        |
 ###### [Back to top](README.md#menu)
 ## Avalanche
 
@@ -578,28 +587,31 @@ Type | Denom (coin name) | Asset/Contract Hash | Desc
 ###### [Back to top](README.md#menu)
 ## Fantom
 
-| Type         | Contract Hash                              | Desc                                           |
-|--------------|--------------------------------------------|------------------------------------------------|
-| CCMP         | 0xE3D0FB6E3cB5DA61EB18b06D035052441009d1E6 | Fantom Cross Chain Manager Proxy contract hash |
-| CCM          | 0x2aA63cd0b28FB4C31fA8e4E95Ec11815Be07b9Ac | Fantom Cross Chain Manager contract hash       |
-| CCD          | 0x6c2A37Cf23E21EF3cFC45FdE2C0E1d3a9e7365f9 | Fantom Cross Chain Data contract hash          |
-| Lock Proxy   | 0xd3b90E2603D265Bf46dBC788059AC12D52B6AC57 | Fantom Lock Proxy contract hash                |
-| Swapper      | 0xb68C0D092842a4a0272867D89245FCD7e7fcA3Eb | Fantom Swapper contract hash                   |
-| Poly Wrapper | 0x287Bd66753f0cA8e9C2171D782DF39e4C28cfd65 | lock entrance for auto cross chain tx with fee |
-| WrapperV2    | 0xf06587dE89e289Ce480CDf21109A14547eb33A0d | wrapper_v2 that take native asset as fee       |
-
+| Type                 | Contract Hash                               | Desc                                           |
+|----------------------|---------------------------------------------|------------------------------------------------|
+| CCMP                 | 0xE3D0FB6E3cB5DA61EB18b06D035052441009d1E6  | Fantom Cross Chain Manager Proxy contract hash |
+| CCM                  | 0x2aA63cd0b28FB4C31fA8e4E95Ec11815Be07b9Ac  | Fantom Cross Chain Manager contract hash       |
+| CCD                  | 0x6c2A37Cf23E21EF3cFC45FdE2C0E1d3a9e7365f9  | Fantom Cross Chain Data contract hash          |
+| Lock Proxy           | 0xd3b90E2603D265Bf46dBC788059AC12D52B6AC57  | Fantom Lock Proxy contract hash                |
+| Swapper              | 0xb68C0D092842a4a0272867D89245FCD7e7fcA3Eb  | Fantom Swapper contract hash                   |
+| Poly Wrapper         | 0x287Bd66753f0cA8e9C2171D782DF39e4C28cfd65  | lock entrance for auto cross chain tx with fee |
+| WrapperV2            | 0xf06587dE89e289Ce480CDf21109A14547eb33A0d  | wrapper_v2 that take native asset as fee       |
+| Fantom Bridge-O3V2   | 0x7BB9709Ec786Ea549eE67AE02E8B0c75DDE77f48  | Fantom Bridge for O3V2                         |
+| Fantom Wrapper-O3V2  | 0x12682669700109AE1F3B326D74f2A5bDB63549E3  | Fantom Wrapper for O3V2                        |
 ###### [Back to top](README.md#menu)
-## Optimistic
+## Optimism
 
-| Type         | Contract Hash                              | Desc                                               |
-|--------------|--------------------------------------------|----------------------------------------------------|
-| CCMP         | 0xE3D0FB6E3cB5DA61EB18b06D035052441009d1E6 | Optimistic Cross Chain Manager Proxy contract hash |
-| CCM          | 0x2aA63cd0b28FB4C31fA8e4E95Ec11815Be07b9Ac | Optimistic Cross Chain Manager contract hash       |
-| CCD          | 0x6c2A37Cf23E21EF3cFC45FdE2C0E1d3a9e7365f9 | Optimistic Cross Chain Data contract hash          |
-| Lock Proxy   | 0xd3b90E2603D265Bf46dBC788059AC12D52B6AC57 | Optimistic Lock Proxy contract hash                |
-| Swapper      | 0xD24BEcEdFCE7f95693Fa3938eaC6dd66725B4Bbf | Optimistic Swapper contract hash                   |
-| Poly Wrapper | 0x287Bd66753f0cA8e9C2171D782DF39e4C28cfd65 | lock entrance for auto cross chain tx with fee     |
-| WrapperV2    | 0xf06587dE89e289Ce480CDf21109A14547eb33A0d | wrapper_v2 that take native asset as fee           |
+| Type                  | Contract Hash                               | Desc                                               |
+|-----------------------|---------------------------------------------|----------------------------------------------------|
+| CCMP                  | 0xE3D0FB6E3cB5DA61EB18b06D035052441009d1E6  | Optimism Cross Chain Manager Proxy contract hash |
+| CCM                   | 0x2aA63cd0b28FB4C31fA8e4E95Ec11815Be07b9Ac  | Optimism Cross Chain Manager contract hash       |
+| CCD                   | 0x6c2A37Cf23E21EF3cFC45FdE2C0E1d3a9e7365f9  | Optimism Cross Chain Data contract hash          |
+| Lock Proxy            | 0xd3b90E2603D265Bf46dBC788059AC12D52B6AC57  | Optimism Lock Proxy contract hash                |
+| Swapper               | 0xD24BEcEdFCE7f95693Fa3938eaC6dd66725B4Bbf  | Optimism Swapper contract hash                   |
+| Poly Wrapper          | 0x287Bd66753f0cA8e9C2171D782DF39e4C28cfd65  | lock entrance for auto cross chain tx with fee     |
+| WrapperV2             | 0xf06587dE89e289Ce480CDf21109A14547eb33A0d  | wrapper_v2 that take native asset as fee           |
+| Optimism Bridge-O3V2  | 0x8a05dC902D15Aea923F2C722292F5561c3496317  | Optimism Bridge for O3V2                           |
+| Optimism Wrapper-O3V2 | 0x5ae7ff97F40DF101edABa31D5f89b70f600d9820  | Optimism Wrapper for O3V2                          |
 
 ###### [Back to top](README.md#menu)
 ## Metis
@@ -719,37 +731,37 @@ Type | Denom (coin name) | Asset/Contract Hash | Desc
 
 ###### [Back to top](README.md#menu)
 ## Router And ChainId
-|     Type     | Router Number |  ChainId  |
-|:------------:|:-------------:|:---------:|
-|   Bitcoin    |       1       |     1     |
-|   Ethereum   |       2       |     2     |
-|   Ontology   |       3       |     3     |
-|  Neo Legacy  |       4       |     4     |
-|   Switcheo   |       5       |     5     |
-|     BSC      |       6       |     6     |
-|     Heco     |       7       |     7     |
-|   Palette    |       8       |     8     |
-|   Zilliqa    |      17       |    18     |
-|    Curve     |      10       |    10     |
-|  OKExChain   |      12       |    12     |
-|    Neo N3    |      14       |    14     |
-|   Heimdall   |      15       |    15     |
-|   Polygon    |       0       |    17     |
-|   Arbitrum   |       0       |    19     |
-|     xDAI     |       0       |    20     |
-|  Avalanche   |       0       |    21     |
-|    Fantom    |       0       |    22     |
-|  Optimistic  |       0       |    23     |
-|    Metis     |       0       |    24     |
-|     Boba     |       0       |    25     |
-|    Oasis     |       0       |    26     |
-|   Harmony    |      21       |    27     |
-|     Hsc      |      20       |    28     |
-|    Bytom     |      22       |    29     |
-|     Kcc      |       0       |    30     |
-| Starcoin     |      18       |    31     |
-|   Kava       |      0        |    32     |
-|    Cube      |       0       |    35     |
+|    Type    | Router Number |  ChainId  |
+|:----------:|:-------------:|:---------:|
+|  Bitcoin   |       1       |     1     |
+|  Ethereum  |       2       |     2     |
+|  Ontology  |       3       |     3     |
+| Neo Legacy |       4       |     4     |
+|  Switcheo  |       5       |     5     |
+|    BSC     |       6       |     6     |
+|    Heco    |       7       |     7     |
+|  Palette   |       8       |     8     |
+|  Zilliqa   |      17       |    18     |
+|   Curve    |      10       |    10     |
+| OKExChain  |      12       |    12     |
+|   Neo N3   |      14       |    14     |
+|  Heimdall  |      15       |    15     |
+|  Polygon   |       0       |    17     |
+|  Arbitrum  |       0       |    19     |
+| Gnosis     |       0       |    20     |
+| Avalanche  |       0       |    21     |
+|   Fantom   |       0       |    22     |
+| Optimism |       0       |    23     |
+|   Metis    |       0       |    24     |
+|    Boba    |       0       |    25     |
+|   Oasis    |       0       |    26     |
+|  Harmony   |      21       |    27     |
+|    Hsc     |      20       |    28     |
+|   Bytom    |      22       |    29     |
+|    Kcc     |       0       |    30     |
+|  Starcoin  |      18       |    31     |
+|    Kava    |      0        |    32     |
+|    Cube    |       0       |    35     |
 
 ###### [Back to top](README.md#menu)
 ## Relayers
