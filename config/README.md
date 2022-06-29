@@ -721,13 +721,15 @@ Type | Denom (coin name) | Asset/Contract Hash | Desc
 
 ###### [Back to top](README.md#menu)
 ## Cube
-| Type      | Contract Hash                               | Desc                                    |
-|-----------|---------------------------------------------|-----------------------------------------|
-| CCD       | 0x4D2A3234b2f2E27f03096097C4A530CAA8427681  | Cross Chain Data contract hash          |
-| CCM       | 0xab7a3CA9bDcE476F0ECC04c127CFEe0F3D212BC5  | Eth Cross Chain Manager                 |
-| CCMP      | 0x85472B4D353Cb89f86294b2e983ba44722bC0331  | Cross Chain Manager Proxy contract hash |
-| LockProxy | 0x526444013Cd4D457212fF88Fe6F8e7c995DF1E40  |                                         |
-| Wrapper   | 0x80C99516c49dB5e1F002c47c9d17ABF6208E8736  |                                         |
+| Type                  | Contract Hash                               | Desc                                    |
+|-----------------------|---------------------------------------------|-----------------------------------------|
+| CCD                   | 0x4D2A3234b2f2E27f03096097C4A530CAA8427681  | Cross Chain Data contract hash          |
+| CCM                   | 0xab7a3CA9bDcE476F0ECC04c127CFEe0F3D212BC5  | Eth Cross Chain Manager                 |
+| CCMP                  | 0x85472B4D353Cb89f86294b2e983ba44722bC0331  | Cross Chain Manager Proxy contract hash |
+| LockProxy             | 0x526444013Cd4D457212fF88Fe6F8e7c995DF1E40  |                                         |
+| Wrapper               | 0x80C99516c49dB5e1F002c47c9d17ABF6208E8736  |                                         |
+| Cube Bridge-O3V2      | 0x87aD18124819B4018288D8A94973856ebd6eEeA1  | Cube Bridge for O3V2                 |
+| Cube Wrapper-O3V2     | 0x5ae7ff97F40DF101edABa31D5f89b70f600d9820  | Cube Wrapper for O3V2                |
 
 ###### [Back to top](README.md#menu)
 ## Router And ChainId
