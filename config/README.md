@@ -579,16 +579,18 @@ Type | Denom (coin name) | Asset/Contract Hash | Desc
 ###### [Back to top](README.md#menu)
 ## Avalanche
 
-| Type         | Contract Hash                              | Desc                                              |
-|--------------|--------------------------------------------|---------------------------------------------------|
-| CCMP         | 0xE3D0FB6E3cB5DA61EB18b06D035052441009d1E6 | Avalanche Cross Chain Manager Proxy contract hash |
-| CCM          | 0x2aA63cd0b28FB4C31fA8e4E95Ec11815Be07b9Ac | Avalanche Cross Chain Manager contract hash       |
-| CCD          | 0x6c2A37Cf23E21EF3cFC45FdE2C0E1d3a9e7365f9 | Avalanche Cross Chain Data contract hash          |
-| Lock Proxy   | 0xd3b90E2603D265Bf46dBC788059AC12D52B6AC57 | Avalanche Lock Proxy contract hash                |
-| Swapper      | 0xb68C0D092842a4a0272867D89245FCD7e7fcA3Eb | Avalanche Swapper contract hash                   |
-| Poly Wrapper | 0x287Bd66753f0cA8e9C2171D782DF39e4C28cfd65 | lock entrance for auto cross chain tx with fee    |
-| WrapperV2    | 0xf06587dE89e289Ce480CDf21109A14547eb33A0d | wrapper_v2 that take native asset as fee          |
-| COOK         | 0x637afeff75ca669fF92e4570B14D6399A658902f | COOK                                              |
+| Type                   | Contract Hash                              | Desc                                              |
+|------------------------|--------------------------------------------|---------------------------------------------------|
+| CCMP                   | 0xE3D0FB6E3cB5DA61EB18b06D035052441009d1E6 | Avalanche Cross Chain Manager Proxy contract hash |
+| CCM                    | 0x2aA63cd0b28FB4C31fA8e4E95Ec11815Be07b9Ac | Avalanche Cross Chain Manager contract hash       |
+| CCD                    | 0x6c2A37Cf23E21EF3cFC45FdE2C0E1d3a9e7365f9 | Avalanche Cross Chain Data contract hash          |
+| Lock Proxy             | 0xd3b90E2603D265Bf46dBC788059AC12D52B6AC57 | Avalanche Lock Proxy contract hash                |
+| Swapper                | 0xb68C0D092842a4a0272867D89245FCD7e7fcA3Eb | Avalanche Swapper contract hash                   |
+| Poly Wrapper           | 0x287Bd66753f0cA8e9C2171D782DF39e4C28cfd65 | lock entrance for auto cross chain tx with fee    |
+| WrapperV2              | 0xf06587dE89e289Ce480CDf21109A14547eb33A0d | wrapper_v2 that take native asset as fee          |
+| COOK                   | 0x637afeff75ca669fF92e4570B14D6399A658902f | COOK                                              |
+| Avalanche Bridge-O3V2  | 0x8a05dC902D15Aea923F2C722292F5561c3496317 | Avalanche Bridge for O3V2                         |
+| Avalanche Wrapper-O3V2 | 0x5ae7ff97F40DF101edABa31D5f89b70f600d9820 | Avalanche Wrapper for O3V2                        |
 
 ###### [Back to top](README.md#menu)
 ## Fantom
@@ -622,16 +624,18 @@ Type | Denom (coin name) | Asset/Contract Hash | Desc
 ###### [Back to top](README.md#menu)
 ## Metis
 
-| Type            | Contract Hash                              | Desc                                          |
-|-----------------|--------------------------------------------|-----------------------------------------------|
-| CCMP            | 0xE3D0FB6E3cB5DA61EB18b06D035052441009d1E6 | Metis Cross Chain Manager Proxy contract hash |
-| CCM             | 0x2aA63cd0b28FB4C31fA8e4E95Ec11815Be07b9Ac | Metis Cross Chain Manager contract hash       |
-| CCD             | 0x6c2A37Cf23E21EF3cFC45FdE2C0E1d3a9e7365f9 | Metis Cross Chain Data contract hash          |
-| Lock Proxy      | 0xeFB5a01Ed9f3E94B646233FB68537C5Cb45e301D | Metis Lock Proxy contract hash                |
-| Lock Proxy-PIP4 | 0xbE46E4c47958A79E7F789ea94C5D8071a0DeE31e | Metis Lock Proxy contract hash                |
-| WrapperV3       | 0xFbFDfc95B8EAe4719Ae7D7b94e6F7aCC2DC2e0D7 | wrapper_v2 that take native asset as fee      |
-| Metis           | 0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000 | Metis                                         |
-| LP Metis        | 0xF3eCc2FF57DF74aE638551b060864717EFE493d2 | LP Metis                                      |
+| Type               | Contract Hash                              | Desc                                          |
+|--------------------|--------------------------------------------|-----------------------------------------------|
+| CCMP               | 0xE3D0FB6E3cB5DA61EB18b06D035052441009d1E6 | Metis Cross Chain Manager Proxy contract hash |
+| CCM                | 0x2aA63cd0b28FB4C31fA8e4E95Ec11815Be07b9Ac | Metis Cross Chain Manager contract hash       |
+| CCD                | 0x6c2A37Cf23E21EF3cFC45FdE2C0E1d3a9e7365f9 | Metis Cross Chain Data contract hash          |
+| Lock Proxy         | 0xeFB5a01Ed9f3E94B646233FB68537C5Cb45e301D | Metis Lock Proxy contract hash                |
+| Lock Proxy-PIP4    | 0xbE46E4c47958A79E7F789ea94C5D8071a0DeE31e | Metis Lock Proxy contract hash                |
+| WrapperV3          | 0xFbFDfc95B8EAe4719Ae7D7b94e6F7aCC2DC2e0D7 | wrapper_v2 that take native asset as fee      |
+| Metis              | 0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000 | Metis                                         |
+| LP Metis           | 0xF3eCc2FF57DF74aE638551b060864717EFE493d2 | LP Metis                                      |
+| Metis Bridge-O3V2  | 0x8a05dC902D15Aea923F2C722292F5561c3496317 | Metis Bridge for O3V2                         |
+| Metis Wrapper-O3V2 | 0x5ae7ff97F40DF101edABa31D5f89b70f600d9820 | Metis Wrapper for O3V2                        |
 
 ###### [Back to top](README.md#menu)
 ## Boba
