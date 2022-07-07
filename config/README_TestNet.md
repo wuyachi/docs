@@ -561,11 +561,11 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 ## zkSync
 | Type       | Contract Hash                              | Desc                                      |
 |------------|--------------------------------------------|-------------------------------------------|
-| CCD        | 0xaC2E341cb8E8B04b7a3BD98626626DE3187d8D0B | Cross Chain Data contract hash            |
-| CCM        | 0x9c5a69789Be33b35c6E47B3879031D7C3AEA3F0C | Cross Chain Manager contract hash         |
-| CCMP       | 0xff25a90A130b6df5E8FDd716dED56f0Ba8f3504f | Cross Chain Manager Proxy contract hash   |
-| Lock Proxy | 0xBBd81dBaF40BE09e7Fde684eF742259Fc1B6cfA6 | Proxy contract hash                       |
-| WrapperV3  | 0x44CE604259D6aD2e70046a844745873Ea103EE85 |                                           |
+| CCD        | 0x025c9d38b15aEffE42Dfe7F739f647fb2075B919 | Cross Chain Data contract hash            |
+| CCM        | 0xEa4395bbDeC0AB815E855F0856c2523fc25E8613 | Cross Chain Manager contract hash         |
+| CCMP       | 0x9063af3f406A0D7593278c57ef910d36B3451571 | Cross Chain Manager Proxy contract hash   |
+| Lock Proxy | 0x3243AB915767065466a048c1e43cB5C2d9CCc16B | Proxy contract hash                       |
+| WrapperV3  | 0x5CcB95B0E39818546ea1F19AC0b190e8164180f9 |                                           |
 
 ###### [Back to top](README_TestNet.md#menu)
 ## Celo
