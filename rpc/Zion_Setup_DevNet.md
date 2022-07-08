@@ -66,13 +66,15 @@ IP | SSH Port
 124.156.210.112|32000
 
 ## Nodes
-Node Index | IP | Rpc Port | Mode
+Node Index | IP | Rpc Port | Ws Port | Mode
 ---|---|---|---
-0|101.32.99.70|22000|Miner
-1|101.32.99.70|22001|Miner
-2|101.32.99.132|22000|Miner
-3|101.32.99.132|22001|Miner
-4|124.156.214.163|22000|Miner
-5|124.156.214.163|22001|Miner
-6|124.156.210.112|22000|Miner
-7|124.156.210.112|22001|Full
+0|101.32.99.70|22000|null|Miner
+1|101.32.99.70|22001|null|Miner
+2|101.32.99.132|22000|null|Miner
+3|101.32.99.132|22001|null|Miner
+4|124.156.214.163|22000|null|Miner
+5|124.156.214.163|22001|null|Miner
+6|124.156.210.112|22000|null|Miner
+7|124.156.210.112|22001|22002|Full
+
+node7 support websocket services of `web3,eth`.
