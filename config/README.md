@@ -13,7 +13,7 @@ This's cross chain asset contract info ONLY in <strong>MAINNET</strong> mode, it
 |                                            | **[Polygon-17](README.md#Polygon)**         | **[Zilliqa-18](README.md#Zilliqa)**       | **[Arbitrum-19](README.md#Arbitrum)** | **[Gnosis-20](README.md#Gnosis)**          |
 | **[Avalanche-21](README.md#Avalanche)**    | **[Fantom-22](README.md#Fantom)**           | **[Optimism-23](README.md#Optimism)** | **[Metis-24](README.md#Metis)**       | **[Boba-25](README.md#Boba)**          |
 | **[Oasis-26](README.md#Oasis)**            | **[Harmony-27](README.md#Harmony)**         | **[Hsc-28](README.md#Hsc)**               | **[Bytom-29](README.md#Bytom)**       | **[Kcc-30](README.md#Kcc)**            |
-| **[Starcoin-31](README.md#Starcoin)**      |**[Kava-32](README.md#Kava)**                | **[Cube-35](README.md#Cube)**             | **[Celo-36](README.md#Celo)**             |
+| **[Starcoin-31](README.md#Starcoin)**      |**[Kava-32](README.md#Kava)**                | **[Cube-35](README.md#Cube)**             | **[Celo-36](README.md#Celo)**             | **[Clover-37](README.md#Clover)**             |
 
 
 ### Quick Index
@@ -48,7 +48,8 @@ This's cross chain asset contract info ONLY in <strong>MAINNET</strong> mode, it
 | Harmony    | <ul><li>0xF049438CDF7b351B25Daaac33905C346CbCc92e7</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | KCC        | <ul><li>0x0AFC9aB11109A0Ee2C82f504dBB8dc276F11379b</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | Kava      | <ul><li>0xcAa5AcFBC3A1723bE37b965AF0DAc8B4A44aE9Df</li><li>0x3f68995899eCf008318855C1283A4A00e658bB9F</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Celo      | <ul><li>0x2b3CF1eD6BdD21E96e26224C6D585B694e13873B</li><li>0xBfeF3A72e2e2Ab88d483b232f4C3a67E4487e73B</li></ul> 
+| Celo      | <ul><li>0x2b3CF1eD6BdD21E96e26224C6D585B694e13873B</li><li>0xBfeF3A72e2e2Ab88d483b232f4C3a67E4487e73B</li></ul>
+| Clover      | <ul><li>0x04a0fd916F08b3fc1D3300E142ae7a2d85602F7f</li><li>0x2309d84C5601acAF95fF3138084e577d23592fBF</li></ul>
 
 ###### [Back to top](README.md#menu)
 ## Decentralized Application MainNet Nodes
@@ -754,6 +755,16 @@ Type | Denom (coin name) | Asset/Contract Hash | Desc
 | Wrapper               | 0x80C99516c49dB5e1F002c47c9d17ABF6208E8736  |                                         |
 
 ###### [Back to top](README.md#menu)
+## Clover
+| Type                  | Contract Hash                               | Desc                                    |
+|-----------------------|---------------------------------------------|-----------------------------------------|
+| CCD                   | 0x4D2A3234b2f2E27f03096097C4A530CAA8427681  | Cross Chain Data contract hash          |
+| CCM                   | 0xab7a3CA9bDcE476F0ECC04c127CFEe0F3D212BC5  | Eth Cross Chain Manager                 |
+| CCMP                  | 0x85472B4D353Cb89f86294b2e983ba44722bC0331  | Cross Chain Manager Proxy contract hash |
+| LockProxy             | 0x526444013Cd4D457212fF88Fe6F8e7c995DF1E40  |                                         |
+| Wrapper               | 0x5906777d34257a2b479c291871C9BFdFB922D67D  |                                         |
+
+###### [Back to top](README.md#menu)
 ## Router And ChainId
 |    Type    | Router Number |  ChainId  |
 |:----------:|:-------------:|:---------:|
@@ -787,6 +798,7 @@ Type | Denom (coin name) | Asset/Contract Hash | Desc
 |    Kava    |      0        |    32     |
 |    Cube    |       0       |    35     |
 |    Celo    |       0       |    36     |
+|    Clover  |       0       |    37     |
 
 ###### [Back to top](README.md#menu)
 ## Relayers
