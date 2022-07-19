@@ -14,7 +14,7 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 | **[Rinkeby-402](README_TestNet.md#Rinkeby)**     | **[Kovan-302](README_TestNet.md#Kovan)**              | **[Pixie-316](README_TestNet.md#Pixie)**           | **[Starcoin-318](README_TestNet.md#Starcoin)** | **[OntEvm-333](README_TestNet.md#OntEvm)**    |
 | **[Boba-400](README_TestNet.md#Boba)**           | **[Oasis-500](README_TestNet.md#Oasis)**              | **[Hsc-603](README_TestNet.md#Hsc)**               | **[Bytom-701](README_TestNet.md#Bytom)**       | **[Harmony-800](README_TestNet.md#Harmony)**  | 
 | **[Kcc-900](README_TestNet.md#Kcc)**             | **[BCS Palette-1001](README_TestNet.md#BCS-Palette)** | **[Milkomeda-810](README_TestNet.md#Milkomeda)**   | **[BCS Palette 2-1002](README_TestNet.md#BCS-Palette-2)** | **[Kava-920](README_TestNet.md#Kava)**         |
-| **[Cube-930](README_TestNet.md#Cube)**           |**[zkSync-940](README_TestNet.md#zkSync)**           |**[Celo-960](README_TestNet.md#Celo)**           |**[Clover-970](README_TestNet.md#Clover)**           |
+| **[Cube-930](README_TestNet.md#Cube)**           |**[zkSync-940](README_TestNet.md#zkSync)**           |**[Celo-960](README_TestNet.md#Celo)**           |**[Clover-970](README_TestNet.md#Clover)**           |**[Conflux-980](README_TestNet.md#Conflux)**           |
 ### Quick Index
 
 | **[Router And ChainId](README_TestNet.md#Router-And-ChainId)**   | **[Decentralized Application TestNet Nodes](README_TestNet.md#Decentralized-Application-TestNet-Nodes)**   |
@@ -588,6 +588,16 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 | WrapperV3  | 0x82E9948acA92412b8094fE649C3f32bEfFFEDb7C |                                           |
 
 ###### [Back to top](README_TestNet.md#menu)
+## Conflux
+| Type       | Contract Hash                              | Desc                                      |
+|------------|--------------------------------------------|-------------------------------------------|
+| CCD        | 0x30e6ec356ceF1cfe3c7e14392EA08448382327bD | Cross Chain Data contract hash            |
+| CCM        | 0xd6fc5374649cea121395a4860FdB33F21783c4Af | Cross Chain Manager contract hash         |
+| CCMP       | 0xD5a240f7F755bCa2aE992E807b06d24eB6DF7C12 | Cross Chain Manager Proxy contract hash   |
+| Lock Proxy | 0x0AF53d318De279C8e67FcC6914acF387CFaA8B7E | Proxy contract hash                       |
+| WrapperV3  | 0xc2d365475EEf3ec83e59D1BcDF3A291D7B23Ba99 |                                           |
+
+###### [Back to top](README_TestNet.md#menu)
 ## Router And ChainId
 |     Type      | Router Number |   ChainId    |
 |:-------------:|:-------------:|:------------:|
@@ -631,4 +641,6 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 |     zkSync     |       0       |     940      |
 |     Celo      |       0       |     960      |
 |     Clover    |       0       |     970      |
+|     Conflux    |       0       |     980      |
+
 ###### [Back to top](README_TestNet.md#menu)
