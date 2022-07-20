@@ -35,12 +35,12 @@ https://github.com/dylenfu/Zion/tree/governance
         "0x347Da040f1079C40AA76A84DeD08028D3425CC9D": {"balance": "10000000000000000000000000"},
         "0x3d7ADdF663a30Ef02E086aE9eC37c311C892AFF5": {"balance": "10000000000000000000000000"}
     },
-    "governance": {
-        "0x258af48e28e4a6846e931ddff8e1cdf8579821e5": {"Signer": "0x5Ed9a6713962f04DA057e6A949394e002855DF72"},
-        "0x6a708455c8777630aac9d1e7702d13f7a865b27c": {"Signer": "0xb06Bf71465eA8071e83a87f6b914f8FFA6829f4b"},
-        "0x8c09d936a1b408d6e0afaa537ba4e06c4504a0ae": {"Signer": "0x328C78eb1b265F380381879e8F332fbB622EBAe5"},
-        "0xad3bf5ed640cc72f37bd21d64a65c3c756e9c88c": {"Signer": "0xfEb056933BE960a183a0178249f7195AEbB74A4C"}    
-    },
+    "governance": [
+        {"Validator": "0x258af48e28e4a6846e931ddff8e1cdf8579821e5", "Signer": "0x5Ed9a6713962f04DA057e6A949394e002855DF72"},
+        {"Validator": "0x6a708455c8777630aac9d1e7702d13f7a865b27c", "Signer": "0xb06Bf71465eA8071e83a87f6b914f8FFA6829f4b"},
+        {"Validator": "0x8c09d936a1b408d6e0afaa537ba4e06c4504a0ae", "Signer": "0x328C78eb1b265F380381879e8F332fbB622EBAe5"},
+        {"Validator": "0xad3bf5ed640cc72f37bd21d64a65c3c756e9c88c", "Signer": "0xfEb056933BE960a183a0178249f7195AEbB74A4C"}
+    ],
     "community_rate": 2000,
     "community_address": "0x79ad3ca3faa0F30f4A0A2839D2DaEb4Eb6B6820D",
     "coinbase": "0x0000000000000000000000000000000000000000",
@@ -52,6 +52,38 @@ https://github.com/dylenfu/Zion/tree/governance
     "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
     "timestamp": "0x00"
 }
+```
+
+## Contract address
+```dat
+    NodeManagerContractAddress       = common.HexToAddress("0x0000000000000000000000000000000000001000")
+	EconomicContractAddress          = common.HexToAddress("0x0000000000000000000000000000000000001001")
+	InfoSyncContractAddress          = common.HexToAddress("0x0000000000000000000000000000000000001002")
+	CrossChainManagerContractAddress = common.HexToAddress("0x0000000000000000000000000000000000001003")
+	SideChainManagerContractAddress  = common.HexToAddress("0x0000000000000000000000000000000000001004")
+	RelayerManagerContractAddress    = common.HexToAddress("0x0000000000000000000000000000000000001005")
+	Neo3StateManagerContractAddress  = common.HexToAddress("0x0000000000000000000000000000000000001006")
+	SignatureManagerContractAddress  = common.HexToAddress("0x0000000000000000000000000000000000001007")
+	ProposalManagerContractAddress   = common.HexToAddress("0x0000000000000000000000000000000000001008")
+```
+
+## Cross chain router
+```dat
+NO_PROOF_ROUTER    = uint64(0)
+BTC_ROUTER         = uint64(1)
+ETH_ROUTER         = uint64(2)
+ONT_ROUTER         = uint64(3)
+NEO_ROUTER         = uint64(4)
+COSMOS_ROUTER      = uint64(5)
+BSC_ROUTER         = uint64(6)
+HECO_ROUTER        = uint64(7)
+QUORUM_ROUTER      = uint64(8)
+ZILLIQA_ROUTER     = uint64(9)
+MSC_ROUTER         = uint64(10)
+NEO3_LEGACY_ROUTER = uint64(11)
+OKEX_ROUTER        = uint64(12)
+NEO3_ROUTER        = uint64(14)
+ETH_COMMON_ROUTER  = uint64(15)
 ```
 
 ## Machine
