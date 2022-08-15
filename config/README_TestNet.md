@@ -15,6 +15,7 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 | **[Boba-400](README_TestNet.md#Boba)**           | **[Oasis-500](README_TestNet.md#Oasis)**              | **[Hsc-603](README_TestNet.md#Hsc)**               | **[Bytom-701](README_TestNet.md#Bytom)**       | **[Harmony-800](README_TestNet.md#Harmony)**  | 
 | **[Kcc-900](README_TestNet.md#Kcc)**             | **[BCS Palette-1001](README_TestNet.md#BCS-Palette)** | **[Milkomeda-810](README_TestNet.md#Milkomeda)**   | **[BCS Palette 2-1002](README_TestNet.md#BCS-Palette-2)** | **[Kava-920](README_TestNet.md#Kava)**         |
 | **[Cube-930](README_TestNet.md#Cube)**           |**[zkSync-940](README_TestNet.md#zkSync)**           |**[Celo-960](README_TestNet.md#Celo)**           |**[Clover-970](README_TestNet.md#Clover)**           |**[Conflux-980](README_TestNet.md#Conflux)**           |
+| **[Palette2-108](README_TestNet.md#Palette2)**           |||||
 ### Quick Index
 
 | **[Router And ChainId](README_TestNet.md#Router-And-ChainId)**   | **[Decentralized Application TestNet Nodes](README_TestNet.md#Decentralized-Application-TestNet-Nodes)**   |
@@ -598,6 +599,20 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 | WrapperV3  | 0xc2d365475EEf3ec83e59D1BcDF3A291D7B23Ba99 |                                           |
 
 ###### [Back to top](README_TestNet.md#menu)
+## Palette2
+
+| Type           | Contract Hash                              | Desc                                                                           |
+|----------------|--------------------------------------------|--------------------------------------------------------------------------------|
+| CCMP           | 0x51d12d8b553bc40ff2e6297841fd09567a36f347 | Cross Chain Manager Proxy contract hash                                        |
+| CCD            | 0x3d2be28da4eebfa135b672519f3a2072ce1213c1 | Cross Chain Data contract hash                                                 |
+| CCM            | 0x09ac48c414690d0e577583b7ad1174a473e32e1a | Cross Chain Manager contract hash                                              |
+| PLT Wrapper    | 0xfe510c41f375e9839826def8e31a6e647f8354bc | lock entrance for plt(erc20) auto cross chain tx without fee                   |
+| NFT Wrapper    | 0xc996f81548f7ea423c6d7d50ae9d135ccd30d616 | lock entrance for nft(erc721) auto cross chain tx without fee                  |
+| PLT Lock Proxy | 0x0000000000000000000000000000000000000103 | The PLT lock proxy contract hash |
+| NFT Lock Proxy | 0x0954f750795a3e9ede98420eee4983fb2d2621e8 | The NFT lock proxy contract hash                                        |
+| NFT Query      | 0xbbbd586b5bb1648646da612e536bca436ee73f37 | The NFT query contract hash which used to batch fetch token urls and token ids |
+
+###### [Back to top](README_TestNet.md#menu)
 ## Router And ChainId
 |     Type      | Router Number |   ChainId    |
 |:-------------:|:-------------:|:------------:|
@@ -609,6 +624,7 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 |      BSC      |       6       |      79      |
 |     Heco      |       7       |      7       |
 |    Palette    |       8       |     107      |
+|    Palette2    |      8       |     108      |
 |    Zilliqa    |      111      |     111      |
 |      OK       |      12       |     200      |
 |     Curve     |      10       |      82      |
