@@ -698,14 +698,15 @@ Type | Denom (coin name) | Asset/Contract Hash | Desc
 
 ###### [Back to top](README.md#menu)
 ## Kcc
-| Type      | Contract Hash                              | Desc                                    |
-|-----------|--------------------------------------------|-----------------------------------------|
-| CCD       | 0x4D2A3234b2f2E27f03096097C4A530CAA8427681 | Cross Chain Data contract hash          |
-| CCM       | 0xab7a3CA9bDcE476F0ECC04c127CFEe0F3D212BC5 | Eth Cross Chain Manager                 |
-| CCMP      | 0x85472B4D353Cb89f86294b2e983ba44722bC0331 | Cross Chain Manager Proxy contract hash |
-| LockProxy | 0x526444013Cd4D457212fF88Fe6F8e7c995DF1E40 |                                         |
-| WrapperV3 | 0x5906777d34257a2b479c291871C9BFdFB922D67D |                                         |
-
+| Type             | Contract Hash                              | Desc                                    |
+|------------------|--------------------------------------------|-----------------------------------------|
+| CCD              | 0x4D2A3234b2f2E27f03096097C4A530CAA8427681 | Cross Chain Data contract hash          |
+| CCM              | 0xab7a3CA9bDcE476F0ECC04c127CFEe0F3D212BC5 | Eth Cross Chain Manager                 |
+| CCMP             | 0x85472B4D353Cb89f86294b2e983ba44722bC0331 | Cross Chain Manager Proxy contract hash |
+| LockProxy        | 0x526444013Cd4D457212fF88Fe6F8e7c995DF1E40 |                                         |
+| WrapperV3        | 0x5906777d34257a2b479c291871C9BFdFB922D67D |                                         |
+| KCC Bridge-O3V2  | 0x87aD18124819B4018288D8A94973856ebd6eEeA1 | KCC Bridge for O3V2                     |
+| KCC Wrapper-O3V2 | 0x82B0FFE1DC686DA0F8535bF99A8538cD414e2fd5 | KCC Wrapper for O3V2                    |
 ###### [Back to top](README.md#menu)
 ## Starcoin
 | Type                                 | Contract Hash                                                                                                                                                           | Desc                                                 |
