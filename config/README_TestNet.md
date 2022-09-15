@@ -603,13 +603,13 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 
 | Type           | Contract Hash                              | Desc                                                                           |
 |----------------|--------------------------------------------|--------------------------------------------------------------------------------|
-| CCMP           | 0x51d12d8b553bc40ff2e6297841fd09567a36f347 | Cross Chain Manager Proxy contract hash                                        |
-| CCD            | 0x3d2be28da4eebfa135b672519f3a2072ce1213c1 | Cross Chain Data contract hash                                                 |
-| CCM            | 0x09ac48c414690d0e577583b7ad1174a473e32e1a | Cross Chain Manager contract hash                                              |
+| CCMP           | 0x06a7703a8a6c49a39645d6b7d3ebe1286396d895 | Cross Chain Manager Proxy contract hash                                        |
+| CCD            | 0x3fea1db1874ac617b1bfc9a840a2739d76c971ca | Cross Chain Data contract hash                                                 |
+| CCM            | 0x719f82731a344a0d5ee20d4d450fd5de69884231 | Cross Chain Manager contract hash                                              |
 | PLT Wrapper    | 0xfe510c41f375e9839826def8e31a6e647f8354bc | lock entrance for plt(erc20) auto cross chain tx without fee                   |
 | NFT Wrapper    | 0xc996f81548f7ea423c6d7d50ae9d135ccd30d616 | lock entrance for nft(erc721) auto cross chain tx without fee                  |
 | PLT Lock Proxy | 0x0000000000000000000000000000000000000103 | The PLT lock proxy contract hash |
-| NFT Lock Proxy | 0x0954f750795a3e9ede98420eee4983fb2d2621e8 | The NFT lock proxy contract hash                                        |
+| NFT Lock Proxy | 0x6a2f27a2fd470d52a7304ca98815dfcdb46d98e7 | The NFT lock proxy contract hash                                        |
 | NFT Query      | 0xbbbd586b5bb1648646da612e536bca436ee73f37 | The NFT query contract hash which used to batch fetch token urls and token ids |
 
 ###### [Back to top](README_TestNet.md#menu)
